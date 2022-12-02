@@ -1,0 +1,143 @@
+12/27/2021 03:51:44 PM : Ready for training...
+12/27/2021 03:51:48 PM : ar: False
+12/27/2021 03:53:57 PM : Ready for training...
+12/27/2021 03:54:00 PM : ar: False
+12/27/2021 03:54:44 PM : batch 200/7871 | train neglogev 213.59 
+12/27/2021 03:55:24 PM : batch 400/7871 | train neglogev 202.674 
+12/27/2021 03:56:11 PM : batch 600/7871 | train neglogev 199.023 
+12/27/2021 03:56:57 PM : batch 800/7871 | train neglogev 194.709 
+12/27/2021 03:57:39 PM : batch 1000/7871 | train neglogev 189.848 
+12/27/2021 03:59:05 PM : batch 1400/7871 | train neglogev 183.317 
+12/27/2021 04:00:35 PM : batch 1800/7871 | train neglogev 181 
+12/27/2021 04:01:20 PM : batch 2000/7871 | train neglogev 178.814 
+12/27/2021 04:02:05 PM : batch 2200/7871 | train neglogev 176.796 
+12/27/2021 04:02:49 PM : batch 2400/7871 | train neglogev 176.604 
+12/27/2021 04:04:17 PM : batch 2800/7871 | train neglogev 174.256 
+12/27/2021 04:05:04 PM : batch 3000/7871 | train neglogev 173.866 
+12/27/2021 04:05:46 PM : batch 3200/7871 | train neglogev 173.083 
+12/27/2021 04:06:29 PM : batch 3400/7871 | train neglogev 172.247 
+12/27/2021 04:07:14 PM : batch 3600/7871 | train neglogev 171.545 
+12/27/2021 04:07:55 PM : batch 3800/7871 | train neglogev 170.347 
+12/27/2021 04:08:38 PM : batch 4000/7871 | train neglogev 169.767 
+12/27/2021 04:09:20 PM : batch 4200/7871 | train neglogev 168.598 
+12/27/2021 04:10:03 PM : batch 4400/7871 | train neglogev 167.873 
+12/27/2021 04:10:46 PM : batch 4600/7871 | train neglogev 167.165 
+12/27/2021 04:11:31 PM : batch 4800/7871 | train neglogev 166.474 
+12/27/2021 04:12:16 PM : batch 5000/7871 | train neglogev 165.751 
+12/27/2021 04:12:59 PM : batch 5200/7871 | train neglogev 165.176 
+12/27/2021 04:13:46 PM : batch 5400/7871 | train neglogev 165.128 
+12/27/2021 04:14:28 PM : batch 5600/7871 | train neglogev 164.168 
+12/27/2021 04:15:12 PM : batch 5800/7871 | train neglogev 163.802 
+12/27/2021 04:15:57 PM : batch 6000/7871 | train neglogev 163.547 
+12/27/2021 04:16:41 PM : batch 6200/7871 | train neglogev 163.159 
+12/27/2021 04:17:26 PM : batch 6400/7871 | train neglogev 163.07 
+12/27/2021 04:18:08 PM : batch 6600/7871 | train neglogev 162.61 
+12/27/2021 04:18:54 PM : batch 6800/7871 | train neglogev 162.347 
+12/27/2021 04:19:37 PM : batch 7000/7871 | train neglogev 161.987 
+12/27/2021 04:20:19 PM : batch 7200/7871 | train neglogev 161.664 
+12/27/2021 04:21:00 PM : batch 7400/7871 | train neglogev 161.334 
+12/27/2021 04:22:26 PM : batch 7800/7871 | train neglogev 161.023 
+12/27/2021 04:22:41 PM : epoch 1 | train neglogev 160.894 
+12/27/2021 04:23:42 PM : epoch 1 | valid neglogev 143.787
+12/27/2021 04:23:42 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail.pt
+12/27/2021 04:23:42 PM : decay_count: 0
+12/27/2021 04:23:42 PM : now lr: 0.500000
+12/27/2021 04:23:42 PM : Done
+12/27/2021 04:23:42 PM : ar: False
+12/27/2021 04:24:27 PM : batch 200/7871 | train neglogev 154.452 
+12/27/2021 04:25:11 PM : batch 400/7871 | train neglogev 153.884 
+12/27/2021 04:25:54 PM : batch 600/7871 | train neglogev 150.392 
+12/27/2021 04:26:38 PM : batch 800/7871 | train neglogev 151.751 
+12/27/2021 04:27:21 PM : batch 1000/7871 | train neglogev 150.231 
+12/27/2021 04:28:04 PM : batch 1200/7871 | train neglogev 149.786 
+12/27/2021 04:28:49 PM : batch 1400/7871 | train neglogev 150.5 
+12/27/2021 04:29:36 PM : batch 1600/7871 | train neglogev 151.164 
+12/27/2021 04:30:22 PM : batch 1800/7871 | train neglogev 150.302 
+12/27/2021 04:31:03 PM : batch 2000/7871 | train neglogev 150.07 
+12/27/2021 04:31:47 PM : batch 2200/7871 | train neglogev 149.931 
+12/27/2021 04:32:31 PM : batch 2400/7871 | train neglogev 149.179 
+12/27/2021 04:33:15 PM : batch 2600/7871 | train neglogev 149.103 
+12/27/2021 04:33:57 PM : batch 2800/7871 | train neglogev 148.791 
+12/27/2021 04:34:37 PM : batch 3000/7871 | train neglogev 148.09 
+12/27/2021 04:35:19 PM : batch 3200/7871 | train neglogev 147.724 
+12/27/2021 04:36:00 PM : batch 3400/7871 | train neglogev 147.597 
+12/27/2021 04:36:39 PM : batch 3600/7871 | train neglogev 147.329 
+12/27/2021 04:37:21 PM : batch 3800/7871 | train neglogev 147.21 
+12/27/2021 04:38:03 PM : batch 4000/7871 | train neglogev 147.085 
+12/27/2021 04:38:45 PM : batch 4200/7871 | train neglogev 146.791 
+12/27/2021 04:39:26 PM : batch 4400/7871 | train neglogev 146.751 
+12/27/2021 04:40:08 PM : batch 4600/7871 | train neglogev 146.868 
+12/27/2021 04:40:48 PM : batch 4800/7871 | train neglogev 146.404 
+12/27/2021 04:41:28 PM : batch 5000/7871 | train neglogev 146.123 
+12/27/2021 04:42:47 PM : batch 5400/7871 | train neglogev 146.123 
+12/27/2021 04:44:10 PM : batch 5800/7871 | train neglogev 145.868 
+12/27/2021 04:44:52 PM : batch 6000/7871 | train neglogev 145.915 
+12/27/2021 04:45:32 PM : batch 6200/7871 | train neglogev 145.659 
+12/27/2021 04:46:50 PM : batch 6600/7871 | train neglogev 145.18 
+12/27/2021 04:47:31 PM : batch 6800/7871 | train neglogev 144.897 
+12/27/2021 04:48:11 PM : batch 7000/7871 | train neglogev 144.899 
+12/27/2021 04:48:51 PM : batch 7200/7871 | train neglogev 144.623 
+12/27/2021 04:49:32 PM : batch 7400/7871 | train neglogev 144.846 
+12/27/2021 04:50:12 PM : batch 7600/7871 | train neglogev 144.766 
+12/27/2021 04:50:52 PM : batch 7800/7871 | train neglogev 144.878 
+12/27/2021 04:51:06 PM : epoch 2 | train neglogev 144.81 
+12/27/2021 04:52:04 PM : epoch 2 | valid neglogev 139.209
+12/27/2021 04:52:04 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail.pt
+12/27/2021 04:52:04 PM : decay_count: 0
+12/27/2021 04:52:04 PM : now lr: 0.500000
+12/27/2021 04:52:04 PM : Done
+12/27/2021 04:52:04 PM : ar: False
+12/27/2021 04:52:43 PM : batch 200/7871 | train neglogev 139.243 
+12/27/2021 04:53:25 PM : batch 400/7871 | train neglogev 140.685 
+12/27/2021 04:54:06 PM : batch 600/7871 | train neglogev 141.796 
+12/27/2021 04:55:26 PM : batch 1000/7871 | train neglogev 141.071 
+12/27/2021 04:56:06 PM : batch 1200/7871 | train neglogev 141.316 
+12/27/2021 04:56:48 PM : batch 1400/7871 | train neglogev 140.88 
+12/27/2021 04:57:29 PM : batch 1600/7871 | train neglogev 139.643 
+12/27/2021 04:58:55 PM : batch 2000/7871 | train neglogev 141.569 
+12/27/2021 04:59:35 PM : batch 2200/7871 | train neglogev 141.043 
+12/27/2021 05:00:15 PM : batch 2400/7871 | train neglogev 141.612 
+12/27/2021 05:01:39 PM : batch 2800/7871 | train neglogev 142.03 
+12/27/2021 05:02:19 PM : batch 3000/7871 | train neglogev 142.01 
+12/27/2021 05:02:59 PM : batch 3200/7871 | train neglogev 141.436 
+12/27/2021 05:03:39 PM : batch 3400/7871 | train neglogev 141.648 
+12/27/2021 05:04:20 PM : batch 3600/7871 | train neglogev 141.117 
+12/27/2021 05:05:03 PM : batch 3800/7871 | train neglogev 140.983 
+12/27/2021 05:05:41 PM : batch 4000/7871 | train neglogev 140.291 
+12/27/2021 05:06:20 PM : batch 4200/7871 | train neglogev 140.178 
+12/27/2021 05:07:01 PM : batch 4400/7871 | train neglogev 140.308 
+12/27/2021 05:07:42 PM : batch 4600/7871 | train neglogev 140.143 
+12/27/2021 05:08:25 PM : batch 4800/7871 | train neglogev 140.323 
+12/27/2021 05:09:07 PM : batch 5000/7871 | train neglogev 140.892 
+12/27/2021 05:09:47 PM : batch 5200/7871 | train neglogev 140.587 
+12/27/2021 05:11:09 PM : batch 5600/7871 | train neglogev 140.332 
+12/27/2021 05:11:51 PM : batch 5800/7871 | train neglogev 140.28 
+12/27/2021 05:12:33 PM : batch 6000/7871 | train neglogev 140.122 
+12/27/2021 05:13:57 PM : batch 6400/7871 | train neglogev 140.134 
+12/27/2021 05:14:37 PM : batch 6600/7871 | train neglogev 140.164 
+12/27/2021 05:15:16 PM : batch 6800/7871 | train neglogev 140.012 
+12/27/2021 05:15:59 PM : batch 7000/7871 | train neglogev 139.939 
+12/27/2021 05:16:38 PM : batch 7200/7871 | train neglogev 139.688 
+12/27/2021 05:17:21 PM : batch 7400/7871 | train neglogev 139.836 
+12/27/2021 05:18:04 PM : batch 7600/7871 | train neglogev 140.089 
+12/27/2021 05:18:46 PM : batch 7800/7871 | train neglogev 140.038 
+12/27/2021 05:19:00 PM : epoch 3 | train neglogev 140.108 
+12/27/2021 05:19:58 PM : epoch 3 | valid neglogev 134.093
+12/27/2021 05:19:58 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail.pt
+12/27/2021 05:19:58 PM : decay_count: 0
+12/27/2021 05:19:58 PM : now lr: 0.500000
+12/27/2021 05:19:58 PM : Done
+12/27/2021 05:19:58 PM : ar: False
+12/27/2021 05:21:20 PM : batch 400/7871 | train neglogev 136.509 
+12/27/2021 05:22:00 PM : batch 600/7871 | train neglogev 136.739 
+12/27/2021 05:22:42 PM : batch 800/7871 | train neglogev 137.855 
+12/27/2021 05:24:06 PM : batch 1200/7871 | train neglogev 138.537 
+12/27/2021 05:24:45 PM : batch 1400/7871 | train neglogev 138.397 
+12/27/2021 05:25:28 PM : batch 1600/7871 | train neglogev 138.072 
+12/27/2021 05:26:08 PM : batch 1800/7871 | train neglogev 137.775 
+12/27/2021 05:26:49 PM : batch 2000/7871 | train neglogev 137.397 
+12/27/2021 05:27:29 PM : batch 2200/7871 | train neglogev 136.958 
+12/27/2021 05:28:07 PM : batch 2400/7871 | train neglogev 136.113 
+12/27/2021 05:28:49 PM : batch 2600/7871 | train neglogev 136.432 
+12/27/2021 05:29:32 PM : batch 2800/7871 | train neglogev 136.637 
+12/27/2021 05:30:51 PM : batch 3200/7871 | train neglogev 136.504 

@@ -1,0 +1,3048 @@
+02/28/2022 02:43:46 PM : Ready for training...
+02/28/2022 02:43:49 PM : ar: False
+02/28/2022 02:44:33 PM : batch 200/7891 | train neglogev 216.32 
+02/28/2022 02:45:17 PM : batch 400/7891 | train neglogev 204.955 
+02/28/2022 02:46:48 PM : batch 800/7891 | train neglogev 198.492 
+02/28/2022 02:47:32 PM : batch 1000/7891 | train neglogev 194.594 
+02/28/2022 02:48:59 PM : batch 1400/7891 | train neglogev 188.754 
+02/28/2022 02:49:44 PM : batch 1600/7891 | train neglogev 184.784 
+02/28/2022 02:50:30 PM : batch 1800/7891 | train neglogev 183.321 
+02/28/2022 02:51:15 PM : batch 2000/7891 | train neglogev 180.505 
+02/28/2022 02:52:02 PM : batch 2200/7891 | train neglogev 178.719 
+02/28/2022 02:52:46 PM : batch 2400/7891 | train neglogev 176.112 
+02/28/2022 02:54:14 PM : batch 2800/7891 | train neglogev 172.815 
+02/28/2022 02:54:58 PM : batch 3000/7891 | train neglogev 171.476 
+02/28/2022 02:55:40 PM : batch 3200/7891 | train neglogev 169.668 
+02/28/2022 02:56:23 PM : batch 3400/7891 | train neglogev 168.543 
+02/28/2022 02:57:50 PM : batch 3800/7891 | train neglogev 166.542 
+02/28/2022 02:59:15 PM : batch 4200/7891 | train neglogev 164.396 
+02/28/2022 02:59:59 PM : batch 4400/7891 | train neglogev 163.318 
+02/28/2022 03:00:43 PM : batch 4600/7891 | train neglogev 162.609 
+02/28/2022 03:01:27 PM : batch 4800/7891 | train neglogev 161.756 
+02/28/2022 03:02:54 PM : batch 5200/7891 | train neglogev 160.505 
+02/28/2022 03:03:39 PM : batch 5400/7891 | train neglogev 160.091 
+02/28/2022 03:04:24 PM : batch 5600/7891 | train neglogev 159.522 
+02/28/2022 03:05:07 PM : batch 5800/7891 | train neglogev 158.922 
+02/28/2022 03:06:35 PM : batch 6200/7891 | train neglogev 157.757 
+02/28/2022 03:07:19 PM : batch 6400/7891 | train neglogev 157.282 
+02/28/2022 03:08:03 PM : batch 6600/7891 | train neglogev 156.779 
+02/28/2022 03:08:49 PM : batch 6800/7891 | train neglogev 156.28 
+02/28/2022 03:09:32 PM : batch 7000/7891 | train neglogev 155.752 
+02/28/2022 03:10:16 PM : batch 7200/7891 | train neglogev 155.077 
+02/28/2022 03:11:00 PM : batch 7400/7891 | train neglogev 154.675 
+02/28/2022 03:11:45 PM : batch 7600/7891 | train neglogev 154.13 
+02/28/2022 03:12:31 PM : batch 7800/7891 | train neglogev 153.81 
+02/28/2022 03:12:53 PM : epoch 1 | train neglogev 153.78 
+02/28/2022 03:13:53 PM : epoch 1 | valid neglogev 133.788
+02/28/2022 03:13:53 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+02/28/2022 03:13:53 PM : decay_count: 0
+02/28/2022 03:13:53 PM : now lr: 0.500000
+02/28/2022 03:13:53 PM : Done
+02/28/2022 03:13:53 PM : ar: False
+02/28/2022 03:14:36 PM : batch 200/7891 | train neglogev 134.197 
+02/28/2022 03:15:18 PM : batch 400/7891 | train neglogev 135.391 
+02/28/2022 03:16:03 PM : batch 600/7891 | train neglogev 137.076 
+02/28/2022 03:16:46 PM : batch 800/7891 | train neglogev 136.466 
+02/28/2022 03:17:30 PM : batch 1000/7891 | train neglogev 138.018 
+02/28/2022 03:18:15 PM : batch 1200/7891 | train neglogev 137.995 
+02/28/2022 03:18:58 PM : batch 1400/7891 | train neglogev 138.373 
+02/28/2022 03:19:41 PM : batch 1600/7891 | train neglogev 137.975 
+02/28/2022 03:20:28 PM : batch 1800/7891 | train neglogev 138.925 
+02/28/2022 03:21:56 PM : batch 2200/7891 | train neglogev 137.386 
+02/28/2022 03:22:40 PM : batch 2400/7891 | train neglogev 137.12 
+02/28/2022 03:24:07 PM : batch 2800/7891 | train neglogev 136.402 
+02/28/2022 03:25:38 PM : batch 3200/7891 | train neglogev 136.089 
+02/28/2022 03:26:24 PM : batch 3400/7891 | train neglogev 135.71 
+02/28/2022 03:28:34 PM : batch 4000/7891 | train neglogev 135.861 
+02/28/2022 03:29:23 PM : batch 4200/7891 | train neglogev 136.352 
+02/28/2022 03:30:06 PM : batch 4400/7891 | train neglogev 136.006 
+02/28/2022 03:30:51 PM : batch 4600/7891 | train neglogev 135.846 
+02/28/2022 03:32:19 PM : batch 5000/7891 | train neglogev 135.606 
+02/28/2022 03:33:02 PM : batch 5200/7891 | train neglogev 135.693 
+02/28/2022 03:33:46 PM : batch 5400/7891 | train neglogev 135.947 
+02/28/2022 03:34:31 PM : batch 5600/7891 | train neglogev 135.919 
+02/28/2022 03:35:16 PM : batch 5800/7891 | train neglogev 136.007 
+02/28/2022 03:36:01 PM : batch 6000/7891 | train neglogev 135.728 
+02/28/2022 03:36:46 PM : batch 6200/7891 | train neglogev 135.613 
+02/28/2022 03:37:29 PM : batch 6400/7891 | train neglogev 135.451 
+02/28/2022 03:38:15 PM : batch 6600/7891 | train neglogev 135.387 
+02/28/2022 03:39:46 PM : batch 7000/7891 | train neglogev 135.351 
+02/28/2022 03:40:29 PM : batch 7200/7891 | train neglogev 135.362 
+02/28/2022 03:41:13 PM : batch 7400/7891 | train neglogev 135.194 
+02/28/2022 03:42:41 PM : batch 7800/7891 | train neglogev 135.267 
+02/28/2022 03:43:00 PM : epoch 2 | train neglogev 135.357 
+02/28/2022 03:44:01 PM : epoch 2 | valid neglogev 128.209
+02/28/2022 03:44:01 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+02/28/2022 03:44:01 PM : decay_count: 0
+02/28/2022 03:44:01 PM : now lr: 0.500000
+02/28/2022 03:44:01 PM : Done
+02/28/2022 03:44:01 PM : ar: False
+02/28/2022 03:44:43 PM : batch 200/7891 | train neglogev 126.049 
+02/28/2022 03:45:27 PM : batch 400/7891 | train neglogev 128.758 
+02/28/2022 03:46:11 PM : batch 600/7891 | train neglogev 129.356 
+02/28/2022 03:46:57 PM : batch 800/7891 | train neglogev 131.885 
+02/28/2022 03:47:43 PM : batch 1000/7891 | train neglogev 132.345 
+02/28/2022 03:49:14 PM : batch 1400/7891 | train neglogev 133.768 
+02/28/2022 03:49:56 PM : batch 1600/7891 | train neglogev 132.918 
+02/28/2022 03:50:42 PM : batch 1800/7891 | train neglogev 132.433 
+02/28/2022 03:51:25 PM : batch 2000/7891 | train neglogev 131.932 
+02/28/2022 03:52:07 PM : batch 2200/7891 | train neglogev 131.034 
+02/28/2022 03:53:36 PM : batch 2600/7891 | train neglogev 131.115 
+02/28/2022 03:55:02 PM : batch 3000/7891 | train neglogev 131.089 
+02/28/2022 03:55:47 PM : batch 3200/7891 | train neglogev 131.065 
+02/28/2022 03:56:30 PM : batch 3400/7891 | train neglogev 131.115 
+02/28/2022 03:57:15 PM : batch 3600/7891 | train neglogev 131.097 
+02/28/2022 03:57:58 PM : batch 3800/7891 | train neglogev 130.994 
+02/28/2022 03:58:43 PM : batch 4000/7891 | train neglogev 131.215 
+02/28/2022 03:59:27 PM : batch 4200/7891 | train neglogev 131.18 
+02/28/2022 04:00:15 PM : batch 4400/7891 | train neglogev 131.533 
+02/28/2022 04:01:00 PM : batch 4600/7891 | train neglogev 131.419 
+02/28/2022 04:01:42 PM : batch 4800/7891 | train neglogev 131.043 
+02/28/2022 04:02:26 PM : batch 5000/7891 | train neglogev 131.082 
+02/28/2022 04:03:13 PM : batch 5200/7891 | train neglogev 131.292 
+02/28/2022 04:06:11 PM : batch 6000/7891 | train neglogev 131.469 
+02/28/2022 04:06:53 PM : batch 6200/7891 | train neglogev 131.27 
+02/28/2022 04:07:38 PM : batch 6400/7891 | train neglogev 131.283 
+02/28/2022 04:09:05 PM : batch 6800/7891 | train neglogev 131.095 
+02/28/2022 04:09:52 PM : batch 7000/7891 | train neglogev 131.404 
+02/28/2022 04:10:35 PM : batch 7200/7891 | train neglogev 131.293 
+02/28/2022 04:11:20 PM : batch 7400/7891 | train neglogev 131.286 
+02/28/2022 04:12:04 PM : batch 7600/7891 | train neglogev 131.299 
+02/28/2022 04:12:48 PM : batch 7800/7891 | train neglogev 131.324 
+02/28/2022 04:13:09 PM : epoch 3 | train neglogev 131.393 
+02/28/2022 04:14:09 PM : epoch 3 | valid neglogev 127.055
+02/28/2022 04:14:09 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+02/28/2022 04:14:09 PM : decay_count: 0
+02/28/2022 04:14:09 PM : now lr: 0.500000
+02/28/2022 04:14:09 PM : Done
+02/28/2022 04:14:09 PM : ar: False
+02/28/2022 04:14:53 PM : batch 200/7891 | train neglogev 129.683 
+02/28/2022 04:15:39 PM : batch 400/7891 | train neglogev 129.969 
+02/28/2022 04:17:51 PM : batch 1000/7891 | train neglogev 127.233 
+02/28/2022 04:18:37 PM : batch 1200/7891 | train neglogev 129.035 
+02/28/2022 04:19:21 PM : batch 1400/7891 | train neglogev 128.636 
+02/28/2022 04:20:03 PM : batch 1600/7891 | train neglogev 128.429 
+02/28/2022 04:20:48 PM : batch 1800/7891 | train neglogev 128.313 
+02/28/2022 04:21:34 PM : batch 2000/7891 | train neglogev 128.978 
+02/28/2022 04:22:18 PM : batch 2200/7891 | train neglogev 129.149 
+02/28/2022 04:23:04 PM : batch 2400/7891 | train neglogev 129.556 
+02/28/2022 04:23:48 PM : batch 2600/7891 | train neglogev 128.94 
+02/28/2022 04:24:32 PM : batch 2800/7891 | train neglogev 128.823 
+02/28/2022 04:25:17 PM : batch 3000/7891 | train neglogev 129.307 
+02/28/2022 04:25:59 PM : batch 3200/7891 | train neglogev 129.058 
+02/28/2022 04:26:44 PM : batch 3400/7891 | train neglogev 129.002 
+02/28/2022 04:27:28 PM : batch 3600/7891 | train neglogev 128.853 
+02/28/2022 04:28:15 PM : batch 3800/7891 | train neglogev 129.138 
+02/28/2022 04:28:58 PM : batch 4000/7891 | train neglogev 129.036 
+02/28/2022 04:29:43 PM : batch 4200/7891 | train neglogev 129.45 
+02/28/2022 04:30:29 PM : batch 4400/7891 | train neglogev 129.753 
+02/28/2022 04:31:11 PM : batch 4600/7891 | train neglogev 129.76 
+02/28/2022 04:32:38 PM : batch 5000/7891 | train neglogev 129.645 
+02/28/2022 04:33:22 PM : batch 5200/7891 | train neglogev 129.772 
+02/28/2022 04:34:10 PM : batch 5400/7891 | train neglogev 130.003 
+02/28/2022 04:34:52 PM : batch 5600/7891 | train neglogev 129.799 
+02/28/2022 04:35:36 PM : batch 5800/7891 | train neglogev 129.688 
+02/28/2022 04:36:18 PM : batch 6000/7891 | train neglogev 129.492 
+02/28/2022 04:37:02 PM : batch 6200/7891 | train neglogev 129.396 
+02/28/2022 04:37:48 PM : batch 6400/7891 | train neglogev 129.562 
+02/28/2022 04:38:31 PM : batch 6600/7891 | train neglogev 129.578 
+02/28/2022 04:39:15 PM : batch 6800/7891 | train neglogev 129.528 
+02/28/2022 04:41:28 PM : batch 7400/7891 | train neglogev 129.557 
+02/28/2022 04:42:13 PM : batch 7600/7891 | train neglogev 129.429 
+02/28/2022 04:42:57 PM : batch 7800/7891 | train neglogev 129.434 
+02/28/2022 04:43:17 PM : epoch 4 | train neglogev 129.188 
+02/28/2022 04:44:18 PM : epoch 4 | valid neglogev 126.258
+02/28/2022 04:44:18 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+02/28/2022 04:44:18 PM : decay_count: 0
+02/28/2022 04:44:18 PM : now lr: 0.500000
+02/28/2022 04:44:18 PM : Done
+02/28/2022 04:44:18 PM : ar: False
+02/28/2022 04:45:44 PM : batch 400/7891 | train neglogev 123.64 
+02/28/2022 04:46:29 PM : batch 600/7891 | train neglogev 125.064 
+02/28/2022 04:47:13 PM : batch 800/7891 | train neglogev 125.609 
+02/28/2022 04:47:57 PM : batch 1000/7891 | train neglogev 125.829 
+02/28/2022 04:48:41 PM : batch 1200/7891 | train neglogev 126.866 
+02/28/2022 04:49:25 PM : batch 1400/7891 | train neglogev 127.018 
+02/28/2022 04:51:35 PM : batch 2000/7891 | train neglogev 127.827 
+02/28/2022 04:53:03 PM : batch 2400/7891 | train neglogev 127.8 
+02/28/2022 04:53:47 PM : batch 2600/7891 | train neglogev 127.642 
+02/28/2022 04:55:15 PM : batch 3000/7891 | train neglogev 127.555 
+02/28/2022 04:56:01 PM : batch 3200/7891 | train neglogev 127.997 
+02/28/2022 04:56:47 PM : batch 3400/7891 | train neglogev 128.094 
+02/28/2022 04:58:17 PM : batch 3800/7891 | train neglogev 128.129 
+02/28/2022 04:59:45 PM : batch 4200/7891 | train neglogev 128.274 
+02/28/2022 05:00:28 PM : batch 4400/7891 | train neglogev 128.049 
+02/28/2022 05:01:54 PM : batch 4800/7891 | train neglogev 127.539 
+02/28/2022 05:02:40 PM : batch 5000/7891 | train neglogev 127.652 
+02/28/2022 05:03:24 PM : batch 5200/7891 | train neglogev 127.816 
+02/28/2022 05:04:07 PM : batch 5400/7891 | train neglogev 127.605 
+02/28/2022 05:04:54 PM : batch 5600/7891 | train neglogev 127.897 
+02/28/2022 05:05:37 PM : batch 5800/7891 | train neglogev 127.868 
+02/28/2022 05:06:22 PM : batch 6000/7891 | train neglogev 128.013 
+02/28/2022 05:07:05 PM : batch 6200/7891 | train neglogev 127.924 
+02/28/2022 05:07:50 PM : batch 6400/7891 | train neglogev 127.891 
+02/28/2022 05:08:35 PM : batch 6600/7891 | train neglogev 127.77 
+02/28/2022 05:09:18 PM : batch 6800/7891 | train neglogev 127.79 
+02/28/2022 05:10:04 PM : batch 7000/7891 | train neglogev 127.828 
+02/28/2022 05:10:48 PM : batch 7200/7891 | train neglogev 127.63 
+02/28/2022 05:11:34 PM : batch 7400/7891 | train neglogev 127.73 
+02/28/2022 05:12:19 PM : batch 7600/7891 | train neglogev 127.66 
+02/28/2022 05:13:26 PM : epoch 5 | train neglogev 127.778 
+02/28/2022 05:14:27 PM : epoch 5 | valid neglogev 126.049
+02/28/2022 05:14:27 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+02/28/2022 05:14:27 PM : decay_count: 0
+02/28/2022 05:14:27 PM : now lr: 0.500000
+02/28/2022 05:14:27 PM : Done
+02/28/2022 05:14:27 PM : ar: False
+02/28/2022 05:15:09 PM : batch 200/7891 | train neglogev 120.884 
+02/28/2022 05:15:53 PM : batch 400/7891 | train neglogev 126.241 
+02/28/2022 05:16:38 PM : batch 600/7891 | train neglogev 128.047 
+02/28/2022 05:17:22 PM : batch 800/7891 | train neglogev 126.503 
+02/28/2022 05:18:06 PM : batch 1000/7891 | train neglogev 129.34 
+02/28/2022 05:18:52 PM : batch 1200/7891 | train neglogev 130.447 
+02/28/2022 05:19:37 PM : batch 1400/7891 | train neglogev 130.366 
+02/28/2022 05:20:23 PM : batch 1600/7891 | train neglogev 130.556 
+02/28/2022 05:21:49 PM : batch 2000/7891 | train neglogev 128.806 
+02/28/2022 05:23:15 PM : batch 2400/7891 | train neglogev 128.341 
+02/28/2022 05:23:59 PM : batch 2600/7891 | train neglogev 128.247 
+02/28/2022 05:24:44 PM : batch 2800/7891 | train neglogev 128.006 
+02/28/2022 05:25:28 PM : batch 3000/7891 | train neglogev 127.995 
+02/28/2022 05:26:11 PM : batch 3200/7891 | train neglogev 127.724 
+02/28/2022 05:26:55 PM : batch 3400/7891 | train neglogev 127.248 
+02/28/2022 05:28:26 PM : batch 3800/7891 | train neglogev 127.06 
+02/28/2022 05:29:53 PM : batch 4200/7891 | train neglogev 126.526 
+02/28/2022 05:30:36 PM : batch 4400/7891 | train neglogev 126.604 
+02/28/2022 05:31:20 PM : batch 4600/7891 | train neglogev 126.594 
+02/28/2022 05:32:03 PM : batch 4800/7891 | train neglogev 126.466 
+02/28/2022 05:32:46 PM : batch 5000/7891 | train neglogev 126.479 
+02/28/2022 05:33:33 PM : batch 5200/7891 | train neglogev 126.501 
+02/28/2022 05:34:18 PM : batch 5400/7891 | train neglogev 126.469 
+02/28/2022 05:35:03 PM : batch 5600/7891 | train neglogev 126.538 
+02/28/2022 05:35:47 PM : batch 5800/7891 | train neglogev 126.474 
+02/28/2022 05:36:33 PM : batch 6000/7891 | train neglogev 126.614 
+02/28/2022 05:37:19 PM : batch 6200/7891 | train neglogev 126.718 
+02/28/2022 05:38:03 PM : batch 6400/7891 | train neglogev 126.842 
+02/28/2022 05:38:49 PM : batch 6600/7891 | train neglogev 126.8 
+02/28/2022 05:39:32 PM : batch 6800/7891 | train neglogev 126.736 
+02/28/2022 05:40:19 PM : batch 7000/7891 | train neglogev 126.807 
+02/28/2022 05:42:29 PM : batch 7600/7891 | train neglogev 126.619 
+02/28/2022 05:43:16 PM : batch 7800/7891 | train neglogev 126.91 
+02/28/2022 05:43:37 PM : epoch 6 | train neglogev 126.79 
+02/28/2022 05:44:38 PM : epoch 6 | valid neglogev 125.452
+02/28/2022 05:44:38 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+02/28/2022 05:44:38 PM : decay_count: 0
+02/28/2022 05:44:38 PM : now lr: 0.500000
+02/28/2022 05:44:38 PM : Done
+02/28/2022 05:44:38 PM : ar: False
+02/28/2022 05:45:21 PM : batch 200/7891 | train neglogev 133.797 
+02/28/2022 05:46:02 PM : batch 400/7891 | train neglogev 125.593 
+02/28/2022 05:46:46 PM : batch 600/7891 | train neglogev 123.724 
+02/28/2022 05:47:30 PM : batch 800/7891 | train neglogev 122.483 
+02/28/2022 05:48:15 PM : batch 1000/7891 | train neglogev 124.351 
+02/28/2022 05:49:00 PM : batch 1200/7891 | train neglogev 124.075 
+02/28/2022 05:49:45 PM : batch 1400/7891 | train neglogev 124.533 
+02/28/2022 05:50:30 PM : batch 1600/7891 | train neglogev 125.494 
+02/28/2022 05:51:15 PM : batch 1800/7891 | train neglogev 125.989 
+02/28/2022 05:51:57 PM : batch 2000/7891 | train neglogev 125.56 
+02/28/2022 05:52:41 PM : batch 2200/7891 | train neglogev 125.696 
+02/28/2022 05:53:25 PM : batch 2400/7891 | train neglogev 125.516 
+02/28/2022 05:54:12 PM : batch 2600/7891 | train neglogev 126.146 
+02/28/2022 05:54:56 PM : batch 2800/7891 | train neglogev 125.981 
+02/28/2022 05:55:41 PM : batch 3000/7891 | train neglogev 125.804 
+02/28/2022 05:56:29 PM : batch 3200/7891 | train neglogev 126.218 
+02/28/2022 05:57:12 PM : batch 3400/7891 | train neglogev 126.088 
+02/28/2022 05:57:56 PM : batch 3600/7891 | train neglogev 126.194 
+02/28/2022 05:58:39 PM : batch 3800/7891 | train neglogev 126.194 
+02/28/2022 05:59:23 PM : batch 4000/7891 | train neglogev 125.929 
+02/28/2022 06:00:08 PM : batch 4200/7891 | train neglogev 125.962 
+02/28/2022 06:01:34 PM : batch 4600/7891 | train neglogev 126.146 
+02/28/2022 06:02:19 PM : batch 4800/7891 | train neglogev 126.29 
+02/28/2022 06:03:03 PM : batch 5000/7891 | train neglogev 126.394 
+02/28/2022 06:03:50 PM : batch 5200/7891 | train neglogev 126.488 
+02/28/2022 06:04:32 PM : batch 5400/7891 | train neglogev 126.295 
+02/28/2022 06:05:17 PM : batch 5600/7891 | train neglogev 126.449 
+02/28/2022 06:05:59 PM : batch 5800/7891 | train neglogev 126.147 
+02/28/2022 06:06:41 PM : batch 6000/7891 | train neglogev 126.165 
+02/28/2022 06:07:25 PM : batch 6200/7891 | train neglogev 125.988 
+02/28/2022 06:08:13 PM : batch 6400/7891 | train neglogev 126.332 
+02/28/2022 06:08:57 PM : batch 6600/7891 | train neglogev 126.104 
+02/28/2022 06:09:40 PM : batch 6800/7891 | train neglogev 125.961 
+02/28/2022 06:10:24 PM : batch 7000/7891 | train neglogev 126.116 
+02/28/2022 06:11:10 PM : batch 7200/7891 | train neglogev 126.307 
+02/28/2022 06:11:54 PM : batch 7400/7891 | train neglogev 126.235 
+02/28/2022 06:12:41 PM : batch 7600/7891 | train neglogev 126.304 
+02/28/2022 06:13:26 PM : batch 7800/7891 | train neglogev 126.08 
+02/28/2022 06:13:45 PM : epoch 7 | train neglogev 125.974 
+02/28/2022 06:14:46 PM : epoch 7 | valid neglogev 123.403
+02/28/2022 06:14:46 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+02/28/2022 06:14:46 PM : decay_count: 0
+02/28/2022 06:14:46 PM : now lr: 0.500000
+02/28/2022 06:14:46 PM : Done
+02/28/2022 06:14:46 PM : ar: False
+02/28/2022 06:15:30 PM : batch 200/7891 | train neglogev 130.658 
+02/28/2022 06:16:14 PM : batch 400/7891 | train neglogev 129.243 
+02/28/2022 06:16:58 PM : batch 600/7891 | train neglogev 128.81 
+02/28/2022 06:17:45 PM : batch 800/7891 | train neglogev 129.088 
+02/28/2022 06:18:30 PM : batch 1000/7891 | train neglogev 128.189 
+02/28/2022 06:19:13 PM : batch 1200/7891 | train neglogev 126.534 
+02/28/2022 06:19:58 PM : batch 1400/7891 | train neglogev 126.454 
+02/28/2022 06:20:42 PM : batch 1600/7891 | train neglogev 125.891 
+02/28/2022 06:21:27 PM : batch 1800/7891 | train neglogev 125.211 
+02/28/2022 06:22:10 PM : batch 2000/7891 | train neglogev 125.099 
+02/28/2022 06:22:55 PM : batch 2200/7891 | train neglogev 125.534 
+02/28/2022 06:23:40 PM : batch 2400/7891 | train neglogev 125.305 
+02/28/2022 06:24:22 PM : batch 2600/7891 | train neglogev 125.19 
+02/28/2022 06:25:04 PM : batch 2800/7891 | train neglogev 124.824 
+02/28/2022 06:25:47 PM : batch 3000/7891 | train neglogev 124.598 
+02/28/2022 06:26:31 PM : batch 3200/7891 | train neglogev 124.445 
+02/28/2022 06:27:18 PM : batch 3400/7891 | train neglogev 125.196 
+02/28/2022 06:28:02 PM : batch 3600/7891 | train neglogev 124.756 
+02/28/2022 06:29:28 PM : batch 4000/7891 | train neglogev 124.378 
+02/28/2022 06:30:13 PM : batch 4200/7891 | train neglogev 124.687 
+02/28/2022 06:31:00 PM : batch 4400/7891 | train neglogev 124.893 
+02/28/2022 06:31:46 PM : batch 4600/7891 | train neglogev 125.07 
+02/28/2022 06:32:29 PM : batch 4800/7891 | train neglogev 124.805 
+02/28/2022 06:33:12 PM : batch 5000/7891 | train neglogev 124.518 
+02/28/2022 06:33:58 PM : batch 5200/7891 | train neglogev 124.646 
+02/28/2022 06:34:43 PM : batch 5400/7891 | train neglogev 124.539 
+02/28/2022 06:35:29 PM : batch 5600/7891 | train neglogev 124.783 
+02/28/2022 06:36:13 PM : batch 5800/7891 | train neglogev 124.923 
+02/28/2022 06:36:59 PM : batch 6000/7891 | train neglogev 125.058 
+02/28/2022 06:37:43 PM : batch 6200/7891 | train neglogev 125.034 
+02/28/2022 06:38:29 PM : batch 6400/7891 | train neglogev 125.173 
+02/28/2022 06:39:13 PM : batch 6600/7891 | train neglogev 125.436 
+02/28/2022 06:39:58 PM : batch 6800/7891 | train neglogev 125.509 
+02/28/2022 06:40:42 PM : batch 7000/7891 | train neglogev 125.53 
+02/28/2022 06:41:24 PM : batch 7200/7891 | train neglogev 125.353 
+02/28/2022 06:42:09 PM : batch 7400/7891 | train neglogev 125.537 
+02/28/2022 06:42:55 PM : batch 7600/7891 | train neglogev 125.564 
+02/28/2022 06:43:38 PM : batch 7800/7891 | train neglogev 125.506 
+02/28/2022 06:43:57 PM : epoch 8 | train neglogev 125.461 
+02/28/2022 06:44:58 PM : epoch 8 | valid neglogev 123.609
+02/28/2022 06:44:58 PM : decay_count: 1
+02/28/2022 06:44:58 PM : now lr: 0.500000
+02/28/2022 06:44:58 PM : Done
+02/28/2022 06:44:58 PM : ar: False
+02/28/2022 06:45:40 PM : batch 200/7891 | train neglogev 119.116 
+02/28/2022 06:46:24 PM : batch 400/7891 | train neglogev 119.462 
+02/28/2022 06:47:09 PM : batch 600/7891 | train neglogev 123.898 
+02/28/2022 06:47:55 PM : batch 800/7891 | train neglogev 124.054 
+02/28/2022 06:48:40 PM : batch 1000/7891 | train neglogev 124.61 
+02/28/2022 06:49:23 PM : batch 1200/7891 | train neglogev 124.946 
+02/28/2022 06:50:08 PM : batch 1400/7891 | train neglogev 125.538 
+02/28/2022 06:50:53 PM : batch 1600/7891 | train neglogev 125.673 
+02/28/2022 06:51:35 PM : batch 1800/7891 | train neglogev 125.455 
+02/28/2022 06:52:21 PM : batch 2000/7891 | train neglogev 125.501 
+02/28/2022 06:53:03 PM : batch 2200/7891 | train neglogev 125.142 
+02/28/2022 06:53:46 PM : batch 2400/7891 | train neglogev 125.504 
+02/28/2022 06:54:27 PM : batch 2600/7891 | train neglogev 124.099 
+02/28/2022 06:55:09 PM : batch 2800/7891 | train neglogev 123.664 
+02/28/2022 06:55:56 PM : batch 3000/7891 | train neglogev 124.361 
+02/28/2022 06:56:40 PM : batch 3200/7891 | train neglogev 124.253 
+02/28/2022 06:57:26 PM : batch 3400/7891 | train neglogev 124.574 
+02/28/2022 06:58:10 PM : batch 3600/7891 | train neglogev 124.63 
+02/28/2022 06:58:54 PM : batch 3800/7891 | train neglogev 124.81 
+02/28/2022 06:59:37 PM : batch 4000/7891 | train neglogev 124.569 
+02/28/2022 07:00:23 PM : batch 4200/7891 | train neglogev 124.762 
+02/28/2022 07:01:07 PM : batch 4400/7891 | train neglogev 125.105 
+02/28/2022 07:01:50 PM : batch 4600/7891 | train neglogev 124.941 
+02/28/2022 07:02:34 PM : batch 4800/7891 | train neglogev 124.826 
+02/28/2022 07:03:23 PM : batch 5000/7891 | train neglogev 125.489 
+02/28/2022 07:04:04 PM : batch 5200/7891 | train neglogev 124.984 
+02/28/2022 07:04:48 PM : batch 5400/7891 | train neglogev 124.944 
+02/28/2022 07:05:33 PM : batch 5600/7891 | train neglogev 125.031 
+02/28/2022 07:06:18 PM : batch 5800/7891 | train neglogev 124.804 
+02/28/2022 07:07:00 PM : batch 6000/7891 | train neglogev 124.416 
+02/28/2022 07:07:45 PM : batch 6200/7891 | train neglogev 124.324 
+02/28/2022 07:08:33 PM : batch 6400/7891 | train neglogev 124.733 
+02/28/2022 07:09:14 PM : batch 6600/7891 | train neglogev 124.433 
+02/28/2022 07:10:00 PM : batch 6800/7891 | train neglogev 124.515 
+02/28/2022 07:10:44 PM : batch 7000/7891 | train neglogev 124.393 
+02/28/2022 07:11:31 PM : batch 7200/7891 | train neglogev 124.464 
+02/28/2022 07:12:16 PM : batch 7400/7891 | train neglogev 124.619 
+02/28/2022 07:13:02 PM : batch 7600/7891 | train neglogev 124.698 
+02/28/2022 07:13:48 PM : batch 7800/7891 | train neglogev 124.74 
+02/28/2022 07:14:09 PM : epoch 9 | train neglogev 124.929 
+02/28/2022 07:15:10 PM : epoch 9 | valid neglogev 122.916
+02/28/2022 07:15:10 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+02/28/2022 07:15:10 PM : decay_count: 0
+02/28/2022 07:15:10 PM : now lr: 0.500000
+02/28/2022 07:15:10 PM : Done
+02/28/2022 07:15:10 PM : ar: False
+02/28/2022 07:16:39 PM : batch 400/7891 | train neglogev 128.04 
+02/28/2022 07:17:22 PM : batch 600/7891 | train neglogev 124.903 
+02/28/2022 07:18:07 PM : batch 800/7891 | train neglogev 125.595 
+02/28/2022 07:18:53 PM : batch 1000/7891 | train neglogev 125.914 
+02/28/2022 07:19:38 PM : batch 1200/7891 | train neglogev 125.302 
+02/28/2022 07:20:22 PM : batch 1400/7891 | train neglogev 124.988 
+02/28/2022 07:21:06 PM : batch 1600/7891 | train neglogev 124.185 
+02/28/2022 07:21:48 PM : batch 1800/7891 | train neglogev 123.581 
+02/28/2022 07:22:35 PM : batch 2000/7891 | train neglogev 123.694 
+02/28/2022 07:23:20 PM : batch 2200/7891 | train neglogev 123.915 
+02/28/2022 07:24:03 PM : batch 2400/7891 | train neglogev 123.879 
+02/28/2022 07:24:46 PM : batch 2600/7891 | train neglogev 123.42 
+02/28/2022 07:25:33 PM : batch 2800/7891 | train neglogev 123.775 
+02/28/2022 07:27:04 PM : batch 3200/7891 | train neglogev 124.458 
+02/28/2022 07:27:47 PM : batch 3400/7891 | train neglogev 123.992 
+02/28/2022 07:28:33 PM : batch 3600/7891 | train neglogev 124.341 
+02/28/2022 07:29:16 PM : batch 3800/7891 | train neglogev 124.158 
+02/28/2022 07:30:00 PM : batch 4000/7891 | train neglogev 124.017 
+02/28/2022 07:30:44 PM : batch 4200/7891 | train neglogev 124.137 
+02/28/2022 07:31:30 PM : batch 4400/7891 | train neglogev 124.369 
+02/28/2022 07:32:15 PM : batch 4600/7891 | train neglogev 124.404 
+02/28/2022 07:32:58 PM : batch 4800/7891 | train neglogev 124.599 
+02/28/2022 07:33:44 PM : batch 5000/7891 | train neglogev 124.736 
+02/28/2022 07:34:28 PM : batch 5200/7891 | train neglogev 124.801 
+02/28/2022 07:35:12 PM : batch 5400/7891 | train neglogev 124.667 
+02/28/2022 07:35:56 PM : batch 5600/7891 | train neglogev 124.408 
+02/28/2022 07:37:24 PM : batch 6000/7891 | train neglogev 124.359 
+02/28/2022 07:38:09 PM : batch 6200/7891 | train neglogev 124.307 
+02/28/2022 07:38:51 PM : batch 6400/7891 | train neglogev 124.252 
+02/28/2022 07:39:34 PM : batch 6600/7891 | train neglogev 124.225 
+02/28/2022 07:40:19 PM : batch 6800/7891 | train neglogev 124.363 
+02/28/2022 07:41:04 PM : batch 7000/7891 | train neglogev 124.448 
+02/28/2022 07:41:49 PM : batch 7200/7891 | train neglogev 124.457 
+02/28/2022 07:42:34 PM : batch 7400/7891 | train neglogev 124.588 
+02/28/2022 07:43:16 PM : batch 7600/7891 | train neglogev 124.651 
+02/28/2022 07:44:01 PM : batch 7800/7891 | train neglogev 124.628 
+02/28/2022 07:44:21 PM : epoch 10 | train neglogev 124.582 
+02/28/2022 07:45:21 PM : epoch 10 | valid neglogev 123.193
+02/28/2022 07:45:21 PM : decay_count: 1
+02/28/2022 07:45:21 PM : now lr: 0.500000
+02/28/2022 07:45:21 PM : Done
+02/28/2022 07:45:21 PM : ar: False
+02/28/2022 07:46:06 PM : batch 200/7891 | train neglogev 129.219 
+02/28/2022 07:46:50 PM : batch 400/7891 | train neglogev 125.185 
+02/28/2022 07:47:37 PM : batch 600/7891 | train neglogev 122.732 
+02/28/2022 07:48:22 PM : batch 800/7891 | train neglogev 124.596 
+02/28/2022 07:49:08 PM : batch 1000/7891 | train neglogev 125.875 
+02/28/2022 07:49:51 PM : batch 1200/7891 | train neglogev 124.426 
+02/28/2022 07:51:22 PM : batch 1600/7891 | train neglogev 125.087 
+02/28/2022 07:52:07 PM : batch 1800/7891 | train neglogev 124.442 
+02/28/2022 07:52:49 PM : batch 2000/7891 | train neglogev 123.625 
+02/28/2022 07:54:16 PM : batch 2400/7891 | train neglogev 123.52 
+02/28/2022 07:55:01 PM : batch 2600/7891 | train neglogev 124.243 
+02/28/2022 07:55:43 PM : batch 2800/7891 | train neglogev 123.884 
+02/28/2022 07:56:29 PM : batch 3000/7891 | train neglogev 124.005 
+02/28/2022 07:57:13 PM : batch 3200/7891 | train neglogev 123.941 
+02/28/2022 07:57:58 PM : batch 3400/7891 | train neglogev 123.998 
+02/28/2022 07:58:43 PM : batch 3600/7891 | train neglogev 124.024 
+02/28/2022 07:59:30 PM : batch 3800/7891 | train neglogev 124.209 
+02/28/2022 08:00:55 PM : batch 4200/7891 | train neglogev 124.055 
+02/28/2022 08:01:39 PM : batch 4400/7891 | train neglogev 123.917 
+02/28/2022 08:02:21 PM : batch 4600/7891 | train neglogev 123.981 
+02/28/2022 08:03:06 PM : batch 4800/7891 | train neglogev 124.07 
+02/28/2022 08:03:52 PM : batch 5000/7891 | train neglogev 123.959 
+02/28/2022 08:04:35 PM : batch 5200/7891 | train neglogev 123.827 
+02/28/2022 08:05:17 PM : batch 5400/7891 | train neglogev 123.773 
+02/28/2022 08:06:00 PM : batch 5600/7891 | train neglogev 123.495 
+02/28/2022 08:06:46 PM : batch 5800/7891 | train neglogev 123.874 
+02/28/2022 08:07:31 PM : batch 6000/7891 | train neglogev 124.174 
+02/28/2022 08:08:15 PM : batch 6200/7891 | train neglogev 124.07 
+02/28/2022 08:08:58 PM : batch 6400/7891 | train neglogev 124.147 
+02/28/2022 08:09:44 PM : batch 6600/7891 | train neglogev 124.263 
+02/28/2022 08:10:26 PM : batch 6800/7891 | train neglogev 124.324 
+02/28/2022 08:11:11 PM : batch 7000/7891 | train neglogev 124.346 
+02/28/2022 08:11:56 PM : batch 7200/7891 | train neglogev 124.236 
+02/28/2022 08:13:25 PM : batch 7600/7891 | train neglogev 124.038 
+02/28/2022 08:14:11 PM : batch 7800/7891 | train neglogev 124.142 
+02/28/2022 08:14:32 PM : epoch 11 | train neglogev 124.219 
+02/28/2022 08:15:33 PM : epoch 11 | valid neglogev 123.277
+02/28/2022 08:15:33 PM : decay_count: 2
+02/28/2022 08:15:33 PM : now lr: 0.500000
+02/28/2022 08:15:33 PM : Done
+02/28/2022 08:15:33 PM : ar: False
+02/28/2022 08:16:18 PM : batch 200/7891 | train neglogev 122.051 
+02/28/2022 08:17:02 PM : batch 400/7891 | train neglogev 120.279 
+02/28/2022 08:17:45 PM : batch 600/7891 | train neglogev 122.875 
+02/28/2022 08:18:33 PM : batch 800/7891 | train neglogev 124.878 
+02/28/2022 08:19:17 PM : batch 1000/7891 | train neglogev 124.379 
+02/28/2022 08:20:02 PM : batch 1200/7891 | train neglogev 124.468 
+02/28/2022 08:20:45 PM : batch 1400/7891 | train neglogev 123.324 
+02/28/2022 08:21:31 PM : batch 1600/7891 | train neglogev 124.325 
+02/28/2022 08:22:15 PM : batch 1800/7891 | train neglogev 123.633 
+02/28/2022 08:22:59 PM : batch 2000/7891 | train neglogev 123.725 
+02/28/2022 08:23:45 PM : batch 2200/7891 | train neglogev 124.174 
+02/28/2022 08:24:27 PM : batch 2400/7891 | train neglogev 123.858 
+02/28/2022 08:25:10 PM : batch 2600/7891 | train neglogev 123.892 
+02/28/2022 08:25:58 PM : batch 2800/7891 | train neglogev 124.399 
+02/28/2022 08:26:42 PM : batch 3000/7891 | train neglogev 124.494 
+02/28/2022 08:28:11 PM : batch 3400/7891 | train neglogev 124.608 
+02/28/2022 08:28:53 PM : batch 3600/7891 | train neglogev 124.532 
+02/28/2022 08:29:34 PM : batch 3800/7891 | train neglogev 124.355 
+02/28/2022 08:30:21 PM : batch 4000/7891 | train neglogev 124.735 
+02/28/2022 08:31:03 PM : batch 4200/7891 | train neglogev 124.419 
+02/28/2022 08:31:50 PM : batch 4400/7891 | train neglogev 124.539 
+02/28/2022 08:32:36 PM : batch 4600/7891 | train neglogev 124.675 
+02/28/2022 08:33:23 PM : batch 4800/7891 | train neglogev 124.777 
+02/28/2022 08:34:07 PM : batch 5000/7891 | train neglogev 124.773 
+02/28/2022 08:34:52 PM : batch 5200/7891 | train neglogev 125.115 
+02/28/2022 08:35:36 PM : batch 5400/7891 | train neglogev 125.132 
+02/28/2022 08:36:21 PM : batch 5600/7891 | train neglogev 125.223 
+02/28/2022 08:37:07 PM : batch 5800/7891 | train neglogev 125.168 
+02/28/2022 08:38:34 PM : batch 6200/7891 | train neglogev 124.773 
+02/28/2022 08:39:18 PM : batch 6400/7891 | train neglogev 124.663 
+02/28/2022 08:40:02 PM : batch 6600/7891 | train neglogev 124.638 
+02/28/2022 08:40:45 PM : batch 6800/7891 | train neglogev 124.62 
+02/28/2022 08:41:29 PM : batch 7000/7891 | train neglogev 124.568 
+02/28/2022 08:42:14 PM : batch 7200/7891 | train neglogev 124.551 
+02/28/2022 08:43:40 PM : batch 7600/7891 | train neglogev 124.05 
+02/28/2022 08:44:22 PM : batch 7800/7891 | train neglogev 124.058 
+02/28/2022 08:44:42 PM : epoch 12 | train neglogev 124.042 
+02/28/2022 08:45:43 PM : epoch 12 | valid neglogev 123.051
+02/28/2022 08:45:43 PM : decay_count: 3
+02/28/2022 08:45:43 PM : now lr: 0.500000
+02/28/2022 08:45:43 PM : Done
+02/28/2022 08:45:43 PM : ar: False
+02/28/2022 08:46:26 PM : batch 200/7891 | train neglogev 112.137 
+02/28/2022 08:47:10 PM : batch 400/7891 | train neglogev 119.185 
+02/28/2022 08:48:38 PM : batch 800/7891 | train neglogev 121.23 
+02/28/2022 08:49:20 PM : batch 1000/7891 | train neglogev 120.268 
+02/28/2022 08:50:05 PM : batch 1200/7891 | train neglogev 120.963 
+02/28/2022 08:50:50 PM : batch 1400/7891 | train neglogev 122.388 
+02/28/2022 08:51:35 PM : batch 1600/7891 | train neglogev 121.813 
+02/28/2022 08:52:21 PM : batch 1800/7891 | train neglogev 122.304 
+02/28/2022 08:53:06 PM : batch 2000/7891 | train neglogev 122.668 
+02/28/2022 08:53:50 PM : batch 2200/7891 | train neglogev 123.203 
+02/28/2022 08:54:35 PM : batch 2400/7891 | train neglogev 123.077 
+02/28/2022 08:55:21 PM : batch 2600/7891 | train neglogev 123.22 
+02/28/2022 08:56:06 PM : batch 2800/7891 | train neglogev 123.023 
+02/28/2022 08:56:47 PM : batch 3000/7891 | train neglogev 122.471 
+02/28/2022 08:57:33 PM : batch 3200/7891 | train neglogev 122.483 
+02/28/2022 08:59:43 PM : batch 3800/7891 | train neglogev 122.398 
+02/28/2022 09:00:28 PM : batch 4000/7891 | train neglogev 122.664 
+02/28/2022 09:01:14 PM : batch 4200/7891 | train neglogev 122.767 
+02/28/2022 09:01:57 PM : batch 4400/7891 | train neglogev 122.707 
+02/28/2022 09:02:41 PM : batch 4600/7891 | train neglogev 122.764 
+02/28/2022 09:03:28 PM : batch 4800/7891 | train neglogev 123.192 
+02/28/2022 09:04:14 PM : batch 5000/7891 | train neglogev 123.55 
+02/28/2022 09:04:59 PM : batch 5200/7891 | train neglogev 123.701 
+02/28/2022 09:05:41 PM : batch 5400/7891 | train neglogev 123.599 
+02/28/2022 09:06:25 PM : batch 5600/7891 | train neglogev 123.775 
+02/28/2022 09:07:07 PM : batch 5800/7891 | train neglogev 123.712 
+02/28/2022 09:07:51 PM : batch 6000/7891 | train neglogev 123.583 
+02/28/2022 09:08:34 PM : batch 6200/7891 | train neglogev 123.613 
+02/28/2022 09:09:19 PM : batch 6400/7891 | train neglogev 123.713 
+02/28/2022 09:10:01 PM : batch 6600/7891 | train neglogev 123.614 
+02/28/2022 09:10:45 PM : batch 6800/7891 | train neglogev 123.46 
+02/28/2022 09:11:29 PM : batch 7000/7891 | train neglogev 123.439 
+02/28/2022 09:12:13 PM : batch 7200/7891 | train neglogev 123.422 
+02/28/2022 09:12:59 PM : batch 7400/7891 | train neglogev 123.4 
+02/28/2022 09:13:45 PM : batch 7600/7891 | train neglogev 123.613 
+02/28/2022 09:14:34 PM : batch 7800/7891 | train neglogev 123.979 
+02/28/2022 09:14:52 PM : epoch 13 | train neglogev 123.882 
+02/28/2022 09:15:53 PM : epoch 13 | valid neglogev 122.403
+02/28/2022 09:15:53 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+02/28/2022 09:15:53 PM : decay_count: 0
+02/28/2022 09:15:53 PM : now lr: 0.500000
+02/28/2022 09:15:53 PM : Done
+02/28/2022 09:15:53 PM : ar: False
+02/28/2022 09:16:39 PM : batch 200/7891 | train neglogev 129.796 
+02/28/2022 09:17:22 PM : batch 400/7891 | train neglogev 124.388 
+02/28/2022 09:18:04 PM : batch 600/7891 | train neglogev 123.848 
+02/28/2022 09:18:48 PM : batch 800/7891 | train neglogev 124.816 
+02/28/2022 09:19:30 PM : batch 1000/7891 | train neglogev 123.577 
+02/28/2022 09:20:14 PM : batch 1200/7891 | train neglogev 122.854 
+02/28/2022 09:20:57 PM : batch 1400/7891 | train neglogev 122.687 
+02/28/2022 09:21:43 PM : batch 1600/7891 | train neglogev 123.633 
+02/28/2022 09:23:17 PM : batch 2000/7891 | train neglogev 125.129 
+02/28/2022 09:24:02 PM : batch 2200/7891 | train neglogev 124.76 
+02/28/2022 09:24:48 PM : batch 2400/7891 | train neglogev 124.709 
+02/28/2022 09:26:16 PM : batch 2800/7891 | train neglogev 124.422 
+02/28/2022 09:27:03 PM : batch 3000/7891 | train neglogev 124.716 
+02/28/2022 09:27:45 PM : batch 3200/7891 | train neglogev 124.331 
+02/28/2022 09:28:32 PM : batch 3400/7891 | train neglogev 124.68 
+02/28/2022 09:29:18 PM : batch 3600/7891 | train neglogev 124.967 
+02/28/2022 09:30:02 PM : batch 3800/7891 | train neglogev 124.695 
+02/28/2022 09:30:49 PM : batch 4000/7891 | train neglogev 124.914 
+02/28/2022 09:31:32 PM : batch 4200/7891 | train neglogev 124.802 
+02/28/2022 09:32:17 PM : batch 4400/7891 | train neglogev 124.825 
+02/28/2022 09:33:01 PM : batch 4600/7891 | train neglogev 124.694 
+02/28/2022 09:33:47 PM : batch 4800/7891 | train neglogev 124.653 
+02/28/2022 09:34:32 PM : batch 5000/7891 | train neglogev 124.915 
+02/28/2022 09:35:15 PM : batch 5200/7891 | train neglogev 124.457 
+02/28/2022 09:35:59 PM : batch 5400/7891 | train neglogev 124.457 
+02/28/2022 09:36:44 PM : batch 5600/7891 | train neglogev 124.752 
+02/28/2022 09:37:30 PM : batch 5800/7891 | train neglogev 124.794 
+02/28/2022 09:38:13 PM : batch 6000/7891 | train neglogev 124.593 
+02/28/2022 09:38:54 PM : batch 6200/7891 | train neglogev 124.509 
+02/28/2022 09:39:39 PM : batch 6400/7891 | train neglogev 124.434 
+02/28/2022 09:40:23 PM : batch 6600/7891 | train neglogev 124.286 
+02/28/2022 09:41:07 PM : batch 6800/7891 | train neglogev 124.284 
+02/28/2022 09:41:49 PM : batch 7000/7891 | train neglogev 124.105 
+02/28/2022 09:42:31 PM : batch 7200/7891 | train neglogev 123.848 
+02/28/2022 09:43:17 PM : batch 7400/7891 | train neglogev 123.857 
+02/28/2022 09:44:02 PM : batch 7600/7891 | train neglogev 123.833 
+02/28/2022 09:44:45 PM : batch 7800/7891 | train neglogev 123.625 
+02/28/2022 09:45:05 PM : epoch 14 | train neglogev 123.66 
+02/28/2022 09:46:06 PM : epoch 14 | valid neglogev 123.245
+02/28/2022 09:46:06 PM : decay_count: 1
+02/28/2022 09:46:06 PM : now lr: 0.500000
+02/28/2022 09:46:06 PM : Done
+02/28/2022 09:46:06 PM : ar: False
+02/28/2022 09:46:50 PM : batch 200/7891 | train neglogev 120.315 
+02/28/2022 09:47:37 PM : batch 400/7891 | train neglogev 124.614 
+02/28/2022 09:48:21 PM : batch 600/7891 | train neglogev 124.162 
+02/28/2022 09:49:02 PM : batch 800/7891 | train neglogev 123.814 
+02/28/2022 09:49:45 PM : batch 1000/7891 | train neglogev 123.245 
+02/28/2022 09:51:11 PM : batch 1400/7891 | train neglogev 122.344 
+02/28/2022 09:52:40 PM : batch 1800/7891 | train neglogev 122.422 
+02/28/2022 09:53:24 PM : batch 2000/7891 | train neglogev 122.452 
+02/28/2022 09:54:09 PM : batch 2200/7891 | train neglogev 122.902 
+02/28/2022 09:54:53 PM : batch 2400/7891 | train neglogev 122.797 
+02/28/2022 09:55:38 PM : batch 2600/7891 | train neglogev 123.177 
+02/28/2022 09:56:25 PM : batch 2800/7891 | train neglogev 123.444 
+02/28/2022 09:57:55 PM : batch 3200/7891 | train neglogev 123.659 
+02/28/2022 09:58:41 PM : batch 3400/7891 | train neglogev 123.888 
+02/28/2022 10:00:05 PM : batch 3800/7891 | train neglogev 123.484 
+02/28/2022 10:00:48 PM : batch 4000/7891 | train neglogev 123.418 
+02/28/2022 10:01:32 PM : batch 4200/7891 | train neglogev 123.472 
+02/28/2022 10:02:17 PM : batch 4400/7891 | train neglogev 123.148 
+02/28/2022 10:03:02 PM : batch 4600/7891 | train neglogev 123.028 
+02/28/2022 10:03:46 PM : batch 4800/7891 | train neglogev 122.868 
+02/28/2022 10:04:31 PM : batch 5000/7891 | train neglogev 123.243 
+02/28/2022 10:05:16 PM : batch 5200/7891 | train neglogev 123.258 
+02/28/2022 10:06:00 PM : batch 5400/7891 | train neglogev 123.369 
+02/28/2022 10:06:44 PM : batch 5600/7891 | train neglogev 123.66 
+02/28/2022 10:07:28 PM : batch 5800/7891 | train neglogev 123.416 
+02/28/2022 10:08:12 PM : batch 6000/7891 | train neglogev 123.508 
+02/28/2022 10:08:56 PM : batch 6200/7891 | train neglogev 123.357 
+02/28/2022 10:10:28 PM : batch 6600/7891 | train neglogev 123.634 
+02/28/2022 10:11:12 PM : batch 6800/7891 | train neglogev 123.667 
+02/28/2022 10:11:56 PM : batch 7000/7891 | train neglogev 123.633 
+02/28/2022 10:12:37 PM : batch 7200/7891 | train neglogev 123.573 
+02/28/2022 10:13:23 PM : batch 7400/7891 | train neglogev 123.571 
+02/28/2022 10:14:09 PM : batch 7600/7891 | train neglogev 123.47 
+02/28/2022 10:14:54 PM : batch 7800/7891 | train neglogev 123.44 
+02/28/2022 10:15:15 PM : epoch 15 | train neglogev 123.485 
+02/28/2022 10:16:16 PM : epoch 15 | valid neglogev 123.125
+02/28/2022 10:16:16 PM : decay_count: 2
+02/28/2022 10:16:16 PM : now lr: 0.500000
+02/28/2022 10:16:16 PM : Done
+02/28/2022 10:16:16 PM : ar: False
+02/28/2022 10:17:00 PM : batch 200/7891 | train neglogev 120.585 
+02/28/2022 10:17:42 PM : batch 400/7891 | train neglogev 121.059 
+02/28/2022 10:18:25 PM : batch 600/7891 | train neglogev 119.695 
+02/28/2022 10:19:10 PM : batch 800/7891 | train neglogev 118.972 
+02/28/2022 10:19:54 PM : batch 1000/7891 | train neglogev 119.011 
+02/28/2022 10:20:36 PM : batch 1200/7891 | train neglogev 119.093 
+02/28/2022 10:21:21 PM : batch 1400/7891 | train neglogev 120.735 
+02/28/2022 10:22:07 PM : batch 1600/7891 | train neglogev 121.977 
+02/28/2022 10:22:52 PM : batch 1800/7891 | train neglogev 121.8 
+02/28/2022 10:23:38 PM : batch 2000/7891 | train neglogev 121.14 
+02/28/2022 10:24:20 PM : batch 2200/7891 | train neglogev 121.248 
+02/28/2022 10:25:04 PM : batch 2400/7891 | train neglogev 121.707 
+02/28/2022 10:25:48 PM : batch 2600/7891 | train neglogev 121.465 
+02/28/2022 10:27:16 PM : batch 3000/7891 | train neglogev 121.389 
+02/28/2022 10:28:01 PM : batch 3200/7891 | train neglogev 121.495 
+02/28/2022 10:28:48 PM : batch 3400/7891 | train neglogev 121.95 
+02/28/2022 10:29:33 PM : batch 3600/7891 | train neglogev 122.345 
+02/28/2022 10:30:19 PM : batch 3800/7891 | train neglogev 122.509 
+02/28/2022 10:31:04 PM : batch 4000/7891 | train neglogev 122.349 
+02/28/2022 10:31:47 PM : batch 4200/7891 | train neglogev 122.562 
+02/28/2022 10:32:31 PM : batch 4400/7891 | train neglogev 122.715 
+02/28/2022 10:34:01 PM : batch 4800/7891 | train neglogev 122.923 
+02/28/2022 10:34:46 PM : batch 5000/7891 | train neglogev 123.007 
+02/28/2022 10:35:29 PM : batch 5200/7891 | train neglogev 122.872 
+02/28/2022 10:36:15 PM : batch 5400/7891 | train neglogev 122.822 
+02/28/2022 10:36:57 PM : batch 5600/7891 | train neglogev 122.752 
+02/28/2022 10:37:41 PM : batch 5800/7891 | train neglogev 123.038 
+02/28/2022 10:38:26 PM : batch 6000/7891 | train neglogev 123.065 
+02/28/2022 10:39:11 PM : batch 6200/7891 | train neglogev 123.12 
+02/28/2022 10:40:41 PM : batch 6600/7891 | train neglogev 123.65 
+02/28/2022 10:41:24 PM : batch 6800/7891 | train neglogev 123.564 
+02/28/2022 10:43:38 PM : batch 7400/7891 | train neglogev 123.578 
+02/28/2022 10:44:23 PM : batch 7600/7891 | train neglogev 123.412 
+02/28/2022 10:45:07 PM : batch 7800/7891 | train neglogev 123.506 
+02/28/2022 10:45:27 PM : epoch 16 | train neglogev 123.395 
+02/28/2022 10:46:27 PM : epoch 16 | valid neglogev 122.896
+02/28/2022 10:46:27 PM : decay_count: 3
+02/28/2022 10:46:27 PM : now lr: 0.500000
+02/28/2022 10:46:27 PM : Done
+02/28/2022 10:46:27 PM : ar: False
+02/28/2022 10:47:12 PM : batch 200/7891 | train neglogev 124.2 
+02/28/2022 10:47:56 PM : batch 400/7891 | train neglogev 119.443 
+02/28/2022 10:48:41 PM : batch 600/7891 | train neglogev 119.517 
+02/28/2022 10:49:24 PM : batch 800/7891 | train neglogev 119.468 
+02/28/2022 10:50:07 PM : batch 1000/7891 | train neglogev 120.01 
+02/28/2022 10:50:49 PM : batch 1200/7891 | train neglogev 119.935 
+02/28/2022 10:51:32 PM : batch 1400/7891 | train neglogev 120.835 
+02/28/2022 10:52:18 PM : batch 1600/7891 | train neglogev 121.696 
+02/28/2022 10:53:03 PM : batch 1800/7891 | train neglogev 121.15 
+02/28/2022 10:53:48 PM : batch 2000/7891 | train neglogev 121.804 
+02/28/2022 10:54:32 PM : batch 2200/7891 | train neglogev 122.101 
+02/28/2022 10:55:19 PM : batch 2400/7891 | train neglogev 122.327 
+02/28/2022 10:56:45 PM : batch 2800/7891 | train neglogev 122.756 
+02/28/2022 10:57:30 PM : batch 3000/7891 | train neglogev 122.873 
+02/28/2022 10:58:14 PM : batch 3200/7891 | train neglogev 122.744 
+02/28/2022 10:58:58 PM : batch 3400/7891 | train neglogev 122.471 
+02/28/2022 10:59:43 PM : batch 3600/7891 | train neglogev 122.775 
+02/28/2022 11:00:29 PM : batch 3800/7891 | train neglogev 122.511 
+02/28/2022 11:01:14 PM : batch 4000/7891 | train neglogev 122.642 
+02/28/2022 11:01:59 PM : batch 4200/7891 | train neglogev 122.839 
+02/28/2022 11:02:44 PM : batch 4400/7891 | train neglogev 122.925 
+02/28/2022 11:03:26 PM : batch 4600/7891 | train neglogev 122.903 
+02/28/2022 11:04:11 PM : batch 4800/7891 | train neglogev 122.806 
+02/28/2022 11:04:55 PM : batch 5000/7891 | train neglogev 123.071 
+02/28/2022 11:05:43 PM : batch 5200/7891 | train neglogev 123.34 
+02/28/2022 11:06:26 PM : batch 5400/7891 | train neglogev 123.284 
+02/28/2022 11:07:08 PM : batch 5600/7891 | train neglogev 123.139 
+02/28/2022 11:07:53 PM : batch 5800/7891 | train neglogev 123.262 
+02/28/2022 11:08:37 PM : batch 6000/7891 | train neglogev 123.245 
+02/28/2022 11:09:20 PM : batch 6200/7891 | train neglogev 123.109 
+02/28/2022 11:10:05 PM : batch 6400/7891 | train neglogev 123.208 
+02/28/2022 11:10:49 PM : batch 6600/7891 | train neglogev 123.216 
+02/28/2022 11:11:35 PM : batch 6800/7891 | train neglogev 123.036 
+02/28/2022 11:12:17 PM : batch 7000/7891 | train neglogev 122.938 
+02/28/2022 11:13:01 PM : batch 7200/7891 | train neglogev 122.917 
+02/28/2022 11:14:31 PM : batch 7600/7891 | train neglogev 123.113 
+02/28/2022 11:15:16 PM : batch 7800/7891 | train neglogev 123.184 
+02/28/2022 11:15:37 PM : epoch 17 | train neglogev 123.202 
+02/28/2022 11:16:38 PM : epoch 17 | valid neglogev 123.205
+02/28/2022 11:16:38 PM : decay_count: 4
+02/28/2022 11:16:38 PM : now lr: 0.500000
+02/28/2022 11:16:38 PM : Done
+02/28/2022 11:16:38 PM : ar: False
+02/28/2022 11:17:24 PM : batch 200/7891 | train neglogev 125.062 
+02/28/2022 11:18:08 PM : batch 400/7891 | train neglogev 121.34 
+02/28/2022 11:18:52 PM : batch 600/7891 | train neglogev 124.757 
+02/28/2022 11:19:37 PM : batch 800/7891 | train neglogev 123.151 
+02/28/2022 11:20:20 PM : batch 1000/7891 | train neglogev 122.681 
+02/28/2022 11:21:05 PM : batch 1200/7891 | train neglogev 122.863 
+02/28/2022 11:21:47 PM : batch 1400/7891 | train neglogev 122.327 
+02/28/2022 11:22:31 PM : batch 1600/7891 | train neglogev 122.276 
+02/28/2022 11:23:18 PM : batch 1800/7891 | train neglogev 122.339 
+02/28/2022 11:24:02 PM : batch 2000/7891 | train neglogev 123.281 
+02/28/2022 11:24:47 PM : batch 2200/7891 | train neglogev 122.94 
+02/28/2022 11:25:31 PM : batch 2400/7891 | train neglogev 122.263 
+02/28/2022 11:26:15 PM : batch 2600/7891 | train neglogev 121.911 
+02/28/2022 11:26:59 PM : batch 2800/7891 | train neglogev 121.757 
+02/28/2022 11:27:46 PM : batch 3000/7891 | train neglogev 121.844 
+02/28/2022 11:28:29 PM : batch 3200/7891 | train neglogev 121.625 
+02/28/2022 11:29:13 PM : batch 3400/7891 | train neglogev 121.808 
+02/28/2022 11:29:57 PM : batch 3600/7891 | train neglogev 121.814 
+02/28/2022 11:30:41 PM : batch 3800/7891 | train neglogev 121.69 
+02/28/2022 11:32:59 PM : batch 4400/7891 | train neglogev 122.197 
+02/28/2022 11:33:41 PM : batch 4600/7891 | train neglogev 122.16 
+02/28/2022 11:35:06 PM : batch 5000/7891 | train neglogev 122.2 
+02/28/2022 11:35:50 PM : batch 5200/7891 | train neglogev 122.258 
+02/28/2022 11:36:36 PM : batch 5400/7891 | train neglogev 122.432 
+02/28/2022 11:37:23 PM : batch 5600/7891 | train neglogev 122.565 
+02/28/2022 11:38:07 PM : batch 5800/7891 | train neglogev 122.65 
+02/28/2022 11:41:03 PM : batch 6600/7891 | train neglogev 122.521 
+02/28/2022 11:41:46 PM : batch 6800/7891 | train neglogev 122.64 
+02/28/2022 11:42:32 PM : batch 7000/7891 | train neglogev 122.834 
+02/28/2022 11:43:16 PM : batch 7200/7891 | train neglogev 123.015 
+02/28/2022 11:44:02 PM : batch 7400/7891 | train neglogev 123.245 
+02/28/2022 11:44:44 PM : batch 7600/7891 | train neglogev 123.11 
+02/28/2022 11:45:29 PM : batch 7800/7891 | train neglogev 123.251 
+02/28/2022 11:45:50 PM : epoch 18 | train neglogev 123.249 
+02/28/2022 11:46:50 PM : epoch 18 | valid neglogev 123.099
+02/28/2022 11:46:50 PM : decay_count: 5
+02/28/2022 11:46:50 PM : now lr: 0.500000
+02/28/2022 11:46:50 PM : Done
+02/28/2022 11:46:50 PM : ar: False
+02/28/2022 11:47:34 PM : batch 200/7891 | train neglogev 116.436 
+02/28/2022 11:48:18 PM : batch 400/7891 | train neglogev 122.068 
+02/28/2022 11:49:02 PM : batch 600/7891 | train neglogev 120.115 
+02/28/2022 11:49:43 PM : batch 800/7891 | train neglogev 121.844 
+02/28/2022 11:50:23 PM : batch 1000/7891 | train neglogev 120.682 
+02/28/2022 11:51:09 PM : batch 1200/7891 | train neglogev 121.319 
+02/28/2022 11:51:54 PM : batch 1400/7891 | train neglogev 122.168 
+02/28/2022 11:52:39 PM : batch 1600/7891 | train neglogev 122.5 
+02/28/2022 11:53:22 PM : batch 1800/7891 | train neglogev 121.328 
+02/28/2022 11:54:07 PM : batch 2000/7891 | train neglogev 121.718 
+02/28/2022 11:56:23 PM : batch 2600/7891 | train neglogev 122.97 
+02/28/2022 11:57:10 PM : batch 2800/7891 | train neglogev 122.877 
+02/28/2022 11:57:54 PM : batch 3000/7891 | train neglogev 122.749 
+02/28/2022 11:58:37 PM : batch 3200/7891 | train neglogev 122.933 
+03/01/2022 12:00:06 AM : batch 3600/7891 | train neglogev 122.69 
+03/01/2022 12:00:50 AM : batch 3800/7891 | train neglogev 122.648 
+03/01/2022 12:01:38 AM : batch 4000/7891 | train neglogev 123.062 
+03/01/2022 12:02:23 AM : batch 4200/7891 | train neglogev 123.308 
+03/01/2022 12:03:06 AM : batch 4400/7891 | train neglogev 123.405 
+03/01/2022 12:03:52 AM : batch 4600/7891 | train neglogev 123.161 
+03/01/2022 12:04:36 AM : batch 4800/7891 | train neglogev 123.296 
+03/01/2022 12:05:21 AM : batch 5000/7891 | train neglogev 123.382 
+03/01/2022 12:06:05 AM : batch 5200/7891 | train neglogev 123.233 
+03/01/2022 12:06:50 AM : batch 5400/7891 | train neglogev 123.313 
+03/01/2022 12:07:35 AM : batch 5600/7891 | train neglogev 123.447 
+03/01/2022 12:08:19 AM : batch 5800/7891 | train neglogev 123.419 
+03/01/2022 12:09:05 AM : batch 6000/7891 | train neglogev 123.436 
+03/01/2022 12:10:35 AM : batch 6400/7891 | train neglogev 123.382 
+03/01/2022 12:11:20 AM : batch 6600/7891 | train neglogev 123.389 
+03/01/2022 12:12:05 AM : batch 6800/7891 | train neglogev 123.381 
+03/01/2022 12:12:45 AM : batch 7000/7891 | train neglogev 123.208 
+03/01/2022 12:13:30 AM : batch 7200/7891 | train neglogev 123.36 
+03/01/2022 12:14:12 AM : batch 7400/7891 | train neglogev 123.152 
+03/01/2022 12:14:58 AM : batch 7600/7891 | train neglogev 123.262 
+03/01/2022 12:15:42 AM : batch 7800/7891 | train neglogev 123.184 
+03/01/2022 12:16:02 AM : epoch 19 | train neglogev 123.065 
+03/01/2022 12:17:02 AM : epoch 19 | valid neglogev 123.559
+03/01/2022 12:17:02 AM : decay_count: 6
+03/01/2022 12:17:02 AM : now lr: 0.500000
+03/01/2022 12:17:02 AM : decaying lr to: 0.050000
+03/01/2022 12:17:02 AM : Done
+03/01/2022 12:17:02 AM : ar: True
+03/01/2022 12:17:47 AM : batch 200/7891 | train neglogev 126.823 
+03/01/2022 12:18:33 AM : batch 400/7891 | train neglogev 121.614 
+03/01/2022 12:19:17 AM : batch 600/7891 | train neglogev 120.655 
+03/01/2022 12:19:59 AM : batch 800/7891 | train neglogev 119.428 
+03/01/2022 12:20:45 AM : batch 1000/7891 | train neglogev 118.089 
+03/01/2022 12:21:29 AM : batch 1200/7891 | train neglogev 118.657 
+03/01/2022 12:22:13 AM : batch 1400/7891 | train neglogev 120.118 
+03/01/2022 12:22:55 AM : batch 1600/7891 | train neglogev 119.439 
+03/01/2022 12:23:39 AM : batch 1800/7891 | train neglogev 119.353 
+03/01/2022 12:24:23 AM : batch 2000/7891 | train neglogev 118.479 
+03/01/2022 12:25:08 AM : batch 2200/7891 | train neglogev 118.358 
+03/01/2022 12:25:54 AM : batch 2400/7891 | train neglogev 117.846 
+03/01/2022 12:26:40 AM : batch 2600/7891 | train neglogev 117.908 
+03/01/2022 12:27:25 AM : batch 2800/7891 | train neglogev 117.401 
+03/01/2022 12:28:12 AM : batch 3000/7891 | train neglogev 117.593 
+03/01/2022 12:28:54 AM : batch 3200/7891 | train neglogev 117.455 
+03/01/2022 12:29:38 AM : batch 3400/7891 | train neglogev 117.192 
+03/01/2022 12:30:23 AM : batch 3600/7891 | train neglogev 117.195 
+03/01/2022 12:31:06 AM : batch 3800/7891 | train neglogev 117.097 
+03/01/2022 12:31:52 AM : batch 4000/7891 | train neglogev 117.141 
+03/01/2022 12:32:37 AM : batch 4200/7891 | train neglogev 116.914 
+03/01/2022 12:33:21 AM : batch 4400/7891 | train neglogev 116.767 
+03/01/2022 12:34:06 AM : batch 4600/7891 | train neglogev 117.024 
+03/01/2022 12:34:48 AM : batch 4800/7891 | train neglogev 116.733 
+03/01/2022 12:35:34 AM : batch 5000/7891 | train neglogev 116.698 
+03/01/2022 12:36:19 AM : batch 5200/7891 | train neglogev 116.391 
+03/01/2022 12:37:00 AM : batch 5400/7891 | train neglogev 116.063 
+03/01/2022 12:37:46 AM : batch 5600/7891 | train neglogev 116.222 
+03/01/2022 12:38:31 AM : batch 5800/7891 | train neglogev 116.197 
+03/01/2022 12:39:17 AM : batch 6000/7891 | train neglogev 116.148 
+03/01/2022 12:40:45 AM : batch 6400/7891 | train neglogev 115.971 
+03/01/2022 12:41:28 AM : batch 6600/7891 | train neglogev 115.66 
+03/01/2022 12:42:10 AM : batch 6800/7891 | train neglogev 115.442 
+03/01/2022 12:42:55 AM : batch 7000/7891 | train neglogev 115.344 
+03/01/2022 12:44:24 AM : batch 7400/7891 | train neglogev 115.512 
+03/01/2022 12:45:08 AM : batch 7600/7891 | train neglogev 115.556 
+03/01/2022 12:45:56 AM : batch 7800/7891 | train neglogev 115.708 
+03/01/2022 12:46:14 AM : epoch 20 | train neglogev 115.571 
+03/01/2022 12:47:15 AM : epoch 20 | valid neglogev 116.432
+03/01/2022 12:47:15 AM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 12:47:15 AM : decay_count: 0
+03/01/2022 12:47:15 AM : now lr: 0.050000
+03/01/2022 12:47:15 AM : Done
+03/01/2022 12:47:15 AM : ar: True
+03/01/2022 12:47:58 AM : batch 200/7891 | train neglogev 110.242 
+03/01/2022 12:48:43 AM : batch 400/7891 | train neglogev 112.385 
+03/01/2022 12:49:26 AM : batch 600/7891 | train neglogev 113.77 
+03/01/2022 12:50:11 AM : batch 800/7891 | train neglogev 114.951 
+03/01/2022 12:50:59 AM : batch 1000/7891 | train neglogev 116.452 
+03/01/2022 12:51:44 AM : batch 1200/7891 | train neglogev 115.083 
+03/01/2022 12:52:26 AM : batch 1400/7891 | train neglogev 114.225 
+03/01/2022 12:53:09 AM : batch 1600/7891 | train neglogev 114.264 
+03/01/2022 12:54:34 AM : batch 2000/7891 | train neglogev 114.13 
+03/01/2022 12:55:18 AM : batch 2200/7891 | train neglogev 114.024 
+03/01/2022 12:56:05 AM : batch 2400/7891 | train neglogev 114.079 
+03/01/2022 12:56:49 AM : batch 2600/7891 | train neglogev 114.327 
+03/01/2022 12:57:35 AM : batch 2800/7891 | train neglogev 114.842 
+03/01/2022 12:58:17 AM : batch 3000/7891 | train neglogev 114.199 
+03/01/2022 12:59:03 AM : batch 3200/7891 | train neglogev 114.366 
+03/01/2022 12:59:47 AM : batch 3400/7891 | train neglogev 114.045 
+03/01/2022 01:00:34 AM : batch 3600/7891 | train neglogev 114.398 
+03/01/2022 01:01:16 AM : batch 3800/7891 | train neglogev 113.989 
+03/01/2022 01:01:59 AM : batch 4000/7891 | train neglogev 113.754 
+03/01/2022 01:03:30 AM : batch 4400/7891 | train neglogev 114.297 
+03/01/2022 01:04:13 AM : batch 4600/7891 | train neglogev 114.6 
+03/01/2022 01:04:59 AM : batch 4800/7891 | train neglogev 114.664 
+03/01/2022 01:05:44 AM : batch 5000/7891 | train neglogev 114.743 
+03/01/2022 01:06:28 AM : batch 5200/7891 | train neglogev 114.477 
+03/01/2022 01:07:56 AM : batch 5600/7891 | train neglogev 114.052 
+03/01/2022 01:08:40 AM : batch 5800/7891 | train neglogev 114.018 
+03/01/2022 01:09:24 AM : batch 6000/7891 | train neglogev 113.778 
+03/01/2022 01:10:09 AM : batch 6200/7891 | train neglogev 113.968 
+03/01/2022 01:10:53 AM : batch 6400/7891 | train neglogev 113.963 
+03/01/2022 01:13:06 AM : batch 7000/7891 | train neglogev 113.951 
+03/01/2022 01:13:53 AM : batch 7200/7891 | train neglogev 114.123 
+03/01/2022 01:14:39 AM : batch 7400/7891 | train neglogev 114.028 
+03/01/2022 01:15:22 AM : batch 7600/7891 | train neglogev 114.004 
+03/01/2022 01:16:07 AM : batch 7800/7891 | train neglogev 114.093 
+03/01/2022 01:16:25 AM : epoch 21 | train neglogev 114.147 
+03/01/2022 01:17:26 AM : epoch 21 | valid neglogev 115.778
+03/01/2022 01:17:26 AM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 01:17:26 AM : decay_count: 0
+03/01/2022 01:17:26 AM : now lr: 0.050000
+03/01/2022 01:17:26 AM : Done
+03/01/2022 01:17:26 AM : ar: True
+03/01/2022 01:18:09 AM : batch 200/7891 | train neglogev 107.77 
+03/01/2022 01:18:54 AM : batch 400/7891 | train neglogev 110.996 
+03/01/2022 01:19:37 AM : batch 600/7891 | train neglogev 110.019 
+03/01/2022 01:20:19 AM : batch 800/7891 | train neglogev 109.553 
+03/01/2022 01:21:04 AM : batch 1000/7891 | train neglogev 110.268 
+03/01/2022 01:21:47 AM : batch 1200/7891 | train neglogev 109.852 
+03/01/2022 01:22:33 AM : batch 1400/7891 | train neglogev 110.611 
+03/01/2022 01:23:16 AM : batch 1600/7891 | train neglogev 110.179 
+03/01/2022 01:24:02 AM : batch 1800/7891 | train neglogev 110.499 
+03/01/2022 01:24:48 AM : batch 2000/7891 | train neglogev 111.015 
+03/01/2022 01:26:14 AM : batch 2400/7891 | train neglogev 111.433 
+03/01/2022 01:27:02 AM : batch 2600/7891 | train neglogev 112.39 
+03/01/2022 01:27:45 AM : batch 2800/7891 | train neglogev 112.475 
+03/01/2022 01:28:28 AM : batch 3000/7891 | train neglogev 112.277 
+03/01/2022 01:29:09 AM : batch 3200/7891 | train neglogev 112.095 
+03/01/2022 01:30:41 AM : batch 3600/7891 | train neglogev 112.873 
+03/01/2022 01:31:25 AM : batch 3800/7891 | train neglogev 112.836 
+03/01/2022 01:32:10 AM : batch 4000/7891 | train neglogev 112.831 
+03/01/2022 01:32:54 AM : batch 4200/7891 | train neglogev 112.815 
+03/01/2022 01:33:38 AM : batch 4400/7891 | train neglogev 112.479 
+03/01/2022 01:35:07 AM : batch 4800/7891 | train neglogev 112.172 
+03/01/2022 01:35:50 AM : batch 5000/7891 | train neglogev 112.038 
+03/01/2022 01:36:34 AM : batch 5200/7891 | train neglogev 112.268 
+03/01/2022 01:37:18 AM : batch 5400/7891 | train neglogev 112.419 
+03/01/2022 01:38:01 AM : batch 5600/7891 | train neglogev 112.469 
+03/01/2022 01:38:46 AM : batch 5800/7891 | train neglogev 112.606 
+03/01/2022 01:39:30 AM : batch 6000/7891 | train neglogev 112.514 
+03/01/2022 01:40:12 AM : batch 6200/7891 | train neglogev 112.441 
+03/01/2022 01:40:59 AM : batch 6400/7891 | train neglogev 112.784 
+03/01/2022 01:41:44 AM : batch 6600/7891 | train neglogev 112.789 
+03/01/2022 01:42:32 AM : batch 6800/7891 | train neglogev 113.265 
+03/01/2022 01:43:16 AM : batch 7000/7891 | train neglogev 113.312 
+03/01/2022 01:44:02 AM : batch 7200/7891 | train neglogev 113.511 
+03/01/2022 01:44:50 AM : batch 7400/7891 | train neglogev 113.56 
+03/01/2022 01:46:38 AM : epoch 22 | train neglogev 113.603 
+03/01/2022 01:47:39 AM : epoch 22 | valid neglogev 115.783
+03/01/2022 01:47:39 AM : decay_count: 1
+03/01/2022 01:47:39 AM : now lr: 0.050000
+03/01/2022 01:47:39 AM : Done
+03/01/2022 01:47:39 AM : ar: True
+03/01/2022 01:49:04 AM : batch 400/7891 | train neglogev 111.538 
+03/01/2022 01:49:47 AM : batch 600/7891 | train neglogev 112.283 
+03/01/2022 01:50:30 AM : batch 800/7891 | train neglogev 111.881 
+03/01/2022 01:52:00 AM : batch 1200/7891 | train neglogev 112.002 
+03/01/2022 01:52:47 AM : batch 1400/7891 | train neglogev 113.505 
+03/01/2022 01:53:31 AM : batch 1600/7891 | train neglogev 113.565 
+03/01/2022 01:54:15 AM : batch 1800/7891 | train neglogev 112.725 
+03/01/2022 01:55:01 AM : batch 2000/7891 | train neglogev 113.001 
+03/01/2022 01:55:44 AM : batch 2200/7891 | train neglogev 112.945 
+03/01/2022 01:56:30 AM : batch 2400/7891 | train neglogev 112.716 
+03/01/2022 01:57:14 AM : batch 2600/7891 | train neglogev 112.314 
+03/01/2022 01:58:01 AM : batch 2800/7891 | train neglogev 112.813 
+03/01/2022 01:58:48 AM : batch 3000/7891 | train neglogev 113.305 
+03/01/2022 01:59:34 AM : batch 3200/7891 | train neglogev 113.857 
+03/01/2022 02:00:20 AM : batch 3400/7891 | train neglogev 114.386 
+03/01/2022 02:01:02 AM : batch 3600/7891 | train neglogev 114.12 
+03/01/2022 02:02:30 AM : batch 4000/7891 | train neglogev 113.696 
+03/01/2022 02:03:14 AM : batch 4200/7891 | train neglogev 113.443 
+03/01/2022 02:03:59 AM : batch 4400/7891 | train neglogev 113.633 
+03/01/2022 02:04:44 AM : batch 4600/7891 | train neglogev 113.585 
+03/01/2022 02:05:28 AM : batch 4800/7891 | train neglogev 113.795 
+03/01/2022 02:06:11 AM : batch 5000/7891 | train neglogev 113.627 
+03/01/2022 02:06:56 AM : batch 5200/7891 | train neglogev 113.495 
+03/01/2022 02:07:40 AM : batch 5400/7891 | train neglogev 113.629 
+03/01/2022 02:08:23 AM : batch 5600/7891 | train neglogev 113.539 
+03/01/2022 02:09:06 AM : batch 5800/7891 | train neglogev 113.494 
+03/01/2022 02:09:49 AM : batch 6000/7891 | train neglogev 113.283 
+03/01/2022 02:10:36 AM : batch 6200/7891 | train neglogev 113.548 
+03/01/2022 02:12:04 AM : batch 6600/7891 | train neglogev 113.45 
+03/01/2022 02:12:49 AM : batch 6800/7891 | train neglogev 113.461 
+03/01/2022 02:14:19 AM : batch 7200/7891 | train neglogev 113.302 
+03/01/2022 02:15:02 AM : batch 7400/7891 | train neglogev 113.278 
+03/01/2022 02:15:47 AM : batch 7600/7891 | train neglogev 113.343 
+03/01/2022 02:16:32 AM : batch 7800/7891 | train neglogev 113.371 
+03/01/2022 02:16:51 AM : epoch 23 | train neglogev 113.288 
+03/01/2022 02:17:52 AM : epoch 23 | valid neglogev 115.744
+03/01/2022 02:17:52 AM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 02:17:52 AM : decay_count: 0
+03/01/2022 02:17:52 AM : now lr: 0.050000
+03/01/2022 02:17:52 AM : Done
+03/01/2022 02:17:52 AM : ar: True
+03/01/2022 02:18:35 AM : batch 200/7891 | train neglogev 116.624 
+03/01/2022 02:19:20 AM : batch 400/7891 | train neglogev 112.932 
+03/01/2022 02:20:05 AM : batch 600/7891 | train neglogev 112.712 
+03/01/2022 02:20:51 AM : batch 800/7891 | train neglogev 113.122 
+03/01/2022 02:21:33 AM : batch 1000/7891 | train neglogev 112.117 
+03/01/2022 02:22:16 AM : batch 1200/7891 | train neglogev 112.934 
+03/01/2022 02:23:01 AM : batch 1400/7891 | train neglogev 113.153 
+03/01/2022 02:23:47 AM : batch 1600/7891 | train neglogev 113.627 
+03/01/2022 02:24:33 AM : batch 1800/7891 | train neglogev 113.187 
+03/01/2022 02:25:18 AM : batch 2000/7891 | train neglogev 113.22 
+03/01/2022 02:26:03 AM : batch 2200/7891 | train neglogev 113.576 
+03/01/2022 02:28:16 AM : batch 2800/7891 | train neglogev 112.632 
+03/01/2022 02:29:43 AM : batch 3200/7891 | train neglogev 112.236 
+03/01/2022 02:30:29 AM : batch 3400/7891 | train neglogev 112.365 
+03/01/2022 02:31:14 AM : batch 3600/7891 | train neglogev 111.864 
+03/01/2022 02:32:40 AM : batch 4000/7891 | train neglogev 112.426 
+03/01/2022 02:33:24 AM : batch 4200/7891 | train neglogev 112.636 
+03/01/2022 02:34:08 AM : batch 4400/7891 | train neglogev 112.709 
+03/01/2022 02:34:49 AM : batch 4600/7891 | train neglogev 112.486 
+03/01/2022 02:35:37 AM : batch 4800/7891 | train neglogev 112.704 
+03/01/2022 02:37:07 AM : batch 5200/7891 | train neglogev 113.094 
+03/01/2022 02:38:34 AM : batch 5600/7891 | train neglogev 113.007 
+03/01/2022 02:39:20 AM : batch 5800/7891 | train neglogev 112.801 
+03/01/2022 02:40:04 AM : batch 6000/7891 | train neglogev 112.766 
+03/01/2022 02:40:48 AM : batch 6200/7891 | train neglogev 112.898 
+03/01/2022 02:41:31 AM : batch 6400/7891 | train neglogev 112.678 
+03/01/2022 02:42:15 AM : batch 6600/7891 | train neglogev 112.788 
+03/01/2022 02:43:02 AM : batch 6800/7891 | train neglogev 113.066 
+03/01/2022 02:44:31 AM : batch 7200/7891 | train neglogev 112.962 
+03/01/2022 02:45:14 AM : batch 7400/7891 | train neglogev 112.988 
+03/01/2022 02:46:00 AM : batch 7600/7891 | train neglogev 113.112 
+03/01/2022 02:46:44 AM : batch 7800/7891 | train neglogev 113.048 
+03/01/2022 02:47:03 AM : epoch 24 | train neglogev 112.954 
+03/01/2022 02:48:04 AM : epoch 24 | valid neglogev 115.56
+03/01/2022 02:48:04 AM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 02:48:04 AM : decay_count: 0
+03/01/2022 02:48:04 AM : now lr: 0.050000
+03/01/2022 02:48:04 AM : Done
+03/01/2022 02:48:04 AM : ar: True
+03/01/2022 02:48:49 AM : batch 200/7891 | train neglogev 108.32 
+03/01/2022 02:50:16 AM : batch 600/7891 | train neglogev 107.857 
+03/01/2022 02:51:01 AM : batch 800/7891 | train neglogev 110.073 
+03/01/2022 02:51:46 AM : batch 1000/7891 | train neglogev 110.442 
+03/01/2022 02:52:31 AM : batch 1200/7891 | train neglogev 110.838 
+03/01/2022 02:53:17 AM : batch 1400/7891 | train neglogev 111.701 
+03/01/2022 02:54:02 AM : batch 1600/7891 | train neglogev 112.135 
+03/01/2022 02:54:47 AM : batch 1800/7891 | train neglogev 112.178 
+03/01/2022 02:55:32 AM : batch 2000/7891 | train neglogev 113.024 
+03/01/2022 02:56:18 AM : batch 2200/7891 | train neglogev 113.118 
+03/01/2022 02:57:46 AM : batch 2600/7891 | train neglogev 112.969 
+03/01/2022 02:58:30 AM : batch 2800/7891 | train neglogev 113.263 
+03/01/2022 02:59:13 AM : batch 3000/7891 | train neglogev 112.842 
+03/01/2022 02:59:59 AM : batch 3200/7891 | train neglogev 113.199 
+03/01/2022 03:00:42 AM : batch 3400/7891 | train neglogev 112.845 
+03/01/2022 03:01:24 AM : batch 3600/7891 | train neglogev 112.908 
+03/01/2022 03:02:08 AM : batch 3800/7891 | train neglogev 112.614 
+03/01/2022 03:02:52 AM : batch 4000/7891 | train neglogev 112.74 
+03/01/2022 03:03:37 AM : batch 4200/7891 | train neglogev 112.703 
+03/01/2022 03:04:20 AM : batch 4400/7891 | train neglogev 112.615 
+03/01/2022 03:05:04 AM : batch 4600/7891 | train neglogev 112.452 
+03/01/2022 03:05:47 AM : batch 4800/7891 | train neglogev 112.4 
+03/01/2022 03:07:16 AM : batch 5200/7891 | train neglogev 112.253 
+03/01/2022 03:08:01 AM : batch 5400/7891 | train neglogev 112.075 
+03/01/2022 03:08:46 AM : batch 5600/7891 | train neglogev 112.006 
+03/01/2022 03:09:31 AM : batch 5800/7891 | train neglogev 112.05 
+03/01/2022 03:11:03 AM : batch 6200/7891 | train neglogev 112.616 
+03/01/2022 03:11:46 AM : batch 6400/7891 | train neglogev 112.605 
+03/01/2022 03:12:30 AM : batch 6600/7891 | train neglogev 112.436 
+03/01/2022 03:13:15 AM : batch 6800/7891 | train neglogev 112.625 
+03/01/2022 03:14:43 AM : batch 7200/7891 | train neglogev 112.519 
+03/01/2022 03:16:09 AM : batch 7600/7891 | train neglogev 112.409 
+03/01/2022 03:16:55 AM : batch 7800/7891 | train neglogev 112.631 
+03/01/2022 03:17:16 AM : epoch 25 | train neglogev 112.704 
+03/01/2022 03:18:17 AM : epoch 25 | valid neglogev 115.331
+03/01/2022 03:18:17 AM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 03:18:17 AM : decay_count: 0
+03/01/2022 03:18:17 AM : now lr: 0.050000
+03/01/2022 03:18:17 AM : Done
+03/01/2022 03:18:17 AM : ar: True
+03/01/2022 03:18:59 AM : batch 200/7891 | train neglogev 112.878 
+03/01/2022 03:20:28 AM : batch 600/7891 | train neglogev 113.077 
+03/01/2022 03:21:10 AM : batch 800/7891 | train neglogev 111.934 
+03/01/2022 03:21:54 AM : batch 1000/7891 | train neglogev 112.112 
+03/01/2022 03:22:41 AM : batch 1200/7891 | train neglogev 112.954 
+03/01/2022 03:23:29 AM : batch 1400/7891 | train neglogev 113.52 
+03/01/2022 03:24:12 AM : batch 1600/7891 | train neglogev 111.996 
+03/01/2022 03:24:58 AM : batch 1800/7891 | train neglogev 112.517 
+03/01/2022 03:25:42 AM : batch 2000/7891 | train neglogev 112.551 
+03/01/2022 03:27:58 AM : batch 2600/7891 | train neglogev 112.081 
+03/01/2022 03:28:43 AM : batch 2800/7891 | train neglogev 112.372 
+03/01/2022 03:29:29 AM : batch 3000/7891 | train neglogev 112.605 
+03/01/2022 03:30:56 AM : batch 3400/7891 | train neglogev 112.737 
+03/01/2022 03:31:39 AM : batch 3600/7891 | train neglogev 112.639 
+03/01/2022 03:35:16 AM : batch 4600/7891 | train neglogev 112.494 
+03/01/2022 03:36:01 AM : batch 4800/7891 | train neglogev 112.694 
+03/01/2022 03:36:45 AM : batch 5000/7891 | train neglogev 112.452 
+03/01/2022 03:37:29 AM : batch 5200/7891 | train neglogev 112.294 
+03/01/2022 03:38:11 AM : batch 5400/7891 | train neglogev 112.404 
+03/01/2022 03:38:55 AM : batch 5600/7891 | train neglogev 112.201 
+03/01/2022 03:39:42 AM : batch 5800/7891 | train neglogev 112.579 
+03/01/2022 03:40:26 AM : batch 6000/7891 | train neglogev 112.443 
+03/01/2022 03:41:11 AM : batch 6200/7891 | train neglogev 112.596 
+03/01/2022 03:42:37 AM : batch 6600/7891 | train neglogev 112.532 
+03/01/2022 03:43:22 AM : batch 6800/7891 | train neglogev 112.386 
+03/01/2022 03:44:07 AM : batch 7000/7891 | train neglogev 112.378 
+03/01/2022 03:45:37 AM : batch 7400/7891 | train neglogev 112.437 
+03/01/2022 03:46:22 AM : batch 7600/7891 | train neglogev 112.454 
+03/01/2022 03:47:28 AM : epoch 26 | train neglogev 112.53 
+03/01/2022 03:48:29 AM : epoch 26 | valid neglogev 115.354
+03/01/2022 03:48:29 AM : decay_count: 1
+03/01/2022 03:48:29 AM : now lr: 0.050000
+03/01/2022 03:48:29 AM : Done
+03/01/2022 03:48:29 AM : ar: True
+03/01/2022 03:49:15 AM : batch 200/7891 | train neglogev 114.91 
+03/01/2022 03:49:59 AM : batch 400/7891 | train neglogev 115.385 
+03/01/2022 03:50:41 AM : batch 600/7891 | train neglogev 110.719 
+03/01/2022 03:51:26 AM : batch 800/7891 | train neglogev 110.888 
+03/01/2022 03:52:12 AM : batch 1000/7891 | train neglogev 111.666 
+03/01/2022 03:52:56 AM : batch 1200/7891 | train neglogev 112.034 
+03/01/2022 03:53:40 AM : batch 1400/7891 | train neglogev 112.586 
+03/01/2022 03:54:27 AM : batch 1600/7891 | train neglogev 113.872 
+03/01/2022 03:55:58 AM : batch 2000/7891 | train neglogev 113.805 
+03/01/2022 03:56:43 AM : batch 2200/7891 | train neglogev 114.334 
+03/01/2022 03:57:29 AM : batch 2400/7891 | train neglogev 114.382 
+03/01/2022 03:58:15 AM : batch 2600/7891 | train neglogev 114.583 
+03/01/2022 03:59:01 AM : batch 2800/7891 | train neglogev 114.478 
+03/01/2022 03:59:45 AM : batch 3000/7891 | train neglogev 114.144 
+03/01/2022 04:00:30 AM : batch 3200/7891 | train neglogev 113.943 
+03/01/2022 04:01:15 AM : batch 3400/7891 | train neglogev 113.898 
+03/01/2022 04:01:57 AM : batch 3600/7891 | train neglogev 113.525 
+03/01/2022 04:02:41 AM : batch 3800/7891 | train neglogev 113.385 
+03/01/2022 04:04:10 AM : batch 4200/7891 | train neglogev 113.506 
+03/01/2022 04:06:22 AM : batch 4800/7891 | train neglogev 113.324 
+03/01/2022 04:07:06 AM : batch 5000/7891 | train neglogev 113.238 
+03/01/2022 04:07:49 AM : batch 5200/7891 | train neglogev 112.785 
+03/01/2022 04:08:34 AM : batch 5400/7891 | train neglogev 113.085 
+03/01/2022 04:10:04 AM : batch 5800/7891 | train neglogev 113.146 
+03/01/2022 04:10:47 AM : batch 6000/7891 | train neglogev 112.94 
+03/01/2022 04:11:31 AM : batch 6200/7891 | train neglogev 112.955 
+03/01/2022 04:12:13 AM : batch 6400/7891 | train neglogev 112.921 
+03/01/2022 04:13:42 AM : batch 6800/7891 | train neglogev 112.951 
+03/01/2022 04:14:26 AM : batch 7000/7891 | train neglogev 112.703 
+03/01/2022 04:15:10 AM : batch 7200/7891 | train neglogev 112.79 
+03/01/2022 04:16:38 AM : batch 7600/7891 | train neglogev 112.672 
+03/01/2022 04:17:20 AM : batch 7800/7891 | train neglogev 112.304 
+03/01/2022 04:17:40 AM : epoch 27 | train neglogev 112.324 
+03/01/2022 04:18:40 AM : epoch 27 | valid neglogev 115.462
+03/01/2022 04:18:40 AM : decay_count: 2
+03/01/2022 04:18:40 AM : now lr: 0.050000
+03/01/2022 04:18:40 AM : Done
+03/01/2022 04:18:40 AM : ar: True
+03/01/2022 04:19:24 AM : batch 200/7891 | train neglogev 113.49 
+03/01/2022 04:20:08 AM : batch 400/7891 | train neglogev 114.496 
+03/01/2022 04:20:55 AM : batch 600/7891 | train neglogev 113.754 
+03/01/2022 04:21:40 AM : batch 800/7891 | train neglogev 112.903 
+03/01/2022 04:22:26 AM : batch 1000/7891 | train neglogev 113.834 
+03/01/2022 04:23:11 AM : batch 1200/7891 | train neglogev 114.147 
+03/01/2022 04:23:57 AM : batch 1400/7891 | train neglogev 113.509 
+03/01/2022 04:25:27 AM : batch 1800/7891 | train neglogev 114.198 
+03/01/2022 04:26:12 AM : batch 2000/7891 | train neglogev 114.218 
+03/01/2022 04:26:56 AM : batch 2200/7891 | train neglogev 113.742 
+03/01/2022 04:28:26 AM : batch 2600/7891 | train neglogev 114.045 
+03/01/2022 04:29:10 AM : batch 2800/7891 | train neglogev 113.823 
+03/01/2022 04:29:54 AM : batch 3000/7891 | train neglogev 113.326 
+03/01/2022 04:30:39 AM : batch 3200/7891 | train neglogev 113.184 
+03/01/2022 04:31:21 AM : batch 3400/7891 | train neglogev 113.284 
+03/01/2022 04:32:07 AM : batch 3600/7891 | train neglogev 113.578 
+03/01/2022 04:32:51 AM : batch 3800/7891 | train neglogev 113.417 
+03/01/2022 04:33:35 AM : batch 4000/7891 | train neglogev 113.206 
+03/01/2022 04:34:19 AM : batch 4200/7891 | train neglogev 113.197 
+03/01/2022 04:35:03 AM : batch 4400/7891 | train neglogev 113.215 
+03/01/2022 04:35:46 AM : batch 4600/7891 | train neglogev 113.023 
+03/01/2022 04:36:29 AM : batch 4800/7891 | train neglogev 112.829 
+03/01/2022 04:37:12 AM : batch 5000/7891 | train neglogev 112.709 
+03/01/2022 04:37:54 AM : batch 5200/7891 | train neglogev 112.255 
+03/01/2022 04:38:39 AM : batch 5400/7891 | train neglogev 112.411 
+03/01/2022 04:39:23 AM : batch 5600/7891 | train neglogev 112.429 
+03/01/2022 04:40:06 AM : batch 5800/7891 | train neglogev 112.276 
+03/01/2022 04:41:35 AM : batch 6200/7891 | train neglogev 112.02 
+03/01/2022 04:43:07 AM : batch 6600/7891 | train neglogev 112.148 
+03/01/2022 04:43:53 AM : batch 6800/7891 | train neglogev 112.337 
+03/01/2022 04:44:35 AM : batch 7000/7891 | train neglogev 112.315 
+03/01/2022 04:45:18 AM : batch 7200/7891 | train neglogev 112.242 
+03/01/2022 04:46:04 AM : batch 7400/7891 | train neglogev 112.308 
+03/01/2022 04:46:48 AM : batch 7600/7891 | train neglogev 112.307 
+03/01/2022 04:47:33 AM : batch 7800/7891 | train neglogev 112.22 
+03/01/2022 04:47:52 AM : epoch 28 | train neglogev 112.173 
+03/01/2022 04:48:53 AM : epoch 28 | valid neglogev 115.288
+03/01/2022 04:48:53 AM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 04:48:53 AM : decay_count: 0
+03/01/2022 04:48:53 AM : now lr: 0.050000
+03/01/2022 04:48:53 AM : Done
+03/01/2022 04:48:53 AM : ar: True
+03/01/2022 04:49:37 AM : batch 200/7891 | train neglogev 104.767 
+03/01/2022 04:50:24 AM : batch 400/7891 | train neglogev 109.008 
+03/01/2022 04:51:07 AM : batch 600/7891 | train neglogev 109.974 
+03/01/2022 04:52:36 AM : batch 1000/7891 | train neglogev 112.281 
+03/01/2022 04:53:22 AM : batch 1200/7891 | train neglogev 112.438 
+03/01/2022 04:54:07 AM : batch 1400/7891 | train neglogev 112.109 
+03/01/2022 04:54:53 AM : batch 1600/7891 | train neglogev 112.086 
+03/01/2022 04:55:36 AM : batch 1800/7891 | train neglogev 111.23 
+03/01/2022 04:56:18 AM : batch 2000/7891 | train neglogev 111.021 
+03/01/2022 04:57:03 AM : batch 2200/7891 | train neglogev 112.056 
+03/01/2022 04:57:47 AM : batch 2400/7891 | train neglogev 111.608 
+03/01/2022 04:58:30 AM : batch 2600/7891 | train neglogev 111.451 
+03/01/2022 04:59:15 AM : batch 2800/7891 | train neglogev 111.381 
+03/01/2022 05:00:00 AM : batch 3000/7891 | train neglogev 111.398 
+03/01/2022 05:01:25 AM : batch 3400/7891 | train neglogev 110.56 
+03/01/2022 05:02:11 AM : batch 3600/7891 | train neglogev 110.65 
+03/01/2022 05:02:56 AM : batch 3800/7891 | train neglogev 111.212 
+03/01/2022 05:03:41 AM : batch 4000/7891 | train neglogev 111.254 
+03/01/2022 05:04:26 AM : batch 4200/7891 | train neglogev 111.574 
+03/01/2022 05:05:53 AM : batch 4600/7891 | train neglogev 111.605 
+03/01/2022 05:06:39 AM : batch 4800/7891 | train neglogev 111.566 
+03/01/2022 05:07:24 AM : batch 5000/7891 | train neglogev 111.654 
+03/01/2022 05:08:08 AM : batch 5200/7891 | train neglogev 111.626 
+03/01/2022 05:08:54 AM : batch 5400/7891 | train neglogev 111.716 
+03/01/2022 05:09:40 AM : batch 5600/7891 | train neglogev 111.677 
+03/01/2022 05:10:25 AM : batch 5800/7891 | train neglogev 111.798 
+03/01/2022 05:11:08 AM : batch 6000/7891 | train neglogev 111.859 
+03/01/2022 05:11:52 AM : batch 6200/7891 | train neglogev 111.826 
+03/01/2022 05:12:34 AM : batch 6400/7891 | train neglogev 111.538 
+03/01/2022 05:14:47 AM : batch 7000/7891 | train neglogev 111.66 
+03/01/2022 05:16:17 AM : batch 7400/7891 | train neglogev 111.819 
+03/01/2022 05:17:00 AM : batch 7600/7891 | train neglogev 111.842 
+03/01/2022 05:18:05 AM : epoch 29 | train neglogev 111.957 
+03/01/2022 05:19:06 AM : epoch 29 | valid neglogev 115.109
+03/01/2022 05:19:06 AM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 05:19:06 AM : decay_count: 0
+03/01/2022 05:19:06 AM : now lr: 0.050000
+03/01/2022 05:19:06 AM : Done
+03/01/2022 05:19:06 AM : ar: True
+03/01/2022 05:21:21 AM : batch 600/7891 | train neglogev 116.298 
+03/01/2022 05:22:07 AM : batch 800/7891 | train neglogev 115.178 
+03/01/2022 05:22:51 AM : batch 1000/7891 | train neglogev 113.081 
+03/01/2022 05:23:35 AM : batch 1200/7891 | train neglogev 112.69 
+03/01/2022 05:24:19 AM : batch 1400/7891 | train neglogev 112.421 
+03/01/2022 05:25:04 AM : batch 1600/7891 | train neglogev 112.604 
+03/01/2022 05:25:50 AM : batch 1800/7891 | train neglogev 113.163 
+03/01/2022 05:26:35 AM : batch 2000/7891 | train neglogev 113.148 
+03/01/2022 05:27:16 AM : batch 2200/7891 | train neglogev 112.292 
+03/01/2022 05:28:50 AM : batch 2600/7891 | train neglogev 113.245 
+03/01/2022 05:29:35 AM : batch 2800/7891 | train neglogev 113.389 
+03/01/2022 05:30:18 AM : batch 3000/7891 | train neglogev 113.115 
+03/01/2022 05:31:03 AM : batch 3200/7891 | train neglogev 112.87 
+03/01/2022 05:31:46 AM : batch 3400/7891 | train neglogev 112.612 
+03/01/2022 05:32:30 AM : batch 3600/7891 | train neglogev 112.523 
+03/01/2022 05:33:13 AM : batch 3800/7891 | train neglogev 112.576 
+03/01/2022 05:33:58 AM : batch 4000/7891 | train neglogev 112.286 
+03/01/2022 05:34:42 AM : batch 4200/7891 | train neglogev 112.302 
+03/01/2022 05:35:28 AM : batch 4400/7891 | train neglogev 112.571 
+03/01/2022 05:36:14 AM : batch 4600/7891 | train neglogev 112.484 
+03/01/2022 05:36:59 AM : batch 4800/7891 | train neglogev 112.612 
+03/01/2022 05:37:43 AM : batch 5000/7891 | train neglogev 112.46 
+03/01/2022 05:38:25 AM : batch 5200/7891 | train neglogev 112.167 
+03/01/2022 05:39:10 AM : batch 5400/7891 | train neglogev 112.361 
+03/01/2022 05:39:53 AM : batch 5600/7891 | train neglogev 111.913 
+03/01/2022 05:40:36 AM : batch 5800/7891 | train neglogev 111.885 
+03/01/2022 05:41:22 AM : batch 6000/7891 | train neglogev 111.996 
+03/01/2022 05:42:06 AM : batch 6200/7891 | train neglogev 111.884 
+03/01/2022 05:42:51 AM : batch 6400/7891 | train neglogev 111.967 
+03/01/2022 05:43:34 AM : batch 6600/7891 | train neglogev 111.966 
+03/01/2022 05:44:17 AM : batch 6800/7891 | train neglogev 111.884 
+03/01/2022 05:45:00 AM : batch 7000/7891 | train neglogev 111.841 
+03/01/2022 05:45:43 AM : batch 7200/7891 | train neglogev 111.843 
+03/01/2022 05:47:14 AM : batch 7600/7891 | train neglogev 111.847 
+03/01/2022 05:47:58 AM : batch 7800/7891 | train neglogev 111.82 
+03/01/2022 05:48:17 AM : epoch 30 | train neglogev 111.84 
+03/01/2022 05:49:17 AM : epoch 30 | valid neglogev 115.095
+03/01/2022 05:49:17 AM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 05:49:17 AM : decay_count: 0
+03/01/2022 05:49:17 AM : now lr: 0.050000
+03/01/2022 05:49:17 AM : Done
+03/01/2022 05:49:17 AM : ar: True
+03/01/2022 05:50:04 AM : batch 200/7891 | train neglogev 115.07 
+03/01/2022 05:50:49 AM : batch 400/7891 | train neglogev 114.423 
+03/01/2022 05:51:37 AM : batch 600/7891 | train neglogev 117.755 
+03/01/2022 05:52:21 AM : batch 800/7891 | train neglogev 116.516 
+03/01/2022 05:53:05 AM : batch 1000/7891 | train neglogev 115.275 
+03/01/2022 05:53:48 AM : batch 1200/7891 | train neglogev 114.231 
+03/01/2022 05:54:32 AM : batch 1400/7891 | train neglogev 112.925 
+03/01/2022 05:55:19 AM : batch 1600/7891 | train neglogev 113.702 
+03/01/2022 05:56:03 AM : batch 1800/7891 | train neglogev 113.983 
+03/01/2022 05:56:49 AM : batch 2000/7891 | train neglogev 114.176 
+03/01/2022 05:57:34 AM : batch 2200/7891 | train neglogev 113.943 
+03/01/2022 05:58:19 AM : batch 2400/7891 | train neglogev 114.036 
+03/01/2022 05:59:03 AM : batch 2600/7891 | train neglogev 113.55 
+03/01/2022 05:59:49 AM : batch 2800/7891 | train neglogev 113.351 
+03/01/2022 06:00:33 AM : batch 3000/7891 | train neglogev 113.586 
+03/01/2022 06:01:17 AM : batch 3200/7891 | train neglogev 112.975 
+03/01/2022 06:02:02 AM : batch 3400/7891 | train neglogev 112.862 
+03/01/2022 06:03:27 AM : batch 3800/7891 | train neglogev 112.244 
+03/01/2022 06:04:11 AM : batch 4000/7891 | train neglogev 112.174 
+03/01/2022 06:04:56 AM : batch 4200/7891 | train neglogev 111.84 
+03/01/2022 06:05:38 AM : batch 4400/7891 | train neglogev 111.731 
+03/01/2022 06:06:26 AM : batch 4600/7891 | train neglogev 111.96 
+03/01/2022 06:07:09 AM : batch 4800/7891 | train neglogev 111.977 
+03/01/2022 06:07:52 AM : batch 5000/7891 | train neglogev 111.995 
+03/01/2022 06:08:38 AM : batch 5200/7891 | train neglogev 112.152 
+03/01/2022 06:09:23 AM : batch 5400/7891 | train neglogev 112.133 
+03/01/2022 06:10:08 AM : batch 5600/7891 | train neglogev 112.149 
+03/01/2022 06:10:51 AM : batch 5800/7891 | train neglogev 111.943 
+03/01/2022 06:11:35 AM : batch 6000/7891 | train neglogev 112.108 
+03/01/2022 06:12:19 AM : batch 6200/7891 | train neglogev 112.2 
+03/01/2022 06:13:02 AM : batch 6400/7891 | train neglogev 111.985 
+03/01/2022 06:13:48 AM : batch 6600/7891 | train neglogev 112.196 
+03/01/2022 06:15:12 AM : batch 7000/7891 | train neglogev 111.86 
+03/01/2022 06:15:54 AM : batch 7200/7891 | train neglogev 111.638 
+03/01/2022 06:16:39 AM : batch 7400/7891 | train neglogev 111.649 
+03/01/2022 06:17:24 AM : batch 7600/7891 | train neglogev 111.642 
+03/01/2022 06:18:26 AM : epoch 31 | train neglogev 111.639 
+03/01/2022 06:19:27 AM : epoch 31 | valid neglogev 115.03
+03/01/2022 06:19:27 AM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 06:19:27 AM : decay_count: 0
+03/01/2022 06:19:27 AM : now lr: 0.050000
+03/01/2022 06:19:27 AM : Done
+03/01/2022 06:19:27 AM : ar: True
+03/01/2022 06:20:08 AM : batch 200/7891 | train neglogev 104.356 
+03/01/2022 06:20:55 AM : batch 400/7891 | train neglogev 109.68 
+03/01/2022 06:21:40 AM : batch 600/7891 | train neglogev 109.955 
+03/01/2022 06:22:22 AM : batch 800/7891 | train neglogev 108.299 
+03/01/2022 06:23:07 AM : batch 1000/7891 | train neglogev 108.995 
+03/01/2022 06:24:34 AM : batch 1400/7891 | train neglogev 109.747 
+03/01/2022 06:25:15 AM : batch 1600/7891 | train neglogev 108.918 
+03/01/2022 06:25:58 AM : batch 1800/7891 | train neglogev 109.091 
+03/01/2022 06:26:43 AM : batch 2000/7891 | train neglogev 109.194 
+03/01/2022 06:27:28 AM : batch 2200/7891 | train neglogev 109.884 
+03/01/2022 06:28:13 AM : batch 2400/7891 | train neglogev 110.692 
+03/01/2022 06:28:57 AM : batch 2600/7891 | train neglogev 110.69 
+03/01/2022 06:29:43 AM : batch 2800/7891 | train neglogev 111.133 
+03/01/2022 06:31:12 AM : batch 3200/7891 | train neglogev 111.1 
+03/01/2022 06:32:41 AM : batch 3600/7891 | train neglogev 111.364 
+03/01/2022 06:33:26 AM : batch 3800/7891 | train neglogev 111.151 
+03/01/2022 06:34:10 AM : batch 4000/7891 | train neglogev 111.292 
+03/01/2022 06:34:55 AM : batch 4200/7891 | train neglogev 111.418 
+03/01/2022 06:35:39 AM : batch 4400/7891 | train neglogev 111.259 
+03/01/2022 06:36:23 AM : batch 4600/7891 | train neglogev 111.244 
+03/01/2022 06:37:51 AM : batch 5000/7891 | train neglogev 110.81 
+03/01/2022 06:39:22 AM : batch 5400/7891 | train neglogev 111.402 
+03/01/2022 06:40:07 AM : batch 5600/7891 | train neglogev 111.601 
+03/01/2022 06:40:53 AM : batch 5800/7891 | train neglogev 111.77 
+03/01/2022 06:41:37 AM : batch 6000/7891 | train neglogev 111.799 
+03/01/2022 06:42:18 AM : batch 6200/7891 | train neglogev 111.528 
+03/01/2022 06:43:00 AM : batch 6400/7891 | train neglogev 111.363 
+03/01/2022 06:43:46 AM : batch 6600/7891 | train neglogev 111.344 
+03/01/2022 06:44:31 AM : batch 6800/7891 | train neglogev 111.341 
+03/01/2022 06:45:17 AM : batch 7000/7891 | train neglogev 111.569 
+03/01/2022 06:46:03 AM : batch 7200/7891 | train neglogev 111.61 
+03/01/2022 06:46:50 AM : batch 7400/7891 | train neglogev 111.764 
+03/01/2022 06:47:34 AM : batch 7600/7891 | train neglogev 111.806 
+03/01/2022 06:48:17 AM : batch 7800/7891 | train neglogev 111.474 
+03/01/2022 06:48:37 AM : epoch 32 | train neglogev 111.56 
+03/01/2022 06:49:38 AM : epoch 32 | valid neglogev 114.898
+03/01/2022 06:49:38 AM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 06:49:38 AM : decay_count: 0
+03/01/2022 06:49:38 AM : now lr: 0.050000
+03/01/2022 06:49:38 AM : Done
+03/01/2022 06:49:38 AM : ar: True
+03/01/2022 06:50:24 AM : batch 200/7891 | train neglogev 114.651 
+03/01/2022 06:51:08 AM : batch 400/7891 | train neglogev 112.021 
+03/01/2022 06:51:53 AM : batch 600/7891 | train neglogev 112.091 
+03/01/2022 06:52:37 AM : batch 800/7891 | train neglogev 112.366 
+03/01/2022 06:53:24 AM : batch 1000/7891 | train neglogev 111.644 
+03/01/2022 06:54:07 AM : batch 1200/7891 | train neglogev 109.928 
+03/01/2022 06:54:51 AM : batch 1400/7891 | train neglogev 110.422 
+03/01/2022 06:55:35 AM : batch 1600/7891 | train neglogev 109.289 
+03/01/2022 06:56:19 AM : batch 1800/7891 | train neglogev 108.976 
+03/01/2022 06:57:03 AM : batch 2000/7891 | train neglogev 108.746 
+03/01/2022 06:57:47 AM : batch 2200/7891 | train neglogev 109.184 
+03/01/2022 06:58:32 AM : batch 2400/7891 | train neglogev 109.434 
+03/01/2022 06:59:16 AM : batch 2600/7891 | train neglogev 109.741 
+03/01/2022 07:00:42 AM : batch 3000/7891 | train neglogev 110.239 
+03/01/2022 07:01:26 AM : batch 3200/7891 | train neglogev 110.67 
+03/01/2022 07:02:13 AM : batch 3400/7891 | train neglogev 111.177 
+03/01/2022 07:02:59 AM : batch 3600/7891 | train neglogev 111.245 
+03/01/2022 07:03:43 AM : batch 3800/7891 | train neglogev 111.112 
+03/01/2022 07:04:27 AM : batch 4000/7891 | train neglogev 111.001 
+03/01/2022 07:05:13 AM : batch 4200/7891 | train neglogev 110.936 
+03/01/2022 07:05:58 AM : batch 4400/7891 | train neglogev 111.11 
+03/01/2022 07:06:44 AM : batch 4600/7891 | train neglogev 111.268 
+03/01/2022 07:07:30 AM : batch 4800/7891 | train neglogev 111.434 
+03/01/2022 07:08:15 AM : batch 5000/7891 | train neglogev 111.5 
+03/01/2022 07:09:01 AM : batch 5200/7891 | train neglogev 111.463 
+03/01/2022 07:10:27 AM : batch 5600/7891 | train neglogev 111.137 
+03/01/2022 07:11:10 AM : batch 5800/7891 | train neglogev 110.921 
+03/01/2022 07:11:54 AM : batch 6000/7891 | train neglogev 110.973 
+03/01/2022 07:12:36 AM : batch 6200/7891 | train neglogev 110.995 
+03/01/2022 07:13:20 AM : batch 6400/7891 | train neglogev 111.057 
+03/01/2022 07:14:05 AM : batch 6600/7891 | train neglogev 111.053 
+03/01/2022 07:14:48 AM : batch 6800/7891 | train neglogev 111.015 
+03/01/2022 07:15:29 AM : batch 7000/7891 | train neglogev 111 
+03/01/2022 07:17:01 AM : batch 7400/7891 | train neglogev 111.249 
+03/01/2022 07:17:44 AM : batch 7600/7891 | train neglogev 111.181 
+03/01/2022 07:18:49 AM : epoch 33 | train neglogev 111.382 
+03/01/2022 07:19:50 AM : epoch 33 | valid neglogev 114.933
+03/01/2022 07:19:50 AM : decay_count: 1
+03/01/2022 07:19:50 AM : now lr: 0.050000
+03/01/2022 07:19:50 AM : Done
+03/01/2022 07:19:50 AM : ar: True
+03/01/2022 07:20:35 AM : batch 200/7891 | train neglogev 113.664 
+03/01/2022 07:21:17 AM : batch 400/7891 | train neglogev 108.464 
+03/01/2022 07:22:03 AM : batch 600/7891 | train neglogev 107.695 
+03/01/2022 07:22:46 AM : batch 800/7891 | train neglogev 107.141 
+03/01/2022 07:23:31 AM : batch 1000/7891 | train neglogev 108.187 
+03/01/2022 07:24:15 AM : batch 1200/7891 | train neglogev 108.815 
+03/01/2022 07:24:59 AM : batch 1400/7891 | train neglogev 107.941 
+03/01/2022 07:25:42 AM : batch 1600/7891 | train neglogev 107.549 
+03/01/2022 07:26:28 AM : batch 1800/7891 | train neglogev 108.744 
+03/01/2022 07:27:13 AM : batch 2000/7891 | train neglogev 108.527 
+03/01/2022 07:27:58 AM : batch 2200/7891 | train neglogev 109.37 
+03/01/2022 07:28:44 AM : batch 2400/7891 | train neglogev 109.722 
+03/01/2022 07:29:29 AM : batch 2600/7891 | train neglogev 110.377 
+03/01/2022 07:30:11 AM : batch 2800/7891 | train neglogev 109.831 
+03/01/2022 07:31:40 AM : batch 3200/7891 | train neglogev 109.881 
+03/01/2022 07:32:26 AM : batch 3400/7891 | train neglogev 110.157 
+03/01/2022 07:33:08 AM : batch 3600/7891 | train neglogev 109.886 
+03/01/2022 07:33:54 AM : batch 3800/7891 | train neglogev 110.256 
+03/01/2022 07:34:38 AM : batch 4000/7891 | train neglogev 110.096 
+03/01/2022 07:35:24 AM : batch 4200/7891 | train neglogev 110.031 
+03/01/2022 07:36:05 AM : batch 4400/7891 | train neglogev 109.794 
+03/01/2022 07:36:51 AM : batch 4600/7891 | train neglogev 109.862 
+03/01/2022 07:37:37 AM : batch 4800/7891 | train neglogev 109.98 
+03/01/2022 07:38:21 AM : batch 5000/7891 | train neglogev 109.906 
+03/01/2022 07:39:05 AM : batch 5200/7891 | train neglogev 109.825 
+03/01/2022 07:39:48 AM : batch 5400/7891 | train neglogev 109.943 
+03/01/2022 07:40:33 AM : batch 5600/7891 | train neglogev 109.834 
+03/01/2022 07:41:15 AM : batch 5800/7891 | train neglogev 109.823 
+03/01/2022 07:42:00 AM : batch 6000/7891 | train neglogev 110.078 
+03/01/2022 07:42:46 AM : batch 6200/7891 | train neglogev 110.559 
+03/01/2022 07:44:16 AM : batch 6600/7891 | train neglogev 110.779 
+03/01/2022 07:45:45 AM : batch 7000/7891 | train neglogev 110.907 
+03/01/2022 07:46:28 AM : batch 7200/7891 | train neglogev 110.833 
+03/01/2022 07:47:56 AM : batch 7600/7891 | train neglogev 111.272 
+03/01/2022 07:48:40 AM : batch 7800/7891 | train neglogev 111.234 
+03/01/2022 07:49:01 AM : epoch 34 | train neglogev 111.283 
+03/01/2022 07:50:02 AM : epoch 34 | valid neglogev 114.817
+03/01/2022 07:50:02 AM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 07:50:02 AM : decay_count: 0
+03/01/2022 07:50:02 AM : now lr: 0.050000
+03/01/2022 07:50:02 AM : Done
+03/01/2022 07:50:02 AM : ar: True
+03/01/2022 07:50:46 AM : batch 200/7891 | train neglogev 110.383 
+03/01/2022 07:51:33 AM : batch 400/7891 | train neglogev 114.39 
+03/01/2022 07:52:18 AM : batch 600/7891 | train neglogev 114.545 
+03/01/2022 07:53:01 AM : batch 800/7891 | train neglogev 111.614 
+03/01/2022 07:53:46 AM : batch 1000/7891 | train neglogev 111.385 
+03/01/2022 07:54:31 AM : batch 1200/7891 | train neglogev 111.75 
+03/01/2022 07:55:15 AM : batch 1400/7891 | train neglogev 110.677 
+03/01/2022 07:56:01 AM : batch 1600/7891 | train neglogev 111.448 
+03/01/2022 07:56:46 AM : batch 1800/7891 | train neglogev 111.42 
+03/01/2022 07:57:30 AM : batch 2000/7891 | train neglogev 111.671 
+03/01/2022 07:58:13 AM : batch 2200/7891 | train neglogev 111.042 
+03/01/2022 07:58:56 AM : batch 2400/7891 | train neglogev 110.906 
+03/01/2022 07:59:41 AM : batch 2600/7891 | train neglogev 110.992 
+03/01/2022 08:00:27 AM : batch 2800/7891 | train neglogev 111.222 
+03/01/2022 08:01:10 AM : batch 3000/7891 | train neglogev 111.462 
+03/01/2022 08:01:56 AM : batch 3200/7891 | train neglogev 111.737 
+03/01/2022 08:03:26 AM : batch 3600/7891 | train neglogev 111.884 
+03/01/2022 08:04:11 AM : batch 3800/7891 | train neglogev 111.871 
+03/01/2022 08:04:55 AM : batch 4000/7891 | train neglogev 112.13 
+03/01/2022 08:05:40 AM : batch 4200/7891 | train neglogev 111.925 
+03/01/2022 08:06:26 AM : batch 4400/7891 | train neglogev 112.388 
+03/01/2022 08:07:11 AM : batch 4600/7891 | train neglogev 112.374 
+03/01/2022 08:07:55 AM : batch 4800/7891 | train neglogev 112.005 
+03/01/2022 08:08:40 AM : batch 5000/7891 | train neglogev 111.95 
+03/01/2022 08:09:24 AM : batch 5200/7891 | train neglogev 112.044 
+03/01/2022 08:10:10 AM : batch 5400/7891 | train neglogev 112.025 
+03/01/2022 08:10:54 AM : batch 5600/7891 | train neglogev 111.812 
+03/01/2022 08:12:22 AM : batch 6000/7891 | train neglogev 111.804 
+03/01/2022 08:13:06 AM : batch 6200/7891 | train neglogev 111.712 
+03/01/2022 08:13:49 AM : batch 6400/7891 | train neglogev 111.756 
+03/01/2022 08:14:34 AM : batch 6600/7891 | train neglogev 111.714 
+03/01/2022 08:15:16 AM : batch 6800/7891 | train neglogev 111.552 
+03/01/2022 08:15:57 AM : batch 7000/7891 | train neglogev 111.503 
+03/01/2022 08:16:41 AM : batch 7200/7891 | train neglogev 111.273 
+03/01/2022 08:18:09 AM : batch 7600/7891 | train neglogev 111.191 
+03/01/2022 08:18:53 AM : batch 7800/7891 | train neglogev 111.115 
+03/01/2022 08:19:13 AM : epoch 35 | train neglogev 111.161 
+03/01/2022 08:20:14 AM : epoch 35 | valid neglogev 115.02
+03/01/2022 08:20:14 AM : decay_count: 1
+03/01/2022 08:20:14 AM : now lr: 0.050000
+03/01/2022 08:20:14 AM : Done
+03/01/2022 08:20:14 AM : ar: True
+03/01/2022 08:20:56 AM : batch 200/7891 | train neglogev 106.619 
+03/01/2022 08:21:41 AM : batch 400/7891 | train neglogev 109.927 
+03/01/2022 08:22:27 AM : batch 600/7891 | train neglogev 110.309 
+03/01/2022 08:23:12 AM : batch 800/7891 | train neglogev 110.235 
+03/01/2022 08:24:37 AM : batch 1200/7891 | train neglogev 108.68 
+03/01/2022 08:25:23 AM : batch 1400/7891 | train neglogev 109.786 
+03/01/2022 08:26:07 AM : batch 1600/7891 | train neglogev 110.175 
+03/01/2022 08:26:51 AM : batch 1800/7891 | train neglogev 110.754 
+03/01/2022 08:27:36 AM : batch 2000/7891 | train neglogev 111.101 
+03/01/2022 08:28:19 AM : batch 2200/7891 | train neglogev 110.864 
+03/01/2022 08:29:01 AM : batch 2400/7891 | train neglogev 110.725 
+03/01/2022 08:29:44 AM : batch 2600/7891 | train neglogev 110.189 
+03/01/2022 08:30:27 AM : batch 2800/7891 | train neglogev 110.442 
+03/01/2022 08:31:12 AM : batch 3000/7891 | train neglogev 110.07 
+03/01/2022 08:31:56 AM : batch 3200/7891 | train neglogev 109.919 
+03/01/2022 08:32:38 AM : batch 3400/7891 | train neglogev 109.437 
+03/01/2022 08:33:22 AM : batch 3600/7891 | train neglogev 109.577 
+03/01/2022 08:34:08 AM : batch 3800/7891 | train neglogev 109.863 
+03/01/2022 08:34:55 AM : batch 4000/7891 | train neglogev 110.192 
+03/01/2022 08:35:39 AM : batch 4200/7891 | train neglogev 110.413 
+03/01/2022 08:36:23 AM : batch 4400/7891 | train neglogev 110.467 
+03/01/2022 08:37:09 AM : batch 4600/7891 | train neglogev 110.955 
+03/01/2022 08:37:52 AM : batch 4800/7891 | train neglogev 110.731 
+03/01/2022 08:38:36 AM : batch 5000/7891 | train neglogev 110.667 
+03/01/2022 08:39:22 AM : batch 5200/7891 | train neglogev 110.598 
+03/01/2022 08:40:07 AM : batch 5400/7891 | train neglogev 110.441 
+03/01/2022 08:40:51 AM : batch 5600/7891 | train neglogev 110.428 
+03/01/2022 08:41:35 AM : batch 5800/7891 | train neglogev 110.518 
+03/01/2022 08:42:22 AM : batch 6000/7891 | train neglogev 110.721 
+03/01/2022 08:43:51 AM : batch 6400/7891 | train neglogev 110.808 
+03/01/2022 08:44:36 AM : batch 6600/7891 | train neglogev 110.983 
+03/01/2022 08:45:22 AM : batch 6800/7891 | train neglogev 111.004 
+03/01/2022 08:46:05 AM : batch 7000/7891 | train neglogev 110.952 
+03/01/2022 08:46:50 AM : batch 7200/7891 | train neglogev 110.959 
+03/01/2022 08:47:35 AM : batch 7400/7891 | train neglogev 111.014 
+03/01/2022 08:48:18 AM : batch 7600/7891 | train neglogev 110.934 
+03/01/2022 08:49:02 AM : batch 7800/7891 | train neglogev 110.954 
+03/01/2022 08:49:25 AM : epoch 36 | train neglogev 111.066 
+03/01/2022 08:50:25 AM : epoch 36 | valid neglogev 114.857
+03/01/2022 08:50:25 AM : decay_count: 2
+03/01/2022 08:50:25 AM : now lr: 0.050000
+03/01/2022 08:50:25 AM : Done
+03/01/2022 08:50:25 AM : ar: True
+03/01/2022 08:51:10 AM : batch 200/7891 | train neglogev 107.157 
+03/01/2022 08:51:54 AM : batch 400/7891 | train neglogev 106.338 
+03/01/2022 08:52:35 AM : batch 600/7891 | train neglogev 105.974 
+03/01/2022 08:53:19 AM : batch 800/7891 | train neglogev 105.9 
+03/01/2022 08:54:03 AM : batch 1000/7891 | train neglogev 106.446 
+03/01/2022 08:54:46 AM : batch 1200/7891 | train neglogev 106.693 
+03/01/2022 08:55:30 AM : batch 1400/7891 | train neglogev 107.828 
+03/01/2022 08:56:14 AM : batch 1600/7891 | train neglogev 107.672 
+03/01/2022 08:57:00 AM : batch 1800/7891 | train neglogev 108.15 
+03/01/2022 08:57:44 AM : batch 2000/7891 | train neglogev 108.377 
+03/01/2022 08:58:29 AM : batch 2200/7891 | train neglogev 108.466 
+03/01/2022 08:59:14 AM : batch 2400/7891 | train neglogev 108.566 
+03/01/2022 08:59:58 AM : batch 2600/7891 | train neglogev 108.891 
+03/01/2022 09:00:45 AM : batch 2800/7891 | train neglogev 109.484 
+03/01/2022 09:01:30 AM : batch 3000/7891 | train neglogev 109.652 
+03/01/2022 09:02:17 AM : batch 3200/7891 | train neglogev 109.863 
+03/01/2022 09:03:02 AM : batch 3400/7891 | train neglogev 109.944 
+03/01/2022 09:03:46 AM : batch 3600/7891 | train neglogev 110.436 
+03/01/2022 09:04:31 AM : batch 3800/7891 | train neglogev 110.575 
+03/01/2022 09:05:14 AM : batch 4000/7891 | train neglogev 110.413 
+03/01/2022 09:06:00 AM : batch 4200/7891 | train neglogev 110.545 
+03/01/2022 09:06:43 AM : batch 4400/7891 | train neglogev 110.762 
+03/01/2022 09:07:30 AM : batch 4600/7891 | train neglogev 110.938 
+03/01/2022 09:08:17 AM : batch 4800/7891 | train neglogev 111.384 
+03/01/2022 09:09:44 AM : batch 5200/7891 | train neglogev 111.5 
+03/01/2022 09:11:14 AM : batch 5600/7891 | train neglogev 111.495 
+03/01/2022 09:11:55 AM : batch 5800/7891 | train neglogev 111.268 
+03/01/2022 09:12:38 AM : batch 6000/7891 | train neglogev 111.114 
+03/01/2022 09:13:21 AM : batch 6200/7891 | train neglogev 110.906 
+03/01/2022 09:14:05 AM : batch 6400/7891 | train neglogev 110.854 
+03/01/2022 09:14:48 AM : batch 6600/7891 | train neglogev 110.682 
+03/01/2022 09:15:34 AM : batch 6800/7891 | train neglogev 110.997 
+03/01/2022 09:16:19 AM : batch 7000/7891 | train neglogev 110.927 
+03/01/2022 09:17:51 AM : batch 7400/7891 | train neglogev 110.978 
+03/01/2022 09:19:16 AM : batch 7800/7891 | train neglogev 110.925 
+03/01/2022 09:19:36 AM : epoch 37 | train neglogev 110.935 
+03/01/2022 09:20:36 AM : epoch 37 | valid neglogev 114.94
+03/01/2022 09:20:36 AM : decay_count: 3
+03/01/2022 09:20:36 AM : now lr: 0.050000
+03/01/2022 09:20:36 AM : Done
+03/01/2022 09:20:36 AM : ar: True
+03/01/2022 09:21:21 AM : batch 200/7891 | train neglogev 111.77 
+03/01/2022 09:24:16 AM : batch 1000/7891 | train neglogev 110.18 
+03/01/2022 09:24:59 AM : batch 1200/7891 | train neglogev 109.376 
+03/01/2022 09:25:43 AM : batch 1400/7891 | train neglogev 109.68 
+03/01/2022 09:26:31 AM : batch 1600/7891 | train neglogev 110.025 
+03/01/2022 09:27:14 AM : batch 1800/7891 | train neglogev 109.805 
+03/01/2022 09:27:59 AM : batch 2000/7891 | train neglogev 110.132 
+03/01/2022 09:29:29 AM : batch 2400/7891 | train neglogev 110.396 
+03/01/2022 09:30:15 AM : batch 2600/7891 | train neglogev 110.391 
+03/01/2022 09:30:59 AM : batch 2800/7891 | train neglogev 110.215 
+03/01/2022 09:31:42 AM : batch 3000/7891 | train neglogev 110.066 
+03/01/2022 09:33:14 AM : batch 3400/7891 | train neglogev 110.461 
+03/01/2022 09:33:58 AM : batch 3600/7891 | train neglogev 110.549 
+03/01/2022 09:34:44 AM : batch 3800/7891 | train neglogev 110.577 
+03/01/2022 09:36:13 AM : batch 4200/7891 | train neglogev 110.513 
+03/01/2022 09:36:56 AM : batch 4400/7891 | train neglogev 110.475 
+03/01/2022 09:37:41 AM : batch 4600/7891 | train neglogev 110.499 
+03/01/2022 09:38:24 AM : batch 4800/7891 | train neglogev 110.51 
+03/01/2022 09:39:08 AM : batch 5000/7891 | train neglogev 110.476 
+03/01/2022 09:39:53 AM : batch 5200/7891 | train neglogev 110.602 
+03/01/2022 09:40:39 AM : batch 5400/7891 | train neglogev 110.846 
+03/01/2022 09:41:25 AM : batch 5600/7891 | train neglogev 111.031 
+03/01/2022 09:42:10 AM : batch 5800/7891 | train neglogev 111.137 
+03/01/2022 09:42:55 AM : batch 6000/7891 | train neglogev 111.094 
+03/01/2022 09:43:38 AM : batch 6200/7891 | train neglogev 111.157 
+03/01/2022 09:44:20 AM : batch 6400/7891 | train neglogev 110.839 
+03/01/2022 09:45:04 AM : batch 6600/7891 | train neglogev 110.914 
+03/01/2022 09:45:48 AM : batch 6800/7891 | train neglogev 110.813 
+03/01/2022 09:46:30 AM : batch 7000/7891 | train neglogev 110.729 
+03/01/2022 09:47:14 AM : batch 7200/7891 | train neglogev 110.776 
+03/01/2022 09:47:59 AM : batch 7400/7891 | train neglogev 110.836 
+03/01/2022 09:48:42 AM : batch 7600/7891 | train neglogev 110.821 
+03/01/2022 09:49:46 AM : epoch 38 | train neglogev 110.874 
+03/01/2022 09:50:47 AM : epoch 38 | valid neglogev 114.786
+03/01/2022 09:50:47 AM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 09:50:47 AM : decay_count: 0
+03/01/2022 09:50:47 AM : now lr: 0.050000
+03/01/2022 09:50:47 AM : Done
+03/01/2022 09:50:47 AM : ar: True
+03/01/2022 09:51:30 AM : batch 200/7891 | train neglogev 111.997 
+03/01/2022 09:52:16 AM : batch 400/7891 | train neglogev 109.895 
+03/01/2022 09:53:45 AM : batch 800/7891 | train neglogev 112.518 
+03/01/2022 09:54:29 AM : batch 1000/7891 | train neglogev 110.122 
+03/01/2022 09:55:13 AM : batch 1200/7891 | train neglogev 110.728 
+03/01/2022 09:55:58 AM : batch 1400/7891 | train neglogev 110.309 
+03/01/2022 09:56:42 AM : batch 1600/7891 | train neglogev 110.629 
+03/01/2022 09:57:26 AM : batch 1800/7891 | train neglogev 111.248 
+03/01/2022 09:58:53 AM : batch 2200/7891 | train neglogev 111.016 
+03/01/2022 09:59:36 AM : batch 2400/7891 | train neglogev 110.839 
+03/01/2022 10:00:19 AM : batch 2600/7891 | train neglogev 110.833 
+03/01/2022 10:01:01 AM : batch 2800/7891 | train neglogev 110.365 
+03/01/2022 10:01:46 AM : batch 3000/7891 | train neglogev 110.208 
+03/01/2022 10:02:29 AM : batch 3200/7891 | train neglogev 110.217 
+03/01/2022 10:03:15 AM : batch 3400/7891 | train neglogev 110.453 
+03/01/2022 10:04:44 AM : batch 3800/7891 | train neglogev 110.034 
+03/01/2022 10:05:28 AM : batch 4000/7891 | train neglogev 110.135 
+03/01/2022 10:06:13 AM : batch 4200/7891 | train neglogev 110.336 
+03/01/2022 10:06:56 AM : batch 4400/7891 | train neglogev 110.108 
+03/01/2022 10:07:40 AM : batch 4600/7891 | train neglogev 109.904 
+03/01/2022 10:08:23 AM : batch 4800/7891 | train neglogev 109.714 
+03/01/2022 10:09:09 AM : batch 5000/7891 | train neglogev 109.835 
+03/01/2022 10:09:51 AM : batch 5200/7891 | train neglogev 109.743 
+03/01/2022 10:10:39 AM : batch 5400/7891 | train neglogev 109.881 
+03/01/2022 10:11:23 AM : batch 5600/7891 | train neglogev 110.025 
+03/01/2022 10:12:07 AM : batch 5800/7891 | train neglogev 109.971 
+03/01/2022 10:12:50 AM : batch 6000/7891 | train neglogev 110.045 
+03/01/2022 10:13:38 AM : batch 6200/7891 | train neglogev 110.408 
+03/01/2022 10:14:20 AM : batch 6400/7891 | train neglogev 110.267 
+03/01/2022 10:15:48 AM : batch 6800/7891 | train neglogev 110.424 
+03/01/2022 10:16:32 AM : batch 7000/7891 | train neglogev 110.395 
+03/01/2022 10:17:17 AM : batch 7200/7891 | train neglogev 110.465 
+03/01/2022 10:18:04 AM : batch 7400/7891 | train neglogev 110.621 
+03/01/2022 10:18:50 AM : batch 7600/7891 | train neglogev 110.67 
+03/01/2022 10:19:34 AM : batch 7800/7891 | train neglogev 110.618 
+03/01/2022 10:19:57 AM : epoch 39 | train neglogev 110.752 
+03/01/2022 10:20:58 AM : epoch 39 | valid neglogev 114.784
+03/01/2022 10:20:58 AM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 10:20:58 AM : decay_count: 0
+03/01/2022 10:20:58 AM : now lr: 0.050000
+03/01/2022 10:20:58 AM : Done
+03/01/2022 10:20:58 AM : ar: True
+03/01/2022 10:21:42 AM : batch 200/7891 | train neglogev 116.656 
+03/01/2022 10:22:27 AM : batch 400/7891 | train neglogev 116.878 
+03/01/2022 10:23:14 AM : batch 600/7891 | train neglogev 117.007 
+03/01/2022 10:23:57 AM : batch 800/7891 | train neglogev 114.602 
+03/01/2022 10:24:42 AM : batch 1000/7891 | train neglogev 112.907 
+03/01/2022 10:25:26 AM : batch 1200/7891 | train neglogev 113.079 
+03/01/2022 10:26:11 AM : batch 1400/7891 | train neglogev 112.455 
+03/01/2022 10:26:56 AM : batch 1600/7891 | train neglogev 112.328 
+03/01/2022 10:27:40 AM : batch 1800/7891 | train neglogev 111.479 
+03/01/2022 10:28:24 AM : batch 2000/7891 | train neglogev 111.232 
+03/01/2022 10:29:56 AM : batch 2400/7891 | train neglogev 111.459 
+03/01/2022 10:30:41 AM : batch 2600/7891 | train neglogev 111.432 
+03/01/2022 10:32:56 AM : batch 3200/7891 | train neglogev 111.53 
+03/01/2022 10:33:40 AM : batch 3400/7891 | train neglogev 111.285 
+03/01/2022 10:34:22 AM : batch 3600/7891 | train neglogev 111.016 
+03/01/2022 10:35:06 AM : batch 3800/7891 | train neglogev 110.66 
+03/01/2022 10:35:49 AM : batch 4000/7891 | train neglogev 110.719 
+03/01/2022 10:36:34 AM : batch 4200/7891 | train neglogev 110.806 
+03/01/2022 10:37:17 AM : batch 4400/7891 | train neglogev 110.524 
+03/01/2022 10:38:03 AM : batch 4600/7891 | train neglogev 110.954 
+03/01/2022 10:38:47 AM : batch 4800/7891 | train neglogev 110.616 
+03/01/2022 10:39:30 AM : batch 5000/7891 | train neglogev 110.76 
+03/01/2022 10:40:14 AM : batch 5200/7891 | train neglogev 110.823 
+03/01/2022 10:40:58 AM : batch 5400/7891 | train neglogev 110.738 
+03/01/2022 10:41:42 AM : batch 5600/7891 | train neglogev 110.7 
+03/01/2022 10:43:13 AM : batch 6000/7891 | train neglogev 111.227 
+03/01/2022 10:43:58 AM : batch 6200/7891 | train neglogev 111.244 
+03/01/2022 10:44:41 AM : batch 6400/7891 | train neglogev 111.004 
+03/01/2022 10:45:29 AM : batch 6600/7891 | train neglogev 111.291 
+03/01/2022 10:46:12 AM : batch 6800/7891 | train neglogev 111.221 
+03/01/2022 10:46:56 AM : batch 7000/7891 | train neglogev 111.182 
+03/01/2022 10:47:39 AM : batch 7200/7891 | train neglogev 111.022 
+03/01/2022 10:48:20 AM : batch 7400/7891 | train neglogev 110.817 
+03/01/2022 10:49:03 AM : batch 7600/7891 | train neglogev 110.624 
+03/01/2022 10:49:49 AM : batch 7800/7891 | train neglogev 110.593 
+03/01/2022 10:50:10 AM : epoch 40 | train neglogev 110.691 
+03/01/2022 10:51:11 AM : epoch 40 | valid neglogev 114.648
+03/01/2022 10:51:11 AM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 10:51:11 AM : decay_count: 0
+03/01/2022 10:51:11 AM : now lr: 0.050000
+03/01/2022 10:51:11 AM : Done
+03/01/2022 10:51:11 AM : ar: True
+03/01/2022 10:51:52 AM : batch 200/7891 | train neglogev 101.231 
+03/01/2022 10:52:37 AM : batch 400/7891 | train neglogev 108.386 
+03/01/2022 10:53:23 AM : batch 600/7891 | train neglogev 108.928 
+03/01/2022 10:54:07 AM : batch 800/7891 | train neglogev 106.772 
+03/01/2022 10:55:36 AM : batch 1200/7891 | train neglogev 108.501 
+03/01/2022 10:56:17 AM : batch 1400/7891 | train neglogev 108.833 
+03/01/2022 10:57:03 AM : batch 1600/7891 | train neglogev 109.357 
+03/01/2022 10:57:49 AM : batch 1800/7891 | train neglogev 109.462 
+03/01/2022 10:58:35 AM : batch 2000/7891 | train neglogev 109.62 
+03/01/2022 10:59:19 AM : batch 2200/7891 | train neglogev 109.919 
+03/01/2022 11:00:06 AM : batch 2400/7891 | train neglogev 110.658 
+03/01/2022 11:00:50 AM : batch 2600/7891 | train neglogev 110.453 
+03/01/2022 11:01:34 AM : batch 2800/7891 | train neglogev 110.274 
+03/01/2022 11:02:18 AM : batch 3000/7891 | train neglogev 110.172 
+03/01/2022 11:03:02 AM : batch 3200/7891 | train neglogev 110.345 
+03/01/2022 11:03:47 AM : batch 3400/7891 | train neglogev 110.332 
+03/01/2022 11:05:19 AM : batch 3800/7891 | train neglogev 110.957 
+03/01/2022 11:06:03 AM : batch 4000/7891 | train neglogev 110.802 
+03/01/2022 11:06:47 AM : batch 4200/7891 | train neglogev 110.841 
+03/01/2022 11:07:31 AM : batch 4400/7891 | train neglogev 110.331 
+03/01/2022 11:08:17 AM : batch 4600/7891 | train neglogev 110.753 
+03/01/2022 11:09:03 AM : batch 4800/7891 | train neglogev 110.632 
+03/01/2022 11:09:44 AM : batch 5000/7891 | train neglogev 110.561 
+03/01/2022 11:11:10 AM : batch 5400/7891 | train neglogev 110.5 
+03/01/2022 11:11:57 AM : batch 5600/7891 | train neglogev 110.613 
+03/01/2022 11:12:42 AM : batch 5800/7891 | train neglogev 110.696 
+03/01/2022 11:13:24 AM : batch 6000/7891 | train neglogev 110.672 
+03/01/2022 11:14:08 AM : batch 6200/7891 | train neglogev 110.494 
+03/01/2022 11:14:54 AM : batch 6400/7891 | train neglogev 110.408 
+03/01/2022 11:16:23 AM : batch 6800/7891 | train neglogev 110.557 
+03/01/2022 11:17:09 AM : batch 7000/7891 | train neglogev 110.719 
+03/01/2022 11:17:51 AM : batch 7200/7891 | train neglogev 110.599 
+03/01/2022 11:18:37 AM : batch 7400/7891 | train neglogev 110.672 
+03/01/2022 11:19:18 AM : batch 7600/7891 | train neglogev 110.505 
+03/01/2022 11:20:01 AM : batch 7800/7891 | train neglogev 110.52 
+03/01/2022 11:20:22 AM : epoch 41 | train neglogev 110.569 
+03/01/2022 11:21:23 AM : epoch 41 | valid neglogev 114.813
+03/01/2022 11:21:23 AM : decay_count: 1
+03/01/2022 11:21:23 AM : now lr: 0.050000
+03/01/2022 11:21:23 AM : Done
+03/01/2022 11:21:23 AM : ar: True
+03/01/2022 11:22:51 AM : batch 400/7891 | train neglogev 109.863 
+03/01/2022 11:23:35 AM : batch 600/7891 | train neglogev 107.706 
+03/01/2022 11:24:19 AM : batch 800/7891 | train neglogev 109.938 
+03/01/2022 11:25:50 AM : batch 1200/7891 | train neglogev 111.656 
+03/01/2022 11:26:36 AM : batch 1400/7891 | train neglogev 112.32 
+03/01/2022 11:27:21 AM : batch 1600/7891 | train neglogev 111.983 
+03/01/2022 11:28:06 AM : batch 1800/7891 | train neglogev 112.096 
+03/01/2022 11:28:49 AM : batch 2000/7891 | train neglogev 111.647 
+03/01/2022 11:30:17 AM : batch 2400/7891 | train neglogev 111.175 
+03/01/2022 11:31:00 AM : batch 2600/7891 | train neglogev 110.685 
+03/01/2022 11:31:43 AM : batch 2800/7891 | train neglogev 110.257 
+03/01/2022 11:32:28 AM : batch 3000/7891 | train neglogev 110.033 
+03/01/2022 11:33:10 AM : batch 3200/7891 | train neglogev 109.814 
+03/01/2022 11:33:53 AM : batch 3400/7891 | train neglogev 109.608 
+03/01/2022 11:34:39 AM : batch 3600/7891 | train neglogev 109.514 
+03/01/2022 11:35:23 AM : batch 3800/7891 | train neglogev 109.483 
+03/01/2022 11:36:09 AM : batch 4000/7891 | train neglogev 109.533 
+03/01/2022 11:37:37 AM : batch 4400/7891 | train neglogev 109.946 
+03/01/2022 11:38:21 AM : batch 4600/7891 | train neglogev 110.056 
+03/01/2022 11:39:48 AM : batch 5000/7891 | train neglogev 110.322 
+03/01/2022 11:40:33 AM : batch 5200/7891 | train neglogev 110.432 
+03/01/2022 11:41:15 AM : batch 5400/7891 | train neglogev 110.101 
+03/01/2022 11:41:59 AM : batch 5600/7891 | train neglogev 110.055 
+03/01/2022 11:42:46 AM : batch 5800/7891 | train neglogev 110.15 
+03/01/2022 11:43:29 AM : batch 6000/7891 | train neglogev 110.07 
+03/01/2022 11:44:15 AM : batch 6200/7891 | train neglogev 110.272 
+03/01/2022 11:44:59 AM : batch 6400/7891 | train neglogev 110.286 
+03/01/2022 11:45:45 AM : batch 6600/7891 | train neglogev 110.248 
+03/01/2022 11:46:29 AM : batch 6800/7891 | train neglogev 110.373 
+03/01/2022 11:47:12 AM : batch 7000/7891 | train neglogev 110.295 
+03/01/2022 11:47:59 AM : batch 7200/7891 | train neglogev 110.361 
+03/01/2022 11:48:43 AM : batch 7400/7891 | train neglogev 110.412 
+03/01/2022 11:49:27 AM : batch 7600/7891 | train neglogev 110.311 
+03/01/2022 11:50:12 AM : batch 7800/7891 | train neglogev 110.373 
+03/01/2022 11:50:34 AM : epoch 42 | train neglogev 110.49 
+03/01/2022 11:51:35 AM : epoch 42 | valid neglogev 114.711
+03/01/2022 11:51:35 AM : decay_count: 2
+03/01/2022 11:51:35 AM : now lr: 0.050000
+03/01/2022 11:51:35 AM : Done
+03/01/2022 11:51:35 AM : ar: True
+03/01/2022 11:52:18 AM : batch 200/7891 | train neglogev 111.468 
+03/01/2022 11:53:03 AM : batch 400/7891 | train neglogev 112.966 
+03/01/2022 11:53:48 AM : batch 600/7891 | train neglogev 111.914 
+03/01/2022 11:55:16 AM : batch 1000/7891 | train neglogev 110.75 
+03/01/2022 11:55:58 AM : batch 1200/7891 | train neglogev 110.212 
+03/01/2022 11:56:42 AM : batch 1400/7891 | train neglogev 110.62 
+03/01/2022 11:57:26 AM : batch 1600/7891 | train neglogev 111.505 
+03/01/2022 11:58:09 AM : batch 1800/7891 | train neglogev 111.057 
+03/01/2022 11:58:53 AM : batch 2000/7891 | train neglogev 111.003 
+03/01/2022 11:59:38 AM : batch 2200/7891 | train neglogev 111.28 
+03/01/2022 12:00:22 PM : batch 2400/7891 | train neglogev 111.291 
+03/01/2022 12:01:06 PM : batch 2600/7891 | train neglogev 111.224 
+03/01/2022 12:01:51 PM : batch 2800/7891 | train neglogev 111.272 
+03/01/2022 12:02:36 PM : batch 3000/7891 | train neglogev 111.181 
+03/01/2022 12:04:08 PM : batch 3400/7891 | train neglogev 110.967 
+03/01/2022 12:04:52 PM : batch 3600/7891 | train neglogev 111.167 
+03/01/2022 12:05:37 PM : batch 3800/7891 | train neglogev 111.547 
+03/01/2022 12:07:08 PM : batch 4200/7891 | train neglogev 111.267 
+03/01/2022 12:07:53 PM : batch 4400/7891 | train neglogev 111.272 
+03/01/2022 12:08:35 PM : batch 4600/7891 | train neglogev 111.087 
+03/01/2022 12:09:19 PM : batch 4800/7891 | train neglogev 111.078 
+03/01/2022 12:10:03 PM : batch 5000/7891 | train neglogev 110.885 
+03/01/2022 12:10:49 PM : batch 5200/7891 | train neglogev 110.85 
+03/01/2022 12:11:36 PM : batch 5400/7891 | train neglogev 110.855 
+03/01/2022 12:12:20 PM : batch 5600/7891 | train neglogev 110.783 
+03/01/2022 12:13:04 PM : batch 5800/7891 | train neglogev 110.758 
+03/01/2022 12:13:47 PM : batch 6000/7891 | train neglogev 110.719 
+03/01/2022 12:14:33 PM : batch 6200/7891 | train neglogev 110.802 
+03/01/2022 12:15:17 PM : batch 6400/7891 | train neglogev 110.768 
+03/01/2022 12:16:00 PM : batch 6600/7891 | train neglogev 110.628 
+03/01/2022 12:18:12 PM : batch 7200/7891 | train neglogev 110.582 
+03/01/2022 12:18:56 PM : batch 7400/7891 | train neglogev 110.616 
+03/01/2022 12:19:40 PM : batch 7600/7891 | train neglogev 110.485 
+03/01/2022 12:20:26 PM : batch 7800/7891 | train neglogev 110.379 
+03/01/2022 12:20:48 PM : epoch 43 | train neglogev 110.388 
+03/01/2022 12:21:48 PM : epoch 43 | valid neglogev 114.801
+03/01/2022 12:21:48 PM : decay_count: 3
+03/01/2022 12:21:48 PM : now lr: 0.050000
+03/01/2022 12:21:48 PM : Done
+03/01/2022 12:21:48 PM : ar: True
+03/01/2022 12:22:34 PM : batch 200/7891 | train neglogev 114.646 
+03/01/2022 12:23:18 PM : batch 400/7891 | train neglogev 107.363 
+03/01/2022 12:24:46 PM : batch 800/7891 | train neglogev 108.364 
+03/01/2022 12:25:29 PM : batch 1000/7891 | train neglogev 108.627 
+03/01/2022 12:26:14 PM : batch 1200/7891 | train neglogev 109.432 
+03/01/2022 12:26:59 PM : batch 1400/7891 | train neglogev 109.363 
+03/01/2022 12:27:43 PM : batch 1600/7891 | train neglogev 109.33 
+03/01/2022 12:28:25 PM : batch 1800/7891 | train neglogev 109.139 
+03/01/2022 12:29:08 PM : batch 2000/7891 | train neglogev 108.828 
+03/01/2022 12:29:54 PM : batch 2200/7891 | train neglogev 108.516 
+03/01/2022 12:30:37 PM : batch 2400/7891 | train neglogev 108.392 
+03/01/2022 12:31:20 PM : batch 2600/7891 | train neglogev 108.356 
+03/01/2022 12:32:05 PM : batch 2800/7891 | train neglogev 108.666 
+03/01/2022 12:33:35 PM : batch 3200/7891 | train neglogev 109.248 
+03/01/2022 12:34:21 PM : batch 3400/7891 | train neglogev 109.122 
+03/01/2022 12:35:01 PM : batch 3600/7891 | train neglogev 108.966 
+03/01/2022 12:35:47 PM : batch 3800/7891 | train neglogev 109.278 
+03/01/2022 12:36:34 PM : batch 4000/7891 | train neglogev 109.507 
+03/01/2022 12:37:18 PM : batch 4200/7891 | train neglogev 109.843 
+03/01/2022 12:38:04 PM : batch 4400/7891 | train neglogev 110.06 
+03/01/2022 12:38:48 PM : batch 4600/7891 | train neglogev 110.128 
+03/01/2022 12:39:32 PM : batch 4800/7891 | train neglogev 109.961 
+03/01/2022 12:40:18 PM : batch 5000/7891 | train neglogev 110.177 
+03/01/2022 12:41:02 PM : batch 5200/7891 | train neglogev 110.461 
+03/01/2022 12:41:46 PM : batch 5400/7891 | train neglogev 110.401 
+03/01/2022 12:42:28 PM : batch 5600/7891 | train neglogev 110.4 
+03/01/2022 12:43:12 PM : batch 5800/7891 | train neglogev 110.639 
+03/01/2022 12:43:57 PM : batch 6000/7891 | train neglogev 110.858 
+03/01/2022 12:44:43 PM : batch 6200/7891 | train neglogev 110.892 
+03/01/2022 12:45:27 PM : batch 6400/7891 | train neglogev 110.629 
+03/01/2022 12:46:13 PM : batch 6600/7891 | train neglogev 110.696 
+03/01/2022 12:47:43 PM : batch 7000/7891 | train neglogev 110.62 
+03/01/2022 12:48:29 PM : batch 7200/7891 | train neglogev 110.778 
+03/01/2022 12:49:12 PM : batch 7400/7891 | train neglogev 110.768 
+03/01/2022 12:49:57 PM : batch 7600/7891 | train neglogev 110.579 
+03/01/2022 12:50:41 PM : batch 7800/7891 | train neglogev 110.238 
+03/01/2022 12:51:00 PM : epoch 44 | train neglogev 110.271 
+03/01/2022 12:52:01 PM : epoch 44 | valid neglogev 114.883
+03/01/2022 12:52:01 PM : decay_count: 4
+03/01/2022 12:52:01 PM : now lr: 0.050000
+03/01/2022 12:52:01 PM : Done
+03/01/2022 12:52:01 PM : ar: True
+03/01/2022 12:52:48 PM : batch 200/7891 | train neglogev 118.341 
+03/01/2022 12:53:34 PM : batch 400/7891 | train neglogev 113.775 
+03/01/2022 12:54:16 PM : batch 600/7891 | train neglogev 108.995 
+03/01/2022 12:54:58 PM : batch 800/7891 | train neglogev 108.502 
+03/01/2022 12:55:42 PM : batch 1000/7891 | train neglogev 108.838 
+03/01/2022 12:56:27 PM : batch 1200/7891 | train neglogev 109.234 
+03/01/2022 12:57:09 PM : batch 1400/7891 | train neglogev 109.093 
+03/01/2022 12:57:54 PM : batch 1600/7891 | train neglogev 109.744 
+03/01/2022 12:58:40 PM : batch 1800/7891 | train neglogev 110.224 
+03/01/2022 12:59:28 PM : batch 2000/7891 | train neglogev 110.603 
+03/01/2022 01:00:13 PM : batch 2200/7891 | train neglogev 110.89 
+03/01/2022 01:00:57 PM : batch 2400/7891 | train neglogev 110.175 
+03/01/2022 01:01:41 PM : batch 2600/7891 | train neglogev 110.675 
+03/01/2022 01:02:25 PM : batch 2800/7891 | train neglogev 110.273 
+03/01/2022 01:03:08 PM : batch 3000/7891 | train neglogev 110.084 
+03/01/2022 01:03:51 PM : batch 3200/7891 | train neglogev 110.064 
+03/01/2022 01:04:35 PM : batch 3400/7891 | train neglogev 109.846 
+03/01/2022 01:05:19 PM : batch 3600/7891 | train neglogev 109.883 
+03/01/2022 01:06:05 PM : batch 3800/7891 | train neglogev 109.961 
+03/01/2022 01:06:47 PM : batch 4000/7891 | train neglogev 109.851 
+03/01/2022 01:07:29 PM : batch 4200/7891 | train neglogev 110.003 
+03/01/2022 01:08:13 PM : batch 4400/7891 | train neglogev 109.694 
+03/01/2022 01:08:57 PM : batch 4600/7891 | train neglogev 109.581 
+03/01/2022 01:09:42 PM : batch 4800/7891 | train neglogev 109.825 
+03/01/2022 01:10:26 PM : batch 5000/7891 | train neglogev 109.832 
+03/01/2022 01:11:59 PM : batch 5400/7891 | train neglogev 110.145 
+03/01/2022 01:12:45 PM : batch 5600/7891 | train neglogev 110.068 
+03/01/2022 01:13:31 PM : batch 5800/7891 | train neglogev 110.517 
+03/01/2022 01:14:16 PM : batch 6000/7891 | train neglogev 110.511 
+03/01/2022 01:15:00 PM : batch 6200/7891 | train neglogev 110.359 
+03/01/2022 01:16:27 PM : batch 6600/7891 | train neglogev 110.184 
+03/01/2022 01:17:12 PM : batch 6800/7891 | train neglogev 110.106 
+03/01/2022 01:17:54 PM : batch 7000/7891 | train neglogev 110.112 
+03/01/2022 01:18:38 PM : batch 7200/7891 | train neglogev 110.033 
+03/01/2022 01:19:23 PM : batch 7400/7891 | train neglogev 110.28 
+03/01/2022 01:20:06 PM : batch 7600/7891 | train neglogev 110.06 
+03/01/2022 01:20:53 PM : batch 7800/7891 | train neglogev 110.174 
+03/01/2022 01:21:14 PM : epoch 45 | train neglogev 110.23 
+03/01/2022 01:22:15 PM : epoch 45 | valid neglogev 114.785
+03/01/2022 01:22:15 PM : decay_count: 5
+03/01/2022 01:22:15 PM : now lr: 0.050000
+03/01/2022 01:22:15 PM : decaying lr to: 0.005000
+03/01/2022 01:22:15 PM : Done
+03/01/2022 01:22:15 PM : ar: True
+03/01/2022 01:22:58 PM : batch 200/7891 | train neglogev 105.222 
+03/01/2022 01:23:43 PM : batch 400/7891 | train neglogev 106.366 
+03/01/2022 01:24:27 PM : batch 600/7891 | train neglogev 106.369 
+03/01/2022 01:25:10 PM : batch 800/7891 | train neglogev 107.018 
+03/01/2022 01:25:52 PM : batch 1000/7891 | train neglogev 106.724 
+03/01/2022 01:26:36 PM : batch 1200/7891 | train neglogev 108.097 
+03/01/2022 01:27:22 PM : batch 1400/7891 | train neglogev 107.83 
+03/01/2022 01:28:05 PM : batch 1600/7891 | train neglogev 107.961 
+03/01/2022 01:28:50 PM : batch 1800/7891 | train neglogev 108.74 
+03/01/2022 01:29:33 PM : batch 2000/7891 | train neglogev 108.112 
+03/01/2022 01:30:18 PM : batch 2200/7891 | train neglogev 107.587 
+03/01/2022 01:31:04 PM : batch 2400/7891 | train neglogev 107.684 
+03/01/2022 01:32:34 PM : batch 2800/7891 | train neglogev 108.481 
+03/01/2022 01:33:19 PM : batch 3000/7891 | train neglogev 109.001 
+03/01/2022 01:34:04 PM : batch 3200/7891 | train neglogev 109.318 
+03/01/2022 01:34:49 PM : batch 3400/7891 | train neglogev 109.037 
+03/01/2022 01:35:35 PM : batch 3600/7891 | train neglogev 108.996 
+03/01/2022 01:36:20 PM : batch 3800/7891 | train neglogev 108.935 
+03/01/2022 01:37:03 PM : batch 4000/7891 | train neglogev 108.789 
+03/01/2022 01:37:45 PM : batch 4200/7891 | train neglogev 108.895 
+03/01/2022 01:38:30 PM : batch 4400/7891 | train neglogev 108.99 
+03/01/2022 01:39:13 PM : batch 4600/7891 | train neglogev 108.834 
+03/01/2022 01:39:57 PM : batch 4800/7891 | train neglogev 108.773 
+03/01/2022 01:41:27 PM : batch 5200/7891 | train neglogev 109.034 
+03/01/2022 01:42:12 PM : batch 5400/7891 | train neglogev 109.222 
+03/01/2022 01:42:57 PM : batch 5600/7891 | train neglogev 109.441 
+03/01/2022 01:43:40 PM : batch 5800/7891 | train neglogev 109.273 
+03/01/2022 01:44:25 PM : batch 6000/7891 | train neglogev 109.199 
+03/01/2022 01:45:09 PM : batch 6200/7891 | train neglogev 109.29 
+03/01/2022 01:45:54 PM : batch 6400/7891 | train neglogev 109.181 
+03/01/2022 01:46:38 PM : batch 6600/7891 | train neglogev 109.176 
+03/01/2022 01:47:23 PM : batch 6800/7891 | train neglogev 109.205 
+03/01/2022 01:48:09 PM : batch 7000/7891 | train neglogev 109.301 
+03/01/2022 01:48:54 PM : batch 7200/7891 | train neglogev 109.347 
+03/01/2022 01:49:37 PM : batch 7400/7891 | train neglogev 109.339 
+03/01/2022 01:51:06 PM : batch 7800/7891 | train neglogev 109.217 
+03/01/2022 01:51:27 PM : epoch 46 | train neglogev 109.255 
+03/01/2022 01:52:27 PM : epoch 46 | valid neglogev 114.225
+03/01/2022 01:52:27 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 01:52:28 PM : decay_count: 0
+03/01/2022 01:52:28 PM : now lr: 0.005000
+03/01/2022 01:52:28 PM : Done
+03/01/2022 01:52:28 PM : ar: True
+03/01/2022 01:53:11 PM : batch 200/7891 | train neglogev 103.831 
+03/01/2022 01:53:54 PM : batch 400/7891 | train neglogev 104.208 
+03/01/2022 01:55:24 PM : batch 800/7891 | train neglogev 106.457 
+03/01/2022 01:56:08 PM : batch 1000/7891 | train neglogev 106.711 
+03/01/2022 01:56:50 PM : batch 1200/7891 | train neglogev 107.268 
+03/01/2022 01:57:37 PM : batch 1400/7891 | train neglogev 107.857 
+03/01/2022 01:58:23 PM : batch 1600/7891 | train neglogev 108.618 
+03/01/2022 01:59:52 PM : batch 2000/7891 | train neglogev 108.256 
+03/01/2022 02:00:36 PM : batch 2200/7891 | train neglogev 108.21 
+03/01/2022 02:01:17 PM : batch 2400/7891 | train neglogev 108.124 
+03/01/2022 02:02:03 PM : batch 2600/7891 | train neglogev 108.76 
+03/01/2022 02:02:48 PM : batch 2800/7891 | train neglogev 108.738 
+03/01/2022 02:04:17 PM : batch 3200/7891 | train neglogev 108.783 
+03/01/2022 02:05:01 PM : batch 3400/7891 | train neglogev 109.135 
+03/01/2022 02:05:44 PM : batch 3600/7891 | train neglogev 109.327 
+03/01/2022 02:06:27 PM : batch 3800/7891 | train neglogev 108.871 
+03/01/2022 02:07:12 PM : batch 4000/7891 | train neglogev 108.659 
+03/01/2022 02:07:57 PM : batch 4200/7891 | train neglogev 108.77 
+03/01/2022 02:08:39 PM : batch 4400/7891 | train neglogev 108.52 
+03/01/2022 02:09:24 PM : batch 4600/7891 | train neglogev 108.343 
+03/01/2022 02:10:07 PM : batch 4800/7891 | train neglogev 108.309 
+03/01/2022 02:10:51 PM : batch 5000/7891 | train neglogev 108.474 
+03/01/2022 02:11:34 PM : batch 5200/7891 | train neglogev 108.542 
+03/01/2022 02:12:18 PM : batch 5400/7891 | train neglogev 108.549 
+03/01/2022 02:13:05 PM : batch 5600/7891 | train neglogev 108.706 
+03/01/2022 02:13:52 PM : batch 5800/7891 | train neglogev 108.801 
+03/01/2022 02:14:37 PM : batch 6000/7891 | train neglogev 108.829 
+03/01/2022 02:15:22 PM : batch 6200/7891 | train neglogev 108.864 
+03/01/2022 02:16:06 PM : batch 6400/7891 | train neglogev 108.927 
+03/01/2022 02:17:35 PM : batch 6800/7891 | train neglogev 109.136 
+03/01/2022 02:18:21 PM : batch 7000/7891 | train neglogev 109.307 
+03/01/2022 02:19:07 PM : batch 7200/7891 | train neglogev 109.271 
+03/01/2022 02:19:53 PM : batch 7400/7891 | train neglogev 109.471 
+03/01/2022 02:20:36 PM : batch 7600/7891 | train neglogev 109.283 
+03/01/2022 02:21:19 PM : batch 7800/7891 | train neglogev 109.017 
+03/01/2022 02:21:39 PM : epoch 47 | train neglogev 109.111 
+03/01/2022 02:22:40 PM : epoch 47 | valid neglogev 114.177
+03/01/2022 02:22:40 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 02:22:40 PM : decay_count: 0
+03/01/2022 02:22:40 PM : now lr: 0.005000
+03/01/2022 02:22:40 PM : Done
+03/01/2022 02:22:40 PM : ar: True
+03/01/2022 02:23:23 PM : batch 200/7891 | train neglogev 105.448 
+03/01/2022 02:24:49 PM : batch 600/7891 | train neglogev 107.175 
+03/01/2022 02:25:34 PM : batch 800/7891 | train neglogev 109.021 
+03/01/2022 02:26:19 PM : batch 1000/7891 | train neglogev 108.968 
+03/01/2022 02:27:00 PM : batch 1200/7891 | train neglogev 108.117 
+03/01/2022 02:28:29 PM : batch 1600/7891 | train neglogev 107.283 
+03/01/2022 02:29:15 PM : batch 1800/7891 | train neglogev 107.6 
+03/01/2022 02:29:59 PM : batch 2000/7891 | train neglogev 107.589 
+03/01/2022 02:30:46 PM : batch 2200/7891 | train neglogev 108.297 
+03/01/2022 02:31:30 PM : batch 2400/7891 | train neglogev 107.944 
+03/01/2022 02:32:15 PM : batch 2600/7891 | train neglogev 108.166 
+03/01/2022 02:32:57 PM : batch 2800/7891 | train neglogev 108.115 
+03/01/2022 02:33:41 PM : batch 3000/7891 | train neglogev 108.247 
+03/01/2022 02:34:28 PM : batch 3200/7891 | train neglogev 108.578 
+03/01/2022 02:35:13 PM : batch 3400/7891 | train neglogev 108.881 
+03/01/2022 02:35:56 PM : batch 3600/7891 | train neglogev 108.694 
+03/01/2022 02:36:39 PM : batch 3800/7891 | train neglogev 108.397 
+03/01/2022 02:37:23 PM : batch 4000/7891 | train neglogev 108.655 
+03/01/2022 02:38:06 PM : batch 4200/7891 | train neglogev 108.632 
+03/01/2022 02:38:48 PM : batch 4400/7891 | train neglogev 108.499 
+03/01/2022 02:39:32 PM : batch 4600/7891 | train neglogev 108.67 
+03/01/2022 02:40:14 PM : batch 4800/7891 | train neglogev 108.628 
+03/01/2022 02:40:58 PM : batch 5000/7891 | train neglogev 108.717 
+03/01/2022 02:41:45 PM : batch 5200/7891 | train neglogev 108.629 
+03/01/2022 02:43:15 PM : batch 5600/7891 | train neglogev 108.877 
+03/01/2022 02:44:01 PM : batch 5800/7891 | train neglogev 108.962 
+03/01/2022 02:44:45 PM : batch 6000/7891 | train neglogev 108.841 
+03/01/2022 02:45:30 PM : batch 6200/7891 | train neglogev 109.038 
+03/01/2022 02:46:15 PM : batch 6400/7891 | train neglogev 108.969 
+03/01/2022 02:47:02 PM : batch 6600/7891 | train neglogev 109.112 
+03/01/2022 02:47:46 PM : batch 6800/7891 | train neglogev 109.073 
+03/01/2022 02:48:29 PM : batch 7000/7891 | train neglogev 108.987 
+03/01/2022 02:49:13 PM : batch 7200/7891 | train neglogev 108.975 
+03/01/2022 02:49:58 PM : batch 7400/7891 | train neglogev 108.884 
+03/01/2022 02:50:43 PM : batch 7600/7891 | train neglogev 109.027 
+03/01/2022 02:51:28 PM : batch 7800/7891 | train neglogev 108.982 
+03/01/2022 02:51:49 PM : epoch 48 | train neglogev 109.07 
+03/01/2022 02:52:50 PM : epoch 48 | valid neglogev 114.191
+03/01/2022 02:52:50 PM : decay_count: 1
+03/01/2022 02:52:50 PM : now lr: 0.005000
+03/01/2022 02:52:50 PM : Done
+03/01/2022 02:52:50 PM : ar: True
+03/01/2022 02:53:33 PM : batch 200/7891 | train neglogev 109.653 
+03/01/2022 02:54:18 PM : batch 400/7891 | train neglogev 108.799 
+03/01/2022 02:55:47 PM : batch 800/7891 | train neglogev 108.86 
+03/01/2022 02:56:33 PM : batch 1000/7891 | train neglogev 109.441 
+03/01/2022 02:57:16 PM : batch 1200/7891 | train neglogev 107.527 
+03/01/2022 02:58:00 PM : batch 1400/7891 | train neglogev 108.098 
+03/01/2022 02:58:47 PM : batch 1600/7891 | train neglogev 108.864 
+03/01/2022 03:00:16 PM : batch 2000/7891 | train neglogev 109.147 
+03/01/2022 03:01:02 PM : batch 2200/7891 | train neglogev 109.525 
+03/01/2022 03:01:48 PM : batch 2400/7891 | train neglogev 109.76 
+03/01/2022 03:02:32 PM : batch 2600/7891 | train neglogev 109.722 
+03/01/2022 03:03:17 PM : batch 2800/7891 | train neglogev 109.841 
+03/01/2022 03:04:01 PM : batch 3000/7891 | train neglogev 109.884 
+03/01/2022 03:04:44 PM : batch 3200/7891 | train neglogev 110.128 
+03/01/2022 03:05:32 PM : batch 3400/7891 | train neglogev 110.559 
+03/01/2022 03:06:15 PM : batch 3600/7891 | train neglogev 110.41 
+03/01/2022 03:06:58 PM : batch 3800/7891 | train neglogev 109.866 
+03/01/2022 03:07:43 PM : batch 4000/7891 | train neglogev 109.887 
+03/01/2022 03:08:27 PM : batch 4200/7891 | train neglogev 109.708 
+03/01/2022 03:09:12 PM : batch 4400/7891 | train neglogev 109.895 
+03/01/2022 03:09:58 PM : batch 4600/7891 | train neglogev 110.255 
+03/01/2022 03:10:41 PM : batch 4800/7891 | train neglogev 109.95 
+03/01/2022 03:12:08 PM : batch 5200/7891 | train neglogev 109.94 
+03/01/2022 03:12:51 PM : batch 5400/7891 | train neglogev 109.696 
+03/01/2022 03:13:35 PM : batch 5600/7891 | train neglogev 109.58 
+03/01/2022 03:14:19 PM : batch 5800/7891 | train neglogev 109.568 
+03/01/2022 03:15:05 PM : batch 6000/7891 | train neglogev 109.493 
+03/01/2022 03:15:51 PM : batch 6200/7891 | train neglogev 109.457 
+03/01/2022 03:16:35 PM : batch 6400/7891 | train neglogev 109.322 
+03/01/2022 03:17:18 PM : batch 6600/7891 | train neglogev 109.099 
+03/01/2022 03:18:45 PM : batch 7000/7891 | train neglogev 108.999 
+03/01/2022 03:20:14 PM : batch 7400/7891 | train neglogev 108.919 
+03/01/2022 03:20:58 PM : batch 7600/7891 | train neglogev 108.875 
+03/01/2022 03:21:44 PM : batch 7800/7891 | train neglogev 109.114 
+03/01/2022 03:22:04 PM : epoch 49 | train neglogev 109.037 
+03/01/2022 03:23:05 PM : epoch 49 | valid neglogev 114.153
+03/01/2022 03:23:05 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 03:23:05 PM : decay_count: 0
+03/01/2022 03:23:05 PM : now lr: 0.005000
+03/01/2022 03:23:05 PM : Done
+03/01/2022 03:23:05 PM : ar: True
+03/01/2022 03:23:46 PM : batch 200/7891 | train neglogev 106.164 
+03/01/2022 03:24:29 PM : batch 400/7891 | train neglogev 105.614 
+03/01/2022 03:25:13 PM : batch 600/7891 | train neglogev 104.958 
+03/01/2022 03:25:58 PM : batch 800/7891 | train neglogev 106.4 
+03/01/2022 03:26:42 PM : batch 1000/7891 | train neglogev 106.071 
+03/01/2022 03:27:30 PM : batch 1200/7891 | train neglogev 107.812 
+03/01/2022 03:28:15 PM : batch 1400/7891 | train neglogev 108.044 
+03/01/2022 03:29:01 PM : batch 1600/7891 | train neglogev 108.713 
+03/01/2022 03:29:47 PM : batch 1800/7891 | train neglogev 108.929 
+03/01/2022 03:30:33 PM : batch 2000/7891 | train neglogev 109.416 
+03/01/2022 03:31:17 PM : batch 2200/7891 | train neglogev 108.472 
+03/01/2022 03:32:01 PM : batch 2400/7891 | train neglogev 109.033 
+03/01/2022 03:33:31 PM : batch 2800/7891 | train neglogev 109.163 
+03/01/2022 03:34:15 PM : batch 3000/7891 | train neglogev 109.094 
+03/01/2022 03:34:56 PM : batch 3200/7891 | train neglogev 108.554 
+03/01/2022 03:35:42 PM : batch 3400/7891 | train neglogev 108.561 
+03/01/2022 03:36:27 PM : batch 3600/7891 | train neglogev 108.89 
+03/01/2022 03:37:13 PM : batch 3800/7891 | train neglogev 109.121 
+03/01/2022 03:37:58 PM : batch 4000/7891 | train neglogev 109.217 
+03/01/2022 03:38:44 PM : batch 4200/7891 | train neglogev 109.389 
+03/01/2022 03:39:27 PM : batch 4400/7891 | train neglogev 109.42 
+03/01/2022 03:40:10 PM : batch 4600/7891 | train neglogev 109.406 
+03/01/2022 03:40:51 PM : batch 4800/7891 | train neglogev 109.398 
+03/01/2022 03:41:34 PM : batch 5000/7891 | train neglogev 109.23 
+03/01/2022 03:42:20 PM : batch 5200/7891 | train neglogev 109.177 
+03/01/2022 03:43:04 PM : batch 5400/7891 | train neglogev 109.027 
+03/01/2022 03:43:49 PM : batch 5600/7891 | train neglogev 109.09 
+03/01/2022 03:44:32 PM : batch 5800/7891 | train neglogev 108.888 
+03/01/2022 03:45:17 PM : batch 6000/7891 | train neglogev 108.922 
+03/01/2022 03:46:05 PM : batch 6200/7891 | train neglogev 109.102 
+03/01/2022 03:46:49 PM : batch 6400/7891 | train neglogev 109.066 
+03/01/2022 03:47:32 PM : batch 6600/7891 | train neglogev 109.053 
+03/01/2022 03:48:15 PM : batch 6800/7891 | train neglogev 108.84 
+03/01/2022 03:49:00 PM : batch 7000/7891 | train neglogev 109.051 
+03/01/2022 03:49:46 PM : batch 7200/7891 | train neglogev 109.118 
+03/01/2022 03:50:33 PM : batch 7400/7891 | train neglogev 109.06 
+03/01/2022 03:51:15 PM : batch 7600/7891 | train neglogev 109.12 
+03/01/2022 03:52:20 PM : epoch 50 | train neglogev 109.034 
+03/01/2022 03:53:21 PM : epoch 50 | valid neglogev 114.139
+03/01/2022 03:53:21 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 03:53:21 PM : decay_count: 0
+03/01/2022 03:53:21 PM : now lr: 0.005000
+03/01/2022 03:53:21 PM : Done
+03/01/2022 03:53:21 PM : ar: True
+03/01/2022 03:54:08 PM : batch 200/7891 | train neglogev 118.35 
+03/01/2022 03:54:51 PM : batch 400/7891 | train neglogev 112.533 
+03/01/2022 03:55:36 PM : batch 600/7891 | train neglogev 110.786 
+03/01/2022 03:56:21 PM : batch 800/7891 | train neglogev 110.97 
+03/01/2022 03:57:05 PM : batch 1000/7891 | train neglogev 111.136 
+03/01/2022 03:58:34 PM : batch 1400/7891 | train neglogev 111.273 
+03/01/2022 03:59:20 PM : batch 1600/7891 | train neglogev 111.845 
+03/01/2022 04:00:05 PM : batch 1800/7891 | train neglogev 111.013 
+03/01/2022 04:00:48 PM : batch 2000/7891 | train neglogev 110.684 
+03/01/2022 04:01:33 PM : batch 2200/7891 | train neglogev 110.624 
+03/01/2022 04:03:01 PM : batch 2600/7891 | train neglogev 110.205 
+03/01/2022 04:03:45 PM : batch 2800/7891 | train neglogev 110.25 
+03/01/2022 04:04:32 PM : batch 3000/7891 | train neglogev 110.569 
+03/01/2022 04:05:18 PM : batch 3200/7891 | train neglogev 110.246 
+03/01/2022 04:06:02 PM : batch 3400/7891 | train neglogev 110.591 
+03/01/2022 04:06:46 PM : batch 3600/7891 | train neglogev 110.367 
+03/01/2022 04:07:29 PM : batch 3800/7891 | train neglogev 110.143 
+03/01/2022 04:08:12 PM : batch 4000/7891 | train neglogev 110.101 
+03/01/2022 04:08:56 PM : batch 4200/7891 | train neglogev 109.663 
+03/01/2022 04:09:41 PM : batch 4400/7891 | train neglogev 109.32 
+03/01/2022 04:10:23 PM : batch 4600/7891 | train neglogev 108.982 
+03/01/2022 04:11:07 PM : batch 4800/7891 | train neglogev 109.042 
+03/01/2022 04:11:50 PM : batch 5000/7891 | train neglogev 108.955 
+03/01/2022 04:12:34 PM : batch 5200/7891 | train neglogev 109.113 
+03/01/2022 04:14:49 PM : batch 5800/7891 | train neglogev 109.41 
+03/01/2022 04:15:37 PM : batch 6000/7891 | train neglogev 109.52 
+03/01/2022 04:16:20 PM : batch 6200/7891 | train neglogev 109.332 
+03/01/2022 04:17:06 PM : batch 6400/7891 | train neglogev 109.453 
+03/01/2022 04:17:47 PM : batch 6600/7891 | train neglogev 109.172 
+03/01/2022 04:18:30 PM : batch 6800/7891 | train neglogev 109.065 
+03/01/2022 04:19:16 PM : batch 7000/7891 | train neglogev 109.067 
+03/01/2022 04:19:58 PM : batch 7200/7891 | train neglogev 108.852 
+03/01/2022 04:20:46 PM : batch 7400/7891 | train neglogev 108.972 
+03/01/2022 04:21:30 PM : batch 7600/7891 | train neglogev 108.893 
+03/01/2022 04:22:16 PM : batch 7800/7891 | train neglogev 109.039 
+03/01/2022 04:22:36 PM : epoch 51 | train neglogev 108.996 
+03/01/2022 04:23:37 PM : epoch 51 | valid neglogev 114.146
+03/01/2022 04:23:37 PM : decay_count: 1
+03/01/2022 04:23:37 PM : now lr: 0.005000
+03/01/2022 04:23:37 PM : Done
+03/01/2022 04:23:37 PM : ar: True
+03/01/2022 04:24:22 PM : batch 200/7891 | train neglogev 111.21 
+03/01/2022 04:25:08 PM : batch 400/7891 | train neglogev 110.308 
+03/01/2022 04:25:56 PM : batch 600/7891 | train neglogev 110.576 
+03/01/2022 04:26:40 PM : batch 800/7891 | train neglogev 109.312 
+03/01/2022 04:27:22 PM : batch 1000/7891 | train neglogev 108.607 
+03/01/2022 04:28:06 PM : batch 1200/7891 | train neglogev 108.769 
+03/01/2022 04:28:50 PM : batch 1400/7891 | train neglogev 108.218 
+03/01/2022 04:29:36 PM : batch 1600/7891 | train neglogev 109.345 
+03/01/2022 04:30:22 PM : batch 1800/7891 | train neglogev 108.976 
+03/01/2022 04:31:04 PM : batch 2000/7891 | train neglogev 108.672 
+03/01/2022 04:31:50 PM : batch 2200/7891 | train neglogev 108.726 
+03/01/2022 04:32:33 PM : batch 2400/7891 | train neglogev 108.537 
+03/01/2022 04:34:47 PM : batch 3000/7891 | train neglogev 109.199 
+03/01/2022 04:35:32 PM : batch 3200/7891 | train neglogev 109.184 
+03/01/2022 04:36:18 PM : batch 3400/7891 | train neglogev 109.563 
+03/01/2022 04:37:48 PM : batch 3800/7891 | train neglogev 109.608 
+03/01/2022 04:38:30 PM : batch 4000/7891 | train neglogev 109.51 
+03/01/2022 04:39:17 PM : batch 4200/7891 | train neglogev 109.547 
+03/01/2022 04:40:47 PM : batch 4600/7891 | train neglogev 109.7 
+03/01/2022 04:42:15 PM : batch 5000/7891 | train neglogev 109.684 
+03/01/2022 04:42:59 PM : batch 5200/7891 | train neglogev 109.606 
+03/01/2022 04:43:43 PM : batch 5400/7891 | train neglogev 109.486 
+03/01/2022 04:44:28 PM : batch 5600/7891 | train neglogev 109.321 
+03/01/2022 04:45:11 PM : batch 5800/7891 | train neglogev 109.163 
+03/01/2022 04:45:54 PM : batch 6000/7891 | train neglogev 109.001 
+03/01/2022 04:47:23 PM : batch 6400/7891 | train neglogev 109.19 
+03/01/2022 04:48:07 PM : batch 6600/7891 | train neglogev 109.282 
+03/01/2022 04:49:34 PM : batch 7000/7891 | train neglogev 109.093 
+03/01/2022 04:51:04 PM : batch 7400/7891 | train neglogev 109.014 
+03/01/2022 04:52:31 PM : batch 7800/7891 | train neglogev 108.962 
+03/01/2022 04:52:51 PM : epoch 52 | train neglogev 108.941 
+03/01/2022 04:53:52 PM : epoch 52 | valid neglogev 114.172
+03/01/2022 04:53:52 PM : decay_count: 2
+03/01/2022 04:53:52 PM : now lr: 0.005000
+03/01/2022 04:53:52 PM : Done
+03/01/2022 04:53:52 PM : ar: True
+03/01/2022 04:54:35 PM : batch 200/7891 | train neglogev 112.02 
+03/01/2022 04:55:22 PM : batch 400/7891 | train neglogev 114.114 
+03/01/2022 04:56:06 PM : batch 600/7891 | train neglogev 111.055 
+03/01/2022 04:56:50 PM : batch 800/7891 | train neglogev 109.973 
+03/01/2022 04:57:39 PM : batch 1000/7891 | train neglogev 111.312 
+03/01/2022 04:58:23 PM : batch 1200/7891 | train neglogev 110.128 
+03/01/2022 04:59:09 PM : batch 1400/7891 | train neglogev 109.834 
+03/01/2022 05:00:40 PM : batch 1800/7891 | train neglogev 110.338 
+03/01/2022 05:02:09 PM : batch 2200/7891 | train neglogev 110.425 
+03/01/2022 05:02:54 PM : batch 2400/7891 | train neglogev 110.17 
+03/01/2022 05:03:39 PM : batch 2600/7891 | train neglogev 110.923 
+03/01/2022 05:04:25 PM : batch 2800/7891 | train neglogev 110.425 
+03/01/2022 05:05:10 PM : batch 3000/7891 | train neglogev 110.542 
+03/01/2022 05:05:57 PM : batch 3200/7891 | train neglogev 110.706 
+03/01/2022 05:06:37 PM : batch 3400/7891 | train neglogev 110.713 
+03/01/2022 05:07:20 PM : batch 3600/7891 | train neglogev 110.093 
+03/01/2022 05:08:05 PM : batch 3800/7891 | train neglogev 110.338 
+03/01/2022 05:08:49 PM : batch 4000/7891 | train neglogev 110.125 
+03/01/2022 05:09:33 PM : batch 4200/7891 | train neglogev 109.781 
+03/01/2022 05:10:14 PM : batch 4400/7891 | train neglogev 109.558 
+03/01/2022 05:10:58 PM : batch 4600/7891 | train neglogev 109.632 
+03/01/2022 05:11:41 PM : batch 4800/7891 | train neglogev 109.537 
+03/01/2022 05:12:25 PM : batch 5000/7891 | train neglogev 109.395 
+03/01/2022 05:13:10 PM : batch 5200/7891 | train neglogev 109.5 
+03/01/2022 05:13:55 PM : batch 5400/7891 | train neglogev 109.478 
+03/01/2022 05:14:40 PM : batch 5600/7891 | train neglogev 109.538 
+03/01/2022 05:15:25 PM : batch 5800/7891 | train neglogev 109.444 
+03/01/2022 05:16:08 PM : batch 6000/7891 | train neglogev 109.363 
+03/01/2022 05:16:53 PM : batch 6200/7891 | train neglogev 109.368 
+03/01/2022 05:18:21 PM : batch 6600/7891 | train neglogev 109.269 
+03/01/2022 05:19:06 PM : batch 6800/7891 | train neglogev 109.188 
+03/01/2022 05:19:52 PM : batch 7000/7891 | train neglogev 109.13 
+03/01/2022 05:20:36 PM : batch 7200/7891 | train neglogev 109.213 
+03/01/2022 05:21:18 PM : batch 7400/7891 | train neglogev 108.972 
+03/01/2022 05:22:01 PM : batch 7600/7891 | train neglogev 108.792 
+03/01/2022 05:22:46 PM : batch 7800/7891 | train neglogev 109.01 
+03/01/2022 05:23:07 PM : epoch 53 | train neglogev 108.931 
+03/01/2022 05:24:08 PM : epoch 53 | valid neglogev 114.136
+03/01/2022 05:24:08 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 05:24:08 PM : decay_count: 0
+03/01/2022 05:24:08 PM : now lr: 0.005000
+03/01/2022 05:24:08 PM : Done
+03/01/2022 05:24:08 PM : ar: True
+03/01/2022 05:24:53 PM : batch 200/7891 | train neglogev 109.697 
+03/01/2022 05:25:36 PM : batch 400/7891 | train neglogev 107.643 
+03/01/2022 05:26:21 PM : batch 600/7891 | train neglogev 110.05 
+03/01/2022 05:27:04 PM : batch 800/7891 | train neglogev 109.836 
+03/01/2022 05:27:52 PM : batch 1000/7891 | train neglogev 109.862 
+03/01/2022 05:28:36 PM : batch 1200/7891 | train neglogev 109.069 
+03/01/2022 05:29:21 PM : batch 1400/7891 | train neglogev 108.604 
+03/01/2022 05:30:07 PM : batch 1600/7891 | train neglogev 108.701 
+03/01/2022 05:30:52 PM : batch 1800/7891 | train neglogev 108.384 
+03/01/2022 05:31:36 PM : batch 2000/7891 | train neglogev 109.058 
+03/01/2022 05:32:22 PM : batch 2200/7891 | train neglogev 109.389 
+03/01/2022 05:33:09 PM : batch 2400/7891 | train neglogev 109.26 
+03/01/2022 05:33:54 PM : batch 2600/7891 | train neglogev 109.376 
+03/01/2022 05:34:38 PM : batch 2800/7891 | train neglogev 109.422 
+03/01/2022 05:35:20 PM : batch 3000/7891 | train neglogev 109.335 
+03/01/2022 05:36:04 PM : batch 3200/7891 | train neglogev 108.973 
+03/01/2022 05:36:47 PM : batch 3400/7891 | train neglogev 108.952 
+03/01/2022 05:38:58 PM : batch 4000/7891 | train neglogev 108.704 
+03/01/2022 05:39:43 PM : batch 4200/7891 | train neglogev 108.77 
+03/01/2022 05:40:27 PM : batch 4400/7891 | train neglogev 108.464 
+03/01/2022 05:41:13 PM : batch 4600/7891 | train neglogev 108.589 
+03/01/2022 05:41:58 PM : batch 4800/7891 | train neglogev 108.556 
+03/01/2022 05:42:42 PM : batch 5000/7891 | train neglogev 108.336 
+03/01/2022 05:43:27 PM : batch 5200/7891 | train neglogev 108.462 
+03/01/2022 05:44:13 PM : batch 5400/7891 | train neglogev 108.55 
+03/01/2022 05:44:59 PM : batch 5600/7891 | train neglogev 108.616 
+03/01/2022 05:45:41 PM : batch 5800/7891 | train neglogev 108.624 
+03/01/2022 05:46:26 PM : batch 6000/7891 | train neglogev 108.685 
+03/01/2022 05:47:53 PM : batch 6400/7891 | train neglogev 108.772 
+03/01/2022 05:48:39 PM : batch 6600/7891 | train neglogev 108.854 
+03/01/2022 05:49:23 PM : batch 6800/7891 | train neglogev 108.909 
+03/01/2022 05:50:06 PM : batch 7000/7891 | train neglogev 108.862 
+03/01/2022 05:50:49 PM : batch 7200/7891 | train neglogev 108.79 
+03/01/2022 05:51:34 PM : batch 7400/7891 | train neglogev 108.742 
+03/01/2022 05:53:03 PM : batch 7800/7891 | train neglogev 108.861 
+03/01/2022 05:53:23 PM : epoch 54 | train neglogev 108.924 
+03/01/2022 05:54:24 PM : epoch 54 | valid neglogev 114.126
+03/01/2022 05:54:24 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 05:54:24 PM : decay_count: 0
+03/01/2022 05:54:24 PM : now lr: 0.005000
+03/01/2022 05:54:24 PM : Done
+03/01/2022 05:54:24 PM : ar: True
+03/01/2022 05:55:54 PM : batch 400/7891 | train neglogev 107.916 
+03/01/2022 05:58:09 PM : batch 1000/7891 | train neglogev 109.391 
+03/01/2022 05:58:55 PM : batch 1200/7891 | train neglogev 109.106 
+03/01/2022 05:59:39 PM : batch 1400/7891 | train neglogev 108.593 
+03/01/2022 06:00:26 PM : batch 1600/7891 | train neglogev 109.231 
+03/01/2022 06:02:39 PM : batch 2200/7891 | train neglogev 109.165 
+03/01/2022 06:04:06 PM : batch 2600/7891 | train neglogev 109.009 
+03/01/2022 06:04:49 PM : batch 2800/7891 | train neglogev 108.433 
+03/01/2022 06:05:36 PM : batch 3000/7891 | train neglogev 108.623 
+03/01/2022 06:06:21 PM : batch 3200/7891 | train neglogev 108.17 
+03/01/2022 06:07:06 PM : batch 3400/7891 | train neglogev 108.215 
+03/01/2022 06:07:49 PM : batch 3600/7891 | train neglogev 108.338 
+03/01/2022 06:08:34 PM : batch 3800/7891 | train neglogev 108.443 
+03/01/2022 06:09:22 PM : batch 4000/7891 | train neglogev 108.841 
+03/01/2022 06:10:08 PM : batch 4200/7891 | train neglogev 108.996 
+03/01/2022 06:10:52 PM : batch 4400/7891 | train neglogev 108.945 
+03/01/2022 06:11:38 PM : batch 4600/7891 | train neglogev 109.018 
+03/01/2022 06:12:22 PM : batch 4800/7891 | train neglogev 109.035 
+03/01/2022 06:13:05 PM : batch 5000/7891 | train neglogev 108.713 
+03/01/2022 06:13:48 PM : batch 5200/7891 | train neglogev 108.627 
+03/01/2022 06:14:32 PM : batch 5400/7891 | train neglogev 108.927 
+03/01/2022 06:16:43 PM : batch 6000/7891 | train neglogev 108.587 
+03/01/2022 06:17:25 PM : batch 6200/7891 | train neglogev 108.459 
+03/01/2022 06:18:09 PM : batch 6400/7891 | train neglogev 108.532 
+03/01/2022 06:18:54 PM : batch 6600/7891 | train neglogev 108.543 
+03/01/2022 06:20:20 PM : batch 7000/7891 | train neglogev 108.519 
+03/01/2022 06:21:08 PM : batch 7200/7891 | train neglogev 108.83 
+03/01/2022 06:21:51 PM : batch 7400/7891 | train neglogev 108.888 
+03/01/2022 06:22:37 PM : batch 7600/7891 | train neglogev 108.932 
+03/01/2022 06:23:20 PM : batch 7800/7891 | train neglogev 108.918 
+03/01/2022 06:23:40 PM : epoch 55 | train neglogev 108.92 
+03/01/2022 06:24:41 PM : epoch 55 | valid neglogev 114.103
+03/01/2022 06:24:41 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 06:24:41 PM : decay_count: 0
+03/01/2022 06:24:41 PM : now lr: 0.005000
+03/01/2022 06:24:41 PM : Done
+03/01/2022 06:24:41 PM : ar: True
+03/01/2022 06:25:27 PM : batch 200/7891 | train neglogev 112.298 
+03/01/2022 06:26:11 PM : batch 400/7891 | train neglogev 109.985 
+03/01/2022 06:27:38 PM : batch 800/7891 | train neglogev 106.79 
+03/01/2022 06:28:23 PM : batch 1000/7891 | train neglogev 107.235 
+03/01/2022 06:29:09 PM : batch 1200/7891 | train neglogev 108.665 
+03/01/2022 06:29:52 PM : batch 1400/7891 | train neglogev 108.059 
+03/01/2022 06:30:33 PM : batch 1600/7891 | train neglogev 107.82 
+03/01/2022 06:31:16 PM : batch 1800/7891 | train neglogev 108.228 
+03/01/2022 06:32:51 PM : batch 2200/7891 | train neglogev 109.991 
+03/01/2022 06:33:34 PM : batch 2400/7891 | train neglogev 110.065 
+03/01/2022 06:34:16 PM : batch 2600/7891 | train neglogev 109.378 
+03/01/2022 06:35:01 PM : batch 2800/7891 | train neglogev 109.42 
+03/01/2022 06:35:46 PM : batch 3000/7891 | train neglogev 109.108 
+03/01/2022 06:37:12 PM : batch 3400/7891 | train neglogev 108.5 
+03/01/2022 06:37:57 PM : batch 3600/7891 | train neglogev 108.604 
+03/01/2022 06:38:41 PM : batch 3800/7891 | train neglogev 108.498 
+03/01/2022 06:39:28 PM : batch 4000/7891 | train neglogev 108.941 
+03/01/2022 06:40:10 PM : batch 4200/7891 | train neglogev 108.577 
+03/01/2022 06:40:55 PM : batch 4400/7891 | train neglogev 108.829 
+03/01/2022 06:41:42 PM : batch 4600/7891 | train neglogev 109.12 
+03/01/2022 06:43:18 PM : batch 5000/7891 | train neglogev 109.962 
+03/01/2022 06:44:02 PM : batch 5200/7891 | train neglogev 109.782 
+03/01/2022 06:44:51 PM : batch 5400/7891 | train neglogev 110.179 
+03/01/2022 06:45:35 PM : batch 5600/7891 | train neglogev 110.179 
+03/01/2022 06:46:19 PM : batch 5800/7891 | train neglogev 110.003 
+03/01/2022 06:47:02 PM : batch 6000/7891 | train neglogev 109.793 
+03/01/2022 06:47:45 PM : batch 6200/7891 | train neglogev 109.839 
+03/01/2022 06:48:27 PM : batch 6400/7891 | train neglogev 109.534 
+03/01/2022 06:49:10 PM : batch 6600/7891 | train neglogev 109.279 
+03/01/2022 06:49:56 PM : batch 6800/7891 | train neglogev 109.414 
+03/01/2022 06:50:40 PM : batch 7000/7891 | train neglogev 109.35 
+03/01/2022 06:51:25 PM : batch 7200/7891 | train neglogev 109.319 
+03/01/2022 06:52:09 PM : batch 7400/7891 | train neglogev 109.384 
+03/01/2022 06:52:53 PM : batch 7600/7891 | train neglogev 109.221 
+03/01/2022 06:53:36 PM : batch 7800/7891 | train neglogev 109.028 
+03/01/2022 06:53:56 PM : epoch 56 | train neglogev 108.948 
+03/01/2022 06:54:57 PM : epoch 56 | valid neglogev 114.129
+03/01/2022 06:54:57 PM : decay_count: 1
+03/01/2022 06:54:57 PM : now lr: 0.005000
+03/01/2022 06:54:57 PM : Done
+03/01/2022 06:54:57 PM : ar: True
+03/01/2022 06:55:41 PM : batch 200/7891 | train neglogev 110.029 
+03/01/2022 06:56:24 PM : batch 400/7891 | train neglogev 110.241 
+03/01/2022 06:57:08 PM : batch 600/7891 | train neglogev 108.427 
+03/01/2022 06:57:52 PM : batch 800/7891 | train neglogev 107.404 
+03/01/2022 06:58:38 PM : batch 1000/7891 | train neglogev 109.065 
+03/01/2022 07:00:05 PM : batch 1400/7891 | train neglogev 108.042 
+03/01/2022 07:00:51 PM : batch 1600/7891 | train neglogev 108.379 
+03/01/2022 07:01:34 PM : batch 1800/7891 | train neglogev 107.762 
+03/01/2022 07:02:19 PM : batch 2000/7891 | train neglogev 108.035 
+03/01/2022 07:03:02 PM : batch 2200/7891 | train neglogev 108.159 
+03/01/2022 07:03:46 PM : batch 2400/7891 | train neglogev 108.165 
+03/01/2022 07:04:33 PM : batch 2600/7891 | train neglogev 108.932 
+03/01/2022 07:05:16 PM : batch 2800/7891 | train neglogev 108.5 
+03/01/2022 07:06:00 PM : batch 3000/7891 | train neglogev 108.825 
+03/01/2022 07:06:44 PM : batch 3200/7891 | train neglogev 109.1 
+03/01/2022 07:07:31 PM : batch 3400/7891 | train neglogev 109.474 
+03/01/2022 07:08:13 PM : batch 3600/7891 | train neglogev 109.013 
+03/01/2022 07:08:58 PM : batch 3800/7891 | train neglogev 109.106 
+03/01/2022 07:09:42 PM : batch 4000/7891 | train neglogev 109.401 
+03/01/2022 07:10:27 PM : batch 4200/7891 | train neglogev 109.38 
+03/01/2022 07:11:11 PM : batch 4400/7891 | train neglogev 109.388 
+03/01/2022 07:11:58 PM : batch 4600/7891 | train neglogev 109.768 
+03/01/2022 07:12:41 PM : batch 4800/7891 | train neglogev 109.613 
+03/01/2022 07:14:12 PM : batch 5200/7891 | train neglogev 109.612 
+03/01/2022 07:14:54 PM : batch 5400/7891 | train neglogev 109.317 
+03/01/2022 07:15:39 PM : batch 5600/7891 | train neglogev 109.251 
+03/01/2022 07:16:23 PM : batch 5800/7891 | train neglogev 109.189 
+03/01/2022 07:17:06 PM : batch 6000/7891 | train neglogev 108.944 
+03/01/2022 07:17:52 PM : batch 6200/7891 | train neglogev 108.952 
+03/01/2022 07:18:36 PM : batch 6400/7891 | train neglogev 109.061 
+03/01/2022 07:19:21 PM : batch 6600/7891 | train neglogev 108.997 
+03/01/2022 07:20:07 PM : batch 6800/7891 | train neglogev 109.025 
+03/01/2022 07:20:52 PM : batch 7000/7891 | train neglogev 108.972 
+03/01/2022 07:21:39 PM : batch 7200/7891 | train neglogev 108.887 
+03/01/2022 07:22:23 PM : batch 7400/7891 | train neglogev 108.846 
+03/01/2022 07:23:09 PM : batch 7600/7891 | train neglogev 108.928 
+03/01/2022 07:24:14 PM : epoch 57 | train neglogev 108.906 
+03/01/2022 07:25:14 PM : epoch 57 | valid neglogev 114.086
+03/01/2022 07:25:14 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 07:25:14 PM : decay_count: 0
+03/01/2022 07:25:14 PM : now lr: 0.005000
+03/01/2022 07:25:14 PM : Done
+03/01/2022 07:25:14 PM : ar: True
+03/01/2022 07:26:03 PM : batch 200/7891 | train neglogev 119 
+03/01/2022 07:26:47 PM : batch 400/7891 | train neglogev 114.579 
+03/01/2022 07:27:32 PM : batch 600/7891 | train neglogev 111.689 
+03/01/2022 07:28:16 PM : batch 800/7891 | train neglogev 111.043 
+03/01/2022 07:28:59 PM : batch 1000/7891 | train neglogev 111.848 
+03/01/2022 07:29:43 PM : batch 1200/7891 | train neglogev 112.278 
+03/01/2022 07:30:26 PM : batch 1400/7891 | train neglogev 110.992 
+03/01/2022 07:31:10 PM : batch 1600/7891 | train neglogev 110.12 
+03/01/2022 07:31:53 PM : batch 1800/7891 | train neglogev 110.014 
+03/01/2022 07:32:38 PM : batch 2000/7891 | train neglogev 110.082 
+03/01/2022 07:33:22 PM : batch 2200/7891 | train neglogev 109.921 
+03/01/2022 07:34:05 PM : batch 2400/7891 | train neglogev 109.376 
+03/01/2022 07:34:51 PM : batch 2600/7891 | train neglogev 110.164 
+03/01/2022 07:36:21 PM : batch 3000/7891 | train neglogev 109.914 
+03/01/2022 07:37:06 PM : batch 3200/7891 | train neglogev 110.146 
+03/01/2022 07:37:52 PM : batch 3400/7891 | train neglogev 109.768 
+03/01/2022 07:38:36 PM : batch 3600/7891 | train neglogev 109.287 
+03/01/2022 07:39:21 PM : batch 3800/7891 | train neglogev 109.449 
+03/01/2022 07:40:07 PM : batch 4000/7891 | train neglogev 109.394 
+03/01/2022 07:40:50 PM : batch 4200/7891 | train neglogev 109.613 
+03/01/2022 07:41:33 PM : batch 4400/7891 | train neglogev 109.665 
+03/01/2022 07:42:13 PM : batch 4600/7891 | train neglogev 109.355 
+03/01/2022 07:42:58 PM : batch 4800/7891 | train neglogev 109.594 
+03/01/2022 07:43:43 PM : batch 5000/7891 | train neglogev 109.88 
+03/01/2022 07:44:28 PM : batch 5200/7891 | train neglogev 109.523 
+03/01/2022 07:45:13 PM : batch 5400/7891 | train neglogev 109.419 
+03/01/2022 07:46:41 PM : batch 5800/7891 | train neglogev 109.135 
+03/01/2022 07:47:26 PM : batch 6000/7891 | train neglogev 108.958 
+03/01/2022 07:48:09 PM : batch 6200/7891 | train neglogev 108.872 
+03/01/2022 07:48:57 PM : batch 6400/7891 | train neglogev 109.106 
+03/01/2022 07:51:10 PM : batch 7000/7891 | train neglogev 109.195 
+03/01/2022 07:51:56 PM : batch 7200/7891 | train neglogev 109.146 
+03/01/2022 07:52:41 PM : batch 7400/7891 | train neglogev 109.069 
+03/01/2022 07:53:25 PM : batch 7600/7891 | train neglogev 108.955 
+03/01/2022 07:54:29 PM : epoch 58 | train neglogev 108.864 
+03/01/2022 07:55:30 PM : epoch 58 | valid neglogev 114.093
+03/01/2022 07:55:30 PM : decay_count: 1
+03/01/2022 07:55:30 PM : now lr: 0.005000
+03/01/2022 07:55:30 PM : Done
+03/01/2022 07:55:30 PM : ar: True
+03/01/2022 07:56:17 PM : batch 200/7891 | train neglogev 112.418 
+03/01/2022 07:57:02 PM : batch 400/7891 | train neglogev 111.318 
+03/01/2022 07:57:48 PM : batch 600/7891 | train neglogev 112.348 
+03/01/2022 07:58:33 PM : batch 800/7891 | train neglogev 112.072 
+03/01/2022 07:59:17 PM : batch 1000/7891 | train neglogev 110.69 
+03/01/2022 08:00:02 PM : batch 1200/7891 | train neglogev 110.044 
+03/01/2022 08:00:49 PM : batch 1400/7891 | train neglogev 110.455 
+03/01/2022 08:01:33 PM : batch 1600/7891 | train neglogev 110.666 
+03/01/2022 08:02:17 PM : batch 1800/7891 | train neglogev 110.279 
+03/01/2022 08:03:01 PM : batch 2000/7891 | train neglogev 110.204 
+03/01/2022 08:03:46 PM : batch 2200/7891 | train neglogev 110.263 
+03/01/2022 08:04:32 PM : batch 2400/7891 | train neglogev 110.596 
+03/01/2022 08:05:14 PM : batch 2600/7891 | train neglogev 110.305 
+03/01/2022 08:06:00 PM : batch 2800/7891 | train neglogev 110.269 
+03/01/2022 08:06:41 PM : batch 3000/7891 | train neglogev 109.804 
+03/01/2022 08:08:09 PM : batch 3400/7891 | train neglogev 109.628 
+03/01/2022 08:08:57 PM : batch 3600/7891 | train neglogev 109.914 
+03/01/2022 08:09:39 PM : batch 3800/7891 | train neglogev 109.848 
+03/01/2022 08:10:24 PM : batch 4000/7891 | train neglogev 109.895 
+03/01/2022 08:11:10 PM : batch 4200/7891 | train neglogev 110.04 
+03/01/2022 08:11:54 PM : batch 4400/7891 | train neglogev 109.844 
+03/01/2022 08:12:38 PM : batch 4600/7891 | train neglogev 109.757 
+03/01/2022 08:13:25 PM : batch 4800/7891 | train neglogev 109.871 
+03/01/2022 08:14:09 PM : batch 5000/7891 | train neglogev 109.717 
+03/01/2022 08:14:54 PM : batch 5200/7891 | train neglogev 109.762 
+03/01/2022 08:16:20 PM : batch 5600/7891 | train neglogev 109.358 
+03/01/2022 08:17:06 PM : batch 5800/7891 | train neglogev 109.304 
+03/01/2022 08:17:50 PM : batch 6000/7891 | train neglogev 109.184 
+03/01/2022 08:18:34 PM : batch 6200/7891 | train neglogev 108.875 
+03/01/2022 08:19:19 PM : batch 6400/7891 | train neglogev 108.923 
+03/01/2022 08:20:01 PM : batch 6600/7891 | train neglogev 108.855 
+03/01/2022 08:20:47 PM : batch 6800/7891 | train neglogev 108.848 
+03/01/2022 08:21:30 PM : batch 7000/7891 | train neglogev 108.876 
+03/01/2022 08:22:11 PM : batch 7200/7891 | train neglogev 108.711 
+03/01/2022 08:22:56 PM : batch 7400/7891 | train neglogev 108.71 
+03/01/2022 08:23:40 PM : batch 7600/7891 | train neglogev 108.73 
+03/01/2022 08:24:23 PM : batch 7800/7891 | train neglogev 108.686 
+03/01/2022 08:24:44 PM : epoch 59 | train neglogev 108.858 
+03/01/2022 08:25:45 PM : epoch 59 | valid neglogev 114.067
+03/01/2022 08:25:45 PM : saving to models/chinese_models/prefect_experiment-L4-thresh2-hs100-emb100-detail_time_v2.pt
+03/01/2022 08:25:45 PM : decay_count: 0
+03/01/2022 08:25:45 PM : now lr: 0.005000
+03/01/2022 08:25:45 PM : Done
+03/01/2022 08:25:45 PM : ar: True
+03/01/2022 08:27:15 PM : batch 400/7891 | train neglogev 109.181 
+03/01/2022 08:27:57 PM : batch 600/7891 | train neglogev 107.598 
+03/01/2022 08:28:44 PM : batch 800/7891 | train neglogev 108.777 
+03/01/2022 08:29:28 PM : batch 1000/7891 | train neglogev 108.309 
+03/01/2022 08:30:15 PM : batch 1200/7891 | train neglogev 109.386 
+03/01/2022 08:30:59 PM : batch 1400/7891 | train neglogev 109.792 
+03/01/2022 08:31:45 PM : batch 1600/7891 | train neglogev 110.529 
+03/01/2022 08:32:30 PM : batch 1800/7891 | train neglogev 110.145 
+03/01/2022 08:34:01 PM : batch 2200/7891 | train neglogev 109.413 
+03/01/2022 08:34:44 PM : batch 2400/7891 | train neglogev 108.961 
+03/01/2022 08:35:25 PM : batch 2600/7891 | train neglogev 108.426 
+03/01/2022 08:36:09 PM : batch 2800/7891 | train neglogev 108.343 
+03/01/2022 08:36:52 PM : batch 3000/7891 | train neglogev 108.266 
+03/01/2022 08:37:36 PM : batch 3200/7891 | train neglogev 108.127 
+03/01/2022 08:38:21 PM : batch 3400/7891 | train neglogev 108.041 
+03/01/2022 08:39:04 PM : batch 3600/7891 | train neglogev 107.907 
+03/01/2022 08:39:46 PM : batch 3800/7891 | train neglogev 108.012 
+03/01/2022 08:40:30 PM : batch 4000/7891 | train neglogev 108.008 
+03/01/2022 08:41:15 PM : batch 4200/7891 | train neglogev 107.994 
+03/01/2022 08:42:00 PM : batch 4400/7891 | train neglogev 108.024 
+03/01/2022 08:42:45 PM : batch 4600/7891 | train neglogev 108.073 
+03/01/2022 08:43:30 PM : batch 4800/7891 | train neglogev 107.948 
+03/01/2022 08:44:15 PM : batch 5000/7891 | train neglogev 107.95 
+03/01/2022 08:44:58 PM : batch 5200/7891 | train neglogev 107.808 
+03/01/2022 08:45:43 PM : batch 5400/7891 | train neglogev 107.985 
+03/01/2022 08:46:28 PM : batch 5600/7891 | train neglogev 107.991 
+03/01/2022 08:47:10 PM : batch 5800/7891 | train neglogev 108.023 
+03/01/2022 08:47:54 PM : batch 6000/7891 | train neglogev 108.004 
+03/01/2022 08:48:37 PM : batch 6200/7891 | train neglogev 108.063 
+03/01/2022 08:49:25 PM : batch 6400/7891 | train neglogev 108.176 
+03/01/2022 08:50:12 PM : batch 6600/7891 | train neglogev 108.265 
+03/01/2022 08:50:56 PM : batch 6800/7891 | train neglogev 108.355 
+03/01/2022 08:51:41 PM : batch 7000/7891 | train neglogev 108.429 
+03/01/2022 08:53:13 PM : batch 7400/7891 | train neglogev 108.864 
+03/01/2022 08:53:56 PM : batch 7600/7891 | train neglogev 108.711 
+03/01/2022 08:54:38 PM : batch 7800/7891 | train neglogev 108.736 
+03/01/2022 08:55:00 PM : epoch 60 | train neglogev 108.838 
+03/01/2022 08:56:01 PM : epoch 60 | valid neglogev 114.08
+03/01/2022 08:56:01 PM : decay_count: 1
+03/01/2022 08:56:01 PM : now lr: 0.005000
+03/01/2022 08:56:01 PM : Done
+03/01/2022 08:56:01 PM : ar: True
+03/01/2022 08:56:44 PM : batch 200/7891 | train neglogev 102.126 
+03/01/2022 08:57:28 PM : batch 400/7891 | train neglogev 107.27 
+03/01/2022 08:58:13 PM : batch 600/7891 | train neglogev 106.953 
+03/01/2022 08:59:42 PM : batch 1000/7891 | train neglogev 108.397 
+03/01/2022 09:00:27 PM : batch 1200/7891 | train neglogev 108.743 
+03/01/2022 09:01:13 PM : batch 1400/7891 | train neglogev 109.175 
+03/01/2022 09:01:57 PM : batch 1600/7891 | train neglogev 108.593 
+03/01/2022 09:02:42 PM : batch 1800/7891 | train neglogev 109.849 
+03/01/2022 09:04:11 PM : batch 2200/7891 | train neglogev 110.206 
+03/01/2022 09:04:55 PM : batch 2400/7891 | train neglogev 109.291 
+03/01/2022 09:05:38 PM : batch 2600/7891 | train neglogev 108.929 
+03/01/2022 09:06:23 PM : batch 2800/7891 | train neglogev 109.29 
+03/01/2022 09:07:07 PM : batch 3000/7891 | train neglogev 109.769 
+03/01/2022 09:07:51 PM : batch 3200/7891 | train neglogev 109.196 
+03/01/2022 09:08:34 PM : batch 3400/7891 | train neglogev 109.146 
+03/01/2022 09:09:19 PM : batch 3600/7891 | train neglogev 109.01 
+03/01/2022 09:10:05 PM : batch 3800/7891 | train neglogev 109.254 
+03/01/2022 09:10:48 PM : batch 4000/7891 | train neglogev 109.032 
+03/01/2022 09:11:34 PM : batch 4200/7891 | train neglogev 109.104 
+03/01/2022 09:12:20 PM : batch 4400/7891 | train neglogev 109.388 
+03/01/2022 09:13:03 PM : batch 4600/7891 | train neglogev 109.05 
+03/01/2022 09:13:46 PM : batch 4800/7891 | train neglogev 109.102 
+03/01/2022 09:14:31 PM : batch 5000/7891 | train neglogev 109.147 
+03/01/2022 09:15:18 PM : batch 5200/7891 | train neglogev 109.279 
+03/01/2022 09:16:03 PM : batch 5400/7891 | train neglogev 109.279 
+03/01/2022 09:16:46 PM : batch 5600/7891 | train neglogev 109.185 
+03/01/2022 09:17:32 PM : batch 5800/7891 | train neglogev 109.171 
+03/01/2022 09:19:01 PM : batch 6200/7891 | train neglogev 109.158 
+03/01/2022 09:20:30 PM : batch 6600/7891 | train neglogev 109.142 
+03/01/2022 09:21:15 PM : batch 6800/7891 | train neglogev 109.008 
+03/01/2022 09:22:00 PM : batch 7000/7891 | train neglogev 109.012 
+03/01/2022 09:23:28 PM : batch 7400/7891 | train neglogev 109.015 
+03/01/2022 09:24:55 PM : batch 7800/7891 | train neglogev 108.852 
+03/01/2022 09:25:16 PM : epoch 61 | train neglogev 108.866 
+03/01/2022 09:26:17 PM : epoch 61 | valid neglogev 114.09
+03/01/2022 09:26:17 PM : decay_count: 2
+03/01/2022 09:26:17 PM : now lr: 0.005000
+03/01/2022 09:26:17 PM : Done
+03/01/2022 09:26:17 PM : ar: True
+03/01/2022 09:27:00 PM : batch 200/7891 | train neglogev 109.612 
+03/01/2022 09:27:45 PM : batch 400/7891 | train neglogev 108.025 
+03/01/2022 09:28:28 PM : batch 600/7891 | train neglogev 107.633 
+03/01/2022 09:29:13 PM : batch 800/7891 | train neglogev 107.902 
+03/01/2022 09:29:56 PM : batch 1000/7891 | train neglogev 107.294 
+03/01/2022 09:30:40 PM : batch 1200/7891 | train neglogev 107.474 
+03/01/2022 09:31:25 PM : batch 1400/7891 | train neglogev 107.617 
+03/01/2022 09:32:07 PM : batch 1600/7891 | train neglogev 106.327 
+03/01/2022 09:33:37 PM : batch 2000/7891 | train neglogev 106.197 
+03/01/2022 09:35:02 PM : batch 2400/7891 | train neglogev 106.453 
+03/01/2022 09:35:49 PM : batch 2600/7891 | train neglogev 107.518 
+03/01/2022 09:36:37 PM : batch 2800/7891 | train neglogev 108.462 
+03/01/2022 09:37:21 PM : batch 3000/7891 | train neglogev 108.475 
+03/01/2022 09:38:05 PM : batch 3200/7891 | train neglogev 108.499 
+03/01/2022 09:38:49 PM : batch 3400/7891 | train neglogev 108.132 
+03/01/2022 09:39:35 PM : batch 3600/7891 | train neglogev 108.465 
+03/01/2022 09:40:21 PM : batch 3800/7891 | train neglogev 108.29 
+03/01/2022 09:41:06 PM : batch 4000/7891 | train neglogev 108.224 
+03/01/2022 09:41:51 PM : batch 4200/7891 | train neglogev 108.055 
+03/01/2022 09:42:34 PM : batch 4400/7891 | train neglogev 107.887 
+03/01/2022 09:43:18 PM : batch 4600/7891 | train neglogev 107.874 
+03/01/2022 09:44:03 PM : batch 4800/7891 | train neglogev 108.138 
+03/01/2022 09:44:48 PM : batch 5000/7891 | train neglogev 108.323 
+03/01/2022 09:45:34 PM : batch 5200/7891 | train neglogev 108.61 
+03/01/2022 09:46:17 PM : batch 5400/7891 | train neglogev 108.491 
+03/01/2022 09:47:00 PM : batch 5600/7891 | train neglogev 108.409 
+03/01/2022 09:47:44 PM : batch 5800/7891 | train neglogev 108.478 
+03/01/2022 09:48:28 PM : batch 6000/7891 | train neglogev 108.539 
+03/01/2022 09:49:13 PM : batch 6200/7891 | train neglogev 108.428 
+03/01/2022 09:49:57 PM : batch 6400/7891 | train neglogev 108.376 
+03/01/2022 09:50:42 PM : batch 6600/7891 | train neglogev 108.678 
+03/01/2022 09:51:25 PM : batch 6800/7891 | train neglogev 108.451 
+03/01/2022 09:52:12 PM : batch 7000/7891 | train neglogev 108.622 
+03/01/2022 09:52:58 PM : batch 7200/7891 | train neglogev 108.749 
+03/01/2022 09:53:42 PM : batch 7400/7891 | train neglogev 108.706 
+03/01/2022 09:54:28 PM : batch 7600/7891 | train neglogev 108.785 
+03/01/2022 09:55:12 PM : batch 7800/7891 | train neglogev 108.876 
+03/01/2022 09:55:32 PM : epoch 62 | train neglogev 108.827 
+03/01/2022 09:56:33 PM : epoch 62 | valid neglogev 114.073
+03/01/2022 09:56:33 PM : decay_count: 3
+03/01/2022 09:56:33 PM : now lr: 0.005000
+03/01/2022 09:56:33 PM : Done
+03/01/2022 09:56:33 PM : ar: True
+03/01/2022 09:57:18 PM : batch 200/7891 | train neglogev 101.034 
+03/01/2022 09:58:46 PM : batch 600/7891 | train neglogev 107.321 
+03/01/2022 09:59:34 PM : batch 800/7891 | train neglogev 107.721 
+03/01/2022 10:00:17 PM : batch 1000/7891 | train neglogev 107.122 
+03/01/2022 10:01:01 PM : batch 1200/7891 | train neglogev 107.481 
+03/01/2022 10:01:46 PM : batch 1400/7891 | train neglogev 107.326 
+03/01/2022 10:02:30 PM : batch 1600/7891 | train neglogev 107.387 
+03/01/2022 10:03:13 PM : batch 1800/7891 | train neglogev 106.687 
+03/01/2022 10:03:59 PM : batch 2000/7891 | train neglogev 107.578 
+03/01/2022 10:04:43 PM : batch 2200/7891 | train neglogev 108.022 
+03/01/2022 10:05:27 PM : batch 2400/7891 | train neglogev 107.789 
+03/01/2022 10:06:13 PM : batch 2600/7891 | train neglogev 108.173 
+03/01/2022 10:06:58 PM : batch 2800/7891 | train neglogev 108.042 
+03/01/2022 10:07:43 PM : batch 3000/7891 | train neglogev 108.285 
+03/01/2022 10:08:28 PM : batch 3200/7891 | train neglogev 108.205 
+03/01/2022 10:09:13 PM : batch 3400/7891 | train neglogev 108.204 
+03/01/2022 10:09:58 PM : batch 3600/7891 | train neglogev 108.392 
+03/01/2022 10:10:42 PM : batch 3800/7891 | train neglogev 108.374 
+03/01/2022 10:11:27 PM : batch 4000/7891 | train neglogev 108.604 
+03/01/2022 10:12:12 PM : batch 4200/7891 | train neglogev 108.777 
+03/01/2022 10:13:41 PM : batch 4600/7891 | train neglogev 108.321 
+03/01/2022 10:14:25 PM : batch 4800/7891 | train neglogev 108.55 
+03/01/2022 10:15:11 PM : batch 5000/7891 | train neglogev 108.773 
+03/01/2022 10:15:55 PM : batch 5200/7891 | train neglogev 108.624 
+03/01/2022 10:17:22 PM : batch 5600/7891 | train neglogev 108.615 
+03/01/2022 10:18:07 PM : batch 5800/7891 | train neglogev 108.696 
+03/01/2022 10:18:49 PM : batch 6000/7891 | train neglogev 108.556 
+03/01/2022 10:20:18 PM : batch 6400/7891 | train neglogev 108.699 
+03/01/2022 10:21:02 PM : batch 6600/7891 | train neglogev 108.559 
+03/01/2022 10:21:47 PM : batch 6800/7891 | train neglogev 108.64 
+03/01/2022 10:23:13 PM : batch 7200/7891 | train neglogev 108.577 
+03/01/2022 10:23:58 PM : batch 7400/7891 | train neglogev 108.707 
+03/01/2022 10:24:40 PM : batch 7600/7891 | train neglogev 108.617 
+03/01/2022 10:25:48 PM : epoch 63 | train neglogev 108.84 
+03/01/2022 10:26:49 PM : epoch 63 | valid neglogev 114.107
+03/01/2022 10:26:49 PM : decay_count: 4
+03/01/2022 10:26:49 PM : now lr: 0.005000
+03/01/2022 10:26:49 PM : Done
+03/01/2022 10:26:49 PM : ar: True
+03/01/2022 10:27:33 PM : batch 200/7891 | train neglogev 112.811 
+03/01/2022 10:28:17 PM : batch 400/7891 | train neglogev 112.057 
+03/01/2022 10:29:02 PM : batch 600/7891 | train neglogev 112.147 
+03/01/2022 10:29:48 PM : batch 800/7891 | train neglogev 112.963 
+03/01/2022 10:30:31 PM : batch 1000/7891 | train neglogev 110.983 
+03/01/2022 10:31:19 PM : batch 1200/7891 | train neglogev 111.01 
+03/01/2022 10:32:04 PM : batch 1400/7891 | train neglogev 110.282 
+03/01/2022 10:32:47 PM : batch 1600/7891 | train neglogev 110.839 
+03/01/2022 10:33:29 PM : batch 1800/7891 | train neglogev 110.369 
+03/01/2022 10:34:57 PM : batch 2200/7891 | train neglogev 110.007 
+03/01/2022 10:35:42 PM : batch 2400/7891 | train neglogev 110.235 
+03/01/2022 10:36:26 PM : batch 2600/7891 | train neglogev 109.896 
+03/01/2022 10:37:09 PM : batch 2800/7891 | train neglogev 109.6 
+03/01/2022 10:37:54 PM : batch 3000/7891 | train neglogev 109.595 
+03/01/2022 10:39:23 PM : batch 3400/7891 | train neglogev 109.599 
+03/01/2022 10:40:10 PM : batch 3600/7891 | train neglogev 109.679 
+03/01/2022 10:40:53 PM : batch 3800/7891 | train neglogev 109.403 
+03/01/2022 10:41:39 PM : batch 4000/7891 | train neglogev 109.179 
+03/01/2022 10:42:24 PM : batch 4200/7891 | train neglogev 108.819 
+03/01/2022 10:43:07 PM : batch 4400/7891 | train neglogev 108.58 
+03/01/2022 10:43:51 PM : batch 4600/7891 | train neglogev 108.425 
+03/01/2022 10:44:37 PM : batch 4800/7891 | train neglogev 108.753 
+03/01/2022 10:46:04 PM : batch 5200/7891 | train neglogev 108.841 
+03/01/2022 10:46:50 PM : batch 5400/7891 | train neglogev 108.979 
+03/01/2022 10:47:36 PM : batch 5600/7891 | train neglogev 109.105 
+03/01/2022 10:48:18 PM : batch 5800/7891 | train neglogev 108.931 
+03/01/2022 10:49:01 PM : batch 6000/7891 | train neglogev 108.662 
+03/01/2022 10:49:44 PM : batch 6200/7891 | train neglogev 108.507 
+03/01/2022 10:50:32 PM : batch 6400/7891 | train neglogev 108.829 
+03/01/2022 10:51:17 PM : batch 6600/7891 | train neglogev 109.017 
+03/01/2022 10:52:46 PM : batch 7000/7891 | train neglogev 109.04 
+03/01/2022 10:54:17 PM : batch 7400/7891 | train neglogev 108.947 
+03/01/2022 10:54:59 PM : batch 7600/7891 | train neglogev 108.794 
+03/01/2022 10:55:45 PM : batch 7800/7891 | train neglogev 108.947 
+03/01/2022 10:56:04 PM : epoch 64 | train neglogev 108.81 
+03/01/2022 10:57:05 PM : epoch 64 | valid neglogev 114.153
+03/01/2022 10:57:05 PM : decay_count: 5
+03/01/2022 10:57:05 PM : now lr: 0.005000
+03/01/2022 10:57:05 PM : decaying lr to: 0.000500
+03/01/2022 10:57:05 PM : Done
+03/01/2022 10:57:05 PM : ar: True
+03/01/2022 10:58:32 PM : batch 400/7891 | train neglogev 108.608 
+03/01/2022 10:59:14 PM : batch 600/7891 | train neglogev 110.247 
+03/01/2022 11:00:00 PM : batch 800/7891 | train neglogev 111.312 
+03/01/2022 11:00:47 PM : batch 1000/7891 | train neglogev 110.875 
+03/01/2022 11:01:33 PM : batch 1200/7891 | train neglogev 110.324 
+03/01/2022 11:02:18 PM : batch 1400/7891 | train neglogev 110.293 
+03/01/2022 11:03:01 PM : batch 1600/7891 | train neglogev 110.099 
+03/01/2022 11:03:46 PM : batch 1800/7891 | train neglogev 110.294 
+03/01/2022 11:04:31 PM : batch 2000/7891 | train neglogev 109.873 
+03/01/2022 11:06:42 PM : batch 2600/7891 | train neglogev 109.908 
+03/01/2022 11:07:24 PM : batch 2800/7891 | train neglogev 109.382 
+03/01/2022 11:08:09 PM : batch 3000/7891 | train neglogev 109.192 
+03/01/2022 11:08:52 PM : batch 3200/7891 | train neglogev 108.696 
+03/01/2022 11:09:36 PM : batch 3400/7891 | train neglogev 108.321 
+03/01/2022 11:10:25 PM : batch 3600/7891 | train neglogev 109.338 
+03/01/2022 11:11:12 PM : batch 3800/7891 | train neglogev 109.483 
+03/01/2022 11:11:57 PM : batch 4000/7891 | train neglogev 109.532 
+03/01/2022 11:12:40 PM : batch 4200/7891 | train neglogev 109.23 
+03/01/2022 11:13:26 PM : batch 4400/7891 | train neglogev 109.423 
+03/01/2022 11:14:08 PM : batch 4600/7891 | train neglogev 109.081 
+03/01/2022 11:14:52 PM : batch 4800/7891 | train neglogev 109.063 
+03/01/2022 11:15:37 PM : batch 5000/7891 | train neglogev 109.104 
+03/01/2022 11:16:20 PM : batch 5200/7891 | train neglogev 109.167 
+03/01/2022 11:17:02 PM : batch 5400/7891 | train neglogev 109.088 
+03/01/2022 11:17:47 PM : batch 5600/7891 | train neglogev 109.117 
+03/01/2022 11:18:30 PM : batch 5800/7891 | train neglogev 108.807 
+03/01/2022 11:19:13 PM : batch 6000/7891 | train neglogev 108.629 
+03/01/2022 11:20:00 PM : batch 6200/7891 | train neglogev 108.732 
+03/01/2022 11:20:45 PM : batch 6400/7891 | train neglogev 108.762 
+03/01/2022 11:21:30 PM : batch 6600/7891 | train neglogev 108.652 
+03/01/2022 11:22:59 PM : batch 7000/7891 | train neglogev 108.676 
+03/01/2022 11:23:46 PM : batch 7200/7891 | train neglogev 108.893 
+03/01/2022 11:24:30 PM : batch 7400/7891 | train neglogev 108.722 
+03/01/2022 11:25:14 PM : batch 7600/7891 | train neglogev 108.68 
+03/01/2022 11:26:00 PM : batch 7800/7891 | train neglogev 108.757 
+03/01/2022 11:26:20 PM : epoch 65 | train neglogev 108.669 
+03/01/2022 11:27:21 PM : epoch 65 | valid neglogev 114.116
+03/01/2022 11:27:21 PM : decay_count: 1
+03/01/2022 11:27:21 PM : now lr: 0.000500
+03/01/2022 11:27:21 PM : Done
+03/01/2022 11:27:21 PM : ar: True
+03/01/2022 11:28:08 PM : batch 200/7891 | train neglogev 113.887 
+03/01/2022 11:28:52 PM : batch 400/7891 | train neglogev 112.02 
+03/01/2022 11:29:36 PM : batch 600/7891 | train neglogev 111.816 
+03/01/2022 11:30:20 PM : batch 800/7891 | train neglogev 112.293 
+03/01/2022 11:31:03 PM : batch 1000/7891 | train neglogev 109.265 
+03/01/2022 11:31:46 PM : batch 1200/7891 | train neglogev 108.927 
+03/01/2022 11:32:31 PM : batch 1400/7891 | train neglogev 109.417 
+03/01/2022 11:33:13 PM : batch 1600/7891 | train neglogev 108.437 
+03/01/2022 11:33:58 PM : batch 1800/7891 | train neglogev 108.159 
+03/01/2022 11:34:42 PM : batch 2000/7891 | train neglogev 107.776 
+03/01/2022 11:36:11 PM : batch 2400/7891 | train neglogev 108.034 
+03/01/2022 11:36:53 PM : batch 2600/7891 | train neglogev 107.717 
+03/01/2022 11:37:37 PM : batch 2800/7891 | train neglogev 108.201 
+03/01/2022 11:38:25 PM : batch 3000/7891 | train neglogev 108.344 
+03/01/2022 11:39:13 PM : batch 3200/7891 | train neglogev 108.718 
+03/01/2022 11:39:57 PM : batch 3400/7891 | train neglogev 108.513 
+03/01/2022 11:40:40 PM : batch 3600/7891 | train neglogev 108.576 
+03/01/2022 11:41:26 PM : batch 3800/7891 | train neglogev 108.982 
+03/01/2022 11:42:51 PM : batch 4200/7891 | train neglogev 108.53 
+03/01/2022 11:43:36 PM : batch 4400/7891 | train neglogev 108.706 
+03/01/2022 11:44:19 PM : batch 4600/7891 | train neglogev 108.193 
+03/01/2022 11:45:03 PM : batch 4800/7891 | train neglogev 108.215 
+03/01/2022 11:45:46 PM : batch 5000/7891 | train neglogev 108.115 
+03/01/2022 11:46:31 PM : batch 5200/7891 | train neglogev 108.038 
+03/01/2022 11:47:17 PM : batch 5400/7891 | train neglogev 108.418 
+03/01/2022 11:48:03 PM : batch 5600/7891 | train neglogev 108.455 
+03/01/2022 11:48:46 PM : batch 5800/7891 | train neglogev 108.37 
+03/01/2022 11:49:29 PM : batch 6000/7891 | train neglogev 108.335 
+03/01/2022 11:50:14 PM : batch 6200/7891 | train neglogev 108.451 
+03/01/2022 11:50:57 PM : batch 6400/7891 | train neglogev 108.204 
+03/01/2022 11:51:45 PM : batch 6600/7891 | train neglogev 108.174 
+03/01/2022 11:52:28 PM : batch 6800/7891 | train neglogev 108.146 
+03/01/2022 11:53:14 PM : batch 7000/7891 | train neglogev 108.274 
+03/01/2022 11:54:01 PM : batch 7200/7891 | train neglogev 108.332 
+03/01/2022 11:54:47 PM : batch 7400/7891 | train neglogev 108.369 
+03/01/2022 11:55:31 PM : batch 7600/7891 | train neglogev 108.289 
+03/01/2022 11:56:16 PM : batch 7800/7891 | train neglogev 108.441 
+03/01/2022 11:56:37 PM : epoch 66 | train neglogev 108.663 
+03/01/2022 11:57:38 PM : epoch 66 | valid neglogev 114.095
+03/01/2022 11:57:38 PM : decay_count: 2
+03/01/2022 11:57:38 PM : now lr: 0.000500
+03/01/2022 11:57:38 PM : Done
+03/01/2022 11:57:38 PM : ar: True
+03/01/2022 11:58:21 PM : batch 200/7891 | train neglogev 108.359 
+03/01/2022 11:59:06 PM : batch 400/7891 | train neglogev 108.415 
+03/01/2022 11:59:54 PM : batch 600/7891 | train neglogev 110.448 
+03/02/2022 12:00:39 AM : batch 800/7891 | train neglogev 111.236 
+03/02/2022 12:01:25 AM : batch 1000/7891 | train neglogev 111.208 
+03/02/2022 12:02:09 AM : batch 1200/7891 | train neglogev 109.94 
+03/02/2022 12:03:36 AM : batch 1600/7891 | train neglogev 108.617 
+03/02/2022 12:05:01 AM : batch 2000/7891 | train neglogev 108.048 
+03/02/2022 12:05:44 AM : batch 2200/7891 | train neglogev 106.992 
+03/02/2022 12:06:27 AM : batch 2400/7891 | train neglogev 107.103 
+03/02/2022 12:07:13 AM : batch 2600/7891 | train neglogev 107.681 
+03/02/2022 12:07:58 AM : batch 2800/7891 | train neglogev 107.582 
+03/02/2022 12:08:43 AM : batch 3000/7891 | train neglogev 107.38 
+03/02/2022 12:09:26 AM : batch 3200/7891 | train neglogev 107.459 
+03/02/2022 12:10:13 AM : batch 3400/7891 | train neglogev 107.64 
+03/02/2022 12:10:56 AM : batch 3600/7891 | train neglogev 107.526 
+03/02/2022 12:11:41 AM : batch 3800/7891 | train neglogev 107.786 
+03/02/2022 12:12:27 AM : batch 4000/7891 | train neglogev 107.71 
+03/02/2022 12:13:12 AM : batch 4200/7891 | train neglogev 107.846 
+03/02/2022 12:13:58 AM : batch 4400/7891 | train neglogev 108.086 
+03/02/2022 12:14:42 AM : batch 4600/7891 | train neglogev 108.312 
+03/02/2022 12:15:26 AM : batch 4800/7891 | train neglogev 108.536 
+03/02/2022 12:16:53 AM : batch 5200/7891 | train neglogev 108.479 
+03/02/2022 12:17:38 AM : batch 5400/7891 | train neglogev 108.763 
+03/02/2022 12:18:22 AM : batch 5600/7891 | train neglogev 108.862 
+03/02/2022 12:19:08 AM : batch 5800/7891 | train neglogev 108.787 
+03/02/2022 12:19:52 AM : batch 6000/7891 | train neglogev 108.73 
+03/02/2022 12:20:36 AM : batch 6200/7891 | train neglogev 108.712 
+03/02/2022 12:21:20 AM : batch 6400/7891 | train neglogev 108.715 
+03/02/2022 12:22:05 AM : batch 6600/7891 | train neglogev 108.67 
+03/02/2022 12:23:34 AM : batch 7000/7891 | train neglogev 108.622 
+03/02/2022 12:25:01 AM : batch 7400/7891 | train neglogev 108.451 
+03/02/2022 12:25:47 AM : batch 7600/7891 | train neglogev 108.611 
+03/02/2022 12:26:32 AM : batch 7800/7891 | train neglogev 108.677 
+03/02/2022 12:26:52 AM : epoch 67 | train neglogev 108.654 
+03/02/2022 12:27:53 AM : epoch 67 | valid neglogev 114.089
+03/02/2022 12:27:53 AM : decay_count: 3
+03/02/2022 12:27:53 AM : now lr: 0.000500
+03/02/2022 12:27:53 AM : Done
+03/02/2022 12:27:53 AM : ar: True
+03/02/2022 12:28:37 AM : batch 200/7891 | train neglogev 98.6544 
+03/02/2022 12:29:19 AM : batch 400/7891 | train neglogev 102.835 
+03/02/2022 12:30:49 AM : batch 800/7891 | train neglogev 107.311 
+03/02/2022 12:31:32 AM : batch 1000/7891 | train neglogev 106.771 
+03/02/2022 12:32:18 AM : batch 1200/7891 | train neglogev 107.863 
+03/02/2022 12:33:44 AM : batch 1600/7891 | train neglogev 107.368 
+03/02/2022 12:34:27 AM : batch 1800/7891 | train neglogev 107.449 
+03/02/2022 12:35:13 AM : batch 2000/7891 | train neglogev 107.527 
+03/02/2022 12:36:39 AM : batch 2400/7891 | train neglogev 106.441 
+03/02/2022 12:37:25 AM : batch 2600/7891 | train neglogev 106.841 
+03/02/2022 12:38:08 AM : batch 2800/7891 | train neglogev 106.702 
+03/02/2022 12:38:53 AM : batch 3000/7891 | train neglogev 106.835 
+03/02/2022 12:39:37 AM : batch 3200/7891 | train neglogev 107.035 
+03/02/2022 12:40:25 AM : batch 3400/7891 | train neglogev 107.409 
+03/02/2022 12:41:12 AM : batch 3600/7891 | train neglogev 107.742 
+03/02/2022 12:41:56 AM : batch 3800/7891 | train neglogev 107.761 
+03/02/2022 12:42:42 AM : batch 4000/7891 | train neglogev 107.86 
+03/02/2022 12:43:27 AM : batch 4200/7891 | train neglogev 108.464 
+03/02/2022 12:45:01 AM : batch 4600/7891 | train neglogev 108.673 
+03/02/2022 12:45:46 AM : batch 4800/7891 | train neglogev 108.588 
+03/02/2022 12:46:28 AM : batch 5000/7891 | train neglogev 108.152 
+03/02/2022 12:47:10 AM : batch 5200/7891 | train neglogev 108.218 
+03/02/2022 12:47:52 AM : batch 5400/7891 | train neglogev 108.244 
+03/02/2022 12:49:20 AM : batch 5800/7891 | train neglogev 108.082 
+03/02/2022 12:50:04 AM : batch 6000/7891 | train neglogev 108.089 
+03/02/2022 12:50:51 AM : batch 6200/7891 | train neglogev 108.338 
+03/02/2022 12:51:33 AM : batch 6400/7891 | train neglogev 108.395 
+03/02/2022 12:52:16 AM : batch 6600/7891 | train neglogev 108.23 
+03/02/2022 12:53:02 AM : batch 6800/7891 | train neglogev 108.39 
+03/02/2022 12:53:48 AM : batch 7000/7891 | train neglogev 108.424 
+03/02/2022 12:54:34 AM : batch 7200/7891 | train neglogev 108.477 
+03/02/2022 12:56:03 AM : batch 7600/7891 | train neglogev 108.564 
+03/02/2022 12:56:49 AM : batch 7800/7891 | train neglogev 108.67 
+03/02/2022 12:57:08 AM : epoch 68 | train neglogev 108.636 
+03/02/2022 12:58:09 AM : epoch 68 | valid neglogev 114.084
+03/02/2022 12:58:09 AM : decay_count: 4
+03/02/2022 12:58:09 AM : now lr: 0.000500
+03/02/2022 12:58:09 AM : Done
+03/02/2022 12:58:09 AM : ar: True
+03/02/2022 12:59:40 AM : batch 400/7891 | train neglogev 107.367 
+03/02/2022 01:00:23 AM : batch 600/7891 | train neglogev 104.937 
+03/02/2022 01:01:05 AM : batch 800/7891 | train neglogev 104.498 
+03/02/2022 01:01:51 AM : batch 1000/7891 | train neglogev 105.991 
+03/02/2022 01:02:35 AM : batch 1200/7891 | train neglogev 106.315 
+03/02/2022 01:03:20 AM : batch 1400/7891 | train neglogev 107.174 
+03/02/2022 01:04:06 AM : batch 1600/7891 | train neglogev 107.082 
+03/02/2022 01:04:49 AM : batch 1800/7891 | train neglogev 107.894 
+03/02/2022 01:05:34 AM : batch 2000/7891 | train neglogev 108.297 
+03/02/2022 01:06:17 AM : batch 2200/7891 | train neglogev 107.765 
+03/02/2022 01:07:00 AM : batch 2400/7891 | train neglogev 107.558 
+03/02/2022 01:07:45 AM : batch 2600/7891 | train neglogev 107.948 
+03/02/2022 01:08:30 AM : batch 2800/7891 | train neglogev 108.008 
+03/02/2022 01:09:56 AM : batch 3200/7891 | train neglogev 107.589 
+03/02/2022 01:10:40 AM : batch 3400/7891 | train neglogev 107.656 
+03/02/2022 01:11:25 AM : batch 3600/7891 | train neglogev 108.068 
+03/02/2022 01:12:11 AM : batch 3800/7891 | train neglogev 108.56 
+03/02/2022 01:12:55 AM : batch 4000/7891 | train neglogev 108.462 
+03/02/2022 01:13:37 AM : batch 4200/7891 | train neglogev 108.155 
+03/02/2022 01:14:20 AM : batch 4400/7891 | train neglogev 108.121 
+03/02/2022 01:15:04 AM : batch 4600/7891 | train neglogev 108.041 
+03/02/2022 01:15:47 AM : batch 4800/7891 | train neglogev 108.072 
+03/02/2022 01:16:32 AM : batch 5000/7891 | train neglogev 108.232 
+03/02/2022 01:17:19 AM : batch 5200/7891 | train neglogev 108.519 
+03/02/2022 01:18:02 AM : batch 5400/7891 | train neglogev 108.2 
+03/02/2022 01:18:43 AM : batch 5600/7891 | train neglogev 107.889 
+03/02/2022 01:19:29 AM : batch 5800/7891 | train neglogev 108.029 
+03/02/2022 01:20:14 AM : batch 6000/7891 | train neglogev 108.204 
+03/02/2022 01:21:02 AM : batch 6200/7891 | train neglogev 108.358 
+03/02/2022 01:21:49 AM : batch 6400/7891 | train neglogev 108.421 
+03/02/2022 01:22:34 AM : batch 6600/7891 | train neglogev 108.368 
+03/02/2022 01:23:18 AM : batch 6800/7891 | train neglogev 108.332 
+03/02/2022 01:24:03 AM : batch 7000/7891 | train neglogev 108.419 
+03/02/2022 01:24:49 AM : batch 7200/7891 | train neglogev 108.506 
+03/02/2022 01:25:35 AM : batch 7400/7891 | train neglogev 108.619 
+03/02/2022 01:26:19 AM : batch 7600/7891 | train neglogev 108.736 
+03/02/2022 01:27:05 AM : batch 7800/7891 | train neglogev 108.635 
+03/02/2022 01:27:26 AM : epoch 69 | train neglogev 108.642 
+03/02/2022 01:28:26 AM : epoch 69 | valid neglogev 114.082
+03/02/2022 01:28:26 AM : decay_count: 5
+03/02/2022 01:28:26 AM : now lr: 0.000500
+03/02/2022 01:28:26 AM : decaying lr to: 0.000050
+03/02/2022 01:28:26 AM : Done
+03/02/2022 01:28:26 AM : ar: True
+03/02/2022 01:29:09 AM : batch 200/7891 | train neglogev 111.668 
+03/02/2022 01:29:55 AM : batch 400/7891 | train neglogev 109.164 
+03/02/2022 01:30:38 AM : batch 600/7891 | train neglogev 109.245 
+03/02/2022 01:31:23 AM : batch 800/7891 | train neglogev 108.375 
+03/02/2022 01:32:09 AM : batch 1000/7891 | train neglogev 108.982 
+03/02/2022 01:32:55 AM : batch 1200/7891 | train neglogev 110.159 
+03/02/2022 01:33:39 AM : batch 1400/7891 | train neglogev 109.192 
+03/02/2022 01:34:22 AM : batch 1600/7891 | train neglogev 109.132 
+03/02/2022 01:35:06 AM : batch 1800/7891 | train neglogev 108.685 
+03/02/2022 01:35:53 AM : batch 2000/7891 | train neglogev 108.991 
+03/02/2022 01:36:39 AM : batch 2200/7891 | train neglogev 109.489 
+03/02/2022 01:37:22 AM : batch 2400/7891 | train neglogev 109.327 
+03/02/2022 01:38:08 AM : batch 2600/7891 | train neglogev 109.312 
+03/02/2022 01:38:50 AM : batch 2800/7891 | train neglogev 108.973 
+03/02/2022 01:39:37 AM : batch 3000/7891 | train neglogev 109.751 
+03/02/2022 01:40:21 AM : batch 3200/7891 | train neglogev 109.544 
+03/02/2022 01:41:07 AM : batch 3400/7891 | train neglogev 109.469 
+03/02/2022 01:41:49 AM : batch 3600/7891 | train neglogev 109.21 
+03/02/2022 01:42:33 AM : batch 3800/7891 | train neglogev 109.089 
+03/02/2022 01:43:18 AM : batch 4000/7891 | train neglogev 109.126 
+03/02/2022 01:44:01 AM : batch 4200/7891 | train neglogev 108.984 
+03/02/2022 01:44:46 AM : batch 4400/7891 | train neglogev 109.158 
+03/02/2022 01:45:30 AM : batch 4600/7891 | train neglogev 109.022 
+03/02/2022 01:46:14 AM : batch 4800/7891 | train neglogev 109.022 
+03/02/2022 01:46:59 AM : batch 5000/7891 | train neglogev 108.915 
+03/02/2022 01:47:43 AM : batch 5200/7891 | train neglogev 108.844 
+03/02/2022 01:48:29 AM : batch 5400/7891 | train neglogev 108.82 
+03/02/2022 01:49:14 AM : batch 5600/7891 | train neglogev 108.84 
+03/02/2022 01:49:55 AM : batch 5800/7891 | train neglogev 108.681 
+03/02/2022 01:50:41 AM : batch 6000/7891 | train neglogev 108.632 
+03/02/2022 01:51:25 AM : batch 6200/7891 | train neglogev 108.589 
+03/02/2022 01:52:08 AM : batch 6400/7891 | train neglogev 108.452 
+03/02/2022 01:52:53 AM : batch 6600/7891 | train neglogev 108.567 
+03/02/2022 01:53:38 AM : batch 6800/7891 | train neglogev 108.819 
+03/02/2022 01:54:22 AM : batch 7000/7891 | train neglogev 108.68 
+03/02/2022 01:55:08 AM : batch 7200/7891 | train neglogev 108.887 
+03/02/2022 01:55:52 AM : batch 7400/7891 | train neglogev 108.775 
+03/02/2022 01:56:35 AM : batch 7600/7891 | train neglogev 108.72 
+03/02/2022 01:57:20 AM : batch 7800/7891 | train neglogev 108.601 
+03/02/2022 01:57:41 AM : epoch 70 | train neglogev 108.61 
+03/02/2022 01:58:42 AM : epoch 70 | valid neglogev 114.082
+03/02/2022 01:58:42 AM : decay_count: 1
+03/02/2022 01:58:42 AM : now lr: 0.000050
+03/02/2022 01:58:42 AM : Done
+03/02/2022 01:58:42 AM : ar: True
+03/02/2022 01:59:25 AM : batch 200/7891 | train neglogev 103.327 
+03/02/2022 02:00:10 AM : batch 400/7891 | train neglogev 106.659 
+03/02/2022 02:00:54 AM : batch 600/7891 | train neglogev 106.868 
+03/02/2022 02:01:37 AM : batch 800/7891 | train neglogev 106.882 
+03/02/2022 02:02:22 AM : batch 1000/7891 | train neglogev 109.186 
+03/02/2022 02:03:52 AM : batch 1400/7891 | train neglogev 109.326 
+03/02/2022 02:04:34 AM : batch 1600/7891 | train neglogev 108.17 
+03/02/2022 02:05:20 AM : batch 1800/7891 | train neglogev 107.822 
+03/02/2022 02:06:05 AM : batch 2000/7891 | train neglogev 107.874 
+03/02/2022 02:06:49 AM : batch 2200/7891 | train neglogev 108.019 
+03/02/2022 02:07:33 AM : batch 2400/7891 | train neglogev 107.684 
+03/02/2022 02:08:18 AM : batch 2600/7891 | train neglogev 108.049 
+03/02/2022 02:09:02 AM : batch 2800/7891 | train neglogev 107.746 
+03/02/2022 02:09:48 AM : batch 3000/7891 | train neglogev 108.229 
+03/02/2022 02:10:34 AM : batch 3200/7891 | train neglogev 108.467 
+03/02/2022 02:11:19 AM : batch 3400/7891 | train neglogev 108.654 
+03/02/2022 02:12:03 AM : batch 3600/7891 | train neglogev 108.913 
+03/02/2022 02:12:45 AM : batch 3800/7891 | train neglogev 109.036 
+03/02/2022 02:13:30 AM : batch 4000/7891 | train neglogev 109.084 
+03/02/2022 02:14:14 AM : batch 4200/7891 | train neglogev 109.229 
+03/02/2022 02:15:00 AM : batch 4400/7891 | train neglogev 109.156 
+03/02/2022 02:16:31 AM : batch 4800/7891 | train neglogev 109.551 
+03/02/2022 02:17:16 AM : batch 5000/7891 | train neglogev 109.234 
+03/02/2022 02:18:00 AM : batch 5200/7891 | train neglogev 109.295 
+03/02/2022 02:18:44 AM : batch 5400/7891 | train neglogev 109.332 
+03/02/2022 02:19:31 AM : batch 5600/7891 | train neglogev 109.362 
+03/02/2022 02:20:15 AM : batch 5800/7891 | train neglogev 109.341 
+03/02/2022 02:21:00 AM : batch 6000/7891 | train neglogev 109.216 
+03/02/2022 02:21:43 AM : batch 6200/7891 | train neglogev 109.142 
+03/02/2022 02:22:28 AM : batch 6400/7891 | train neglogev 109.072 
+03/02/2022 02:23:15 AM : batch 6600/7891 | train neglogev 109.174 
+03/02/2022 02:24:00 AM : batch 6800/7891 | train neglogev 108.996 
+03/02/2022 02:24:44 AM : batch 7000/7891 | train neglogev 108.99 
+03/02/2022 02:25:29 AM : batch 7200/7891 | train neglogev 108.937 
+03/02/2022 02:26:14 AM : batch 7400/7891 | train neglogev 108.709 
+03/02/2022 02:27:40 AM : batch 7800/7891 | train neglogev 108.594 
+03/02/2022 02:27:59 AM : epoch 71 | train neglogev 108.609 
+03/02/2022 02:29:00 AM : epoch 71 | valid neglogev 114.083
+03/02/2022 02:29:00 AM : decay_count: 2
+03/02/2022 02:29:00 AM : now lr: 0.000050
+03/02/2022 02:29:00 AM : Done
+03/02/2022 02:29:00 AM : ar: True
+03/02/2022 02:29:44 AM : batch 200/7891 | train neglogev 109.547 
+03/02/2022 02:30:29 AM : batch 400/7891 | train neglogev 108.955 
+03/02/2022 02:31:12 AM : batch 600/7891 | train neglogev 108.635 
+03/02/2022 02:31:57 AM : batch 800/7891 | train neglogev 109.615 
+03/02/2022 02:32:41 AM : batch 1000/7891 | train neglogev 110.304 
+03/02/2022 02:33:26 AM : batch 1200/7891 | train neglogev 109.999 
+03/02/2022 02:34:10 AM : batch 1400/7891 | train neglogev 109.289 
+03/02/2022 02:34:53 AM : batch 1600/7891 | train neglogev 108.695 
+03/02/2022 02:35:40 AM : batch 1800/7891 | train neglogev 108.535 
+03/02/2022 02:36:24 AM : batch 2000/7891 | train neglogev 108.76 
+03/02/2022 02:37:11 AM : batch 2200/7891 | train neglogev 108.643 
+03/02/2022 02:37:57 AM : batch 2400/7891 | train neglogev 109.16 
+03/02/2022 02:38:42 AM : batch 2600/7891 | train neglogev 108.831 
+03/02/2022 02:39:28 AM : batch 2800/7891 | train neglogev 109.021 
+03/02/2022 02:40:12 AM : batch 3000/7891 | train neglogev 108.931 
+03/02/2022 02:40:54 AM : batch 3200/7891 | train neglogev 108.851 
+03/02/2022 02:42:23 AM : batch 3600/7891 | train neglogev 108.459 
+03/02/2022 02:43:07 AM : batch 3800/7891 | train neglogev 108.281 
+03/02/2022 02:43:50 AM : batch 4000/7891 | train neglogev 108.316 
+03/02/2022 02:44:35 AM : batch 4200/7891 | train neglogev 108.132 
+03/02/2022 02:45:17 AM : batch 4400/7891 | train neglogev 107.979 
+03/02/2022 02:46:01 AM : batch 4600/7891 | train neglogev 108.133 
+03/02/2022 02:46:47 AM : batch 4800/7891 | train neglogev 108.227 
+03/02/2022 02:47:34 AM : batch 5000/7891 | train neglogev 108.562 
+03/02/2022 02:48:18 AM : batch 5200/7891 | train neglogev 108.725 
+03/02/2022 02:49:01 AM : batch 5400/7891 | train neglogev 108.624 
+03/02/2022 02:49:45 AM : batch 5600/7891 | train neglogev 108.641 
+03/02/2022 02:50:31 AM : batch 5800/7891 | train neglogev 108.882 
+03/02/2022 02:51:16 AM : batch 6000/7891 | train neglogev 108.923 
+03/02/2022 02:51:59 AM : batch 6200/7891 | train neglogev 108.928 
+03/02/2022 02:52:42 AM : batch 6400/7891 | train neglogev 108.761 
+03/02/2022 02:53:27 AM : batch 6600/7891 | train neglogev 108.753 
+03/02/2022 02:54:09 AM : batch 6800/7891 | train neglogev 108.451 
+03/02/2022 02:54:55 AM : batch 7000/7891 | train neglogev 108.511 
+03/02/2022 02:55:37 AM : batch 7200/7891 | train neglogev 108.359 
+03/02/2022 02:56:23 AM : batch 7400/7891 | train neglogev 108.558 
+03/02/2022 02:57:09 AM : batch 7600/7891 | train neglogev 108.599 
+03/02/2022 02:57:54 AM : batch 7800/7891 | train neglogev 108.688 
+03/02/2022 02:58:14 AM : epoch 72 | train neglogev 108.64 
+03/02/2022 02:59:15 AM : epoch 72 | valid neglogev 114.083
+03/02/2022 02:59:15 AM : decay_count: 3
+03/02/2022 02:59:15 AM : now lr: 0.000050
+03/02/2022 02:59:15 AM : Done
+03/02/2022 02:59:15 AM : ar: True
+03/02/2022 02:59:59 AM : batch 200/7891 | train neglogev 111.339 
+03/02/2022 03:00:43 AM : batch 400/7891 | train neglogev 105.203 
+03/02/2022 03:01:29 AM : batch 600/7891 | train neglogev 107.895 
+03/02/2022 03:02:15 AM : batch 800/7891 | train neglogev 108.653 
+03/02/2022 03:02:59 AM : batch 1000/7891 | train neglogev 108.816 
+03/02/2022 03:03:45 AM : batch 1200/7891 | train neglogev 109.816 
+03/02/2022 03:04:30 AM : batch 1400/7891 | train neglogev 109.403 
+03/02/2022 03:05:15 AM : batch 1600/7891 | train neglogev 108.63 
+03/02/2022 03:05:57 AM : batch 1800/7891 | train neglogev 108.02 
+03/02/2022 03:06:43 AM : batch 2000/7891 | train neglogev 107.725 
+03/02/2022 03:07:25 AM : batch 2200/7891 | train neglogev 108.208 
+03/02/2022 03:08:11 AM : batch 2400/7891 | train neglogev 108.607 
+03/02/2022 03:08:52 AM : batch 2600/7891 | train neglogev 107.706 
+03/02/2022 03:09:36 AM : batch 2800/7891 | train neglogev 107.561 
+03/02/2022 03:10:21 AM : batch 3000/7891 | train neglogev 107.559 
+03/02/2022 03:11:08 AM : batch 3200/7891 | train neglogev 107.751 
+03/02/2022 03:11:53 AM : batch 3400/7891 | train neglogev 108.044 
+03/02/2022 03:12:39 AM : batch 3600/7891 | train neglogev 108.619 
+03/02/2022 03:13:23 AM : batch 3800/7891 | train neglogev 108.85 
+03/02/2022 03:14:08 AM : batch 4000/7891 | train neglogev 108.778 
+03/02/2022 03:15:39 AM : batch 4400/7891 | train neglogev 108.734 
+03/02/2022 03:16:22 AM : batch 4600/7891 | train neglogev 108.568 
+03/02/2022 03:17:06 AM : batch 4800/7891 | train neglogev 108.365 
+03/02/2022 03:17:50 AM : batch 5000/7891 | train neglogev 108.404 
+03/02/2022 03:20:04 AM : batch 5600/7891 | train neglogev 108.786 
+03/02/2022 03:20:49 AM : batch 5800/7891 | train neglogev 108.877 
+03/02/2022 03:22:16 AM : batch 6200/7891 | train neglogev 108.809 
+03/02/2022 03:23:42 AM : batch 6600/7891 | train neglogev 108.624 
+03/02/2022 03:25:12 AM : batch 7000/7891 | train neglogev 108.828 
+03/02/2022 03:26:43 AM : batch 7400/7891 | train neglogev 108.815 
+03/02/2022 03:27:24 AM : batch 7600/7891 | train neglogev 108.674 
+03/02/2022 03:28:10 AM : batch 7800/7891 | train neglogev 108.675 
+03/02/2022 03:28:31 AM : epoch 73 | train neglogev 108.645 
+03/02/2022 03:29:31 AM : epoch 73 | valid neglogev 114.083
+03/02/2022 03:29:31 AM : decay_count: 4
+03/02/2022 03:29:31 AM : now lr: 0.000050
+03/02/2022 03:29:31 AM : Done
+03/02/2022 03:29:31 AM : ar: True
+03/02/2022 03:31:00 AM : batch 400/7891 | train neglogev 107.95 
+03/02/2022 03:31:45 AM : batch 600/7891 | train neglogev 108.863 
+03/02/2022 03:32:30 AM : batch 800/7891 | train neglogev 108.97 
+03/02/2022 03:33:15 AM : batch 1000/7891 | train neglogev 109.042 
+03/02/2022 03:34:00 AM : batch 1200/7891 | train neglogev 108.328 
+03/02/2022 03:34:43 AM : batch 1400/7891 | train neglogev 107.715 
+03/02/2022 03:36:15 AM : batch 1800/7891 | train neglogev 108.12 
+03/02/2022 03:36:58 AM : batch 2000/7891 | train neglogev 108.08 
+03/02/2022 03:37:42 AM : batch 2200/7891 | train neglogev 107.882 
+03/02/2022 03:38:28 AM : batch 2400/7891 | train neglogev 108.397 
+03/02/2022 03:39:12 AM : batch 2600/7891 | train neglogev 108.253 
+03/02/2022 03:39:56 AM : batch 2800/7891 | train neglogev 108.125 
+03/02/2022 03:41:25 AM : batch 3200/7891 | train neglogev 108.523 
+03/02/2022 03:42:10 AM : batch 3400/7891 | train neglogev 108.682 
+03/02/2022 03:42:54 AM : batch 3600/7891 | train neglogev 108.282 
+03/02/2022 03:43:36 AM : batch 3800/7891 | train neglogev 108.058 
+03/02/2022 03:44:17 AM : batch 4000/7891 | train neglogev 107.649 
+03/02/2022 03:45:45 AM : batch 4400/7891 | train neglogev 107.593 
+03/02/2022 03:46:29 AM : batch 4600/7891 | train neglogev 107.426 
+03/02/2022 03:47:13 AM : batch 4800/7891 | train neglogev 107.414 
+03/02/2022 03:47:58 AM : batch 5000/7891 | train neglogev 107.68 
+03/02/2022 03:48:43 AM : batch 5200/7891 | train neglogev 107.684 
+03/02/2022 03:49:26 AM : batch 5400/7891 | train neglogev 107.544 
+03/02/2022 03:50:14 AM : batch 5600/7891 | train neglogev 107.925 
+03/02/2022 03:50:55 AM : batch 5800/7891 | train neglogev 107.741 
+03/02/2022 03:51:41 AM : batch 6000/7891 | train neglogev 107.793 
+03/02/2022 03:52:28 AM : batch 6200/7891 | train neglogev 107.864 
+03/02/2022 03:53:13 AM : batch 6400/7891 | train neglogev 107.91 
+03/02/2022 03:53:57 AM : batch 6600/7891 | train neglogev 108.045 
+03/02/2022 03:54:41 AM : batch 6800/7891 | train neglogev 108.085 
+03/02/2022 03:55:27 AM : batch 7000/7891 | train neglogev 108.227 
+03/02/2022 03:56:11 AM : batch 7200/7891 | train neglogev 108.269 
+03/02/2022 03:56:58 AM : batch 7400/7891 | train neglogev 108.382 
+03/02/2022 03:57:41 AM : batch 7600/7891 | train neglogev 108.422 
+03/02/2022 03:58:27 AM : batch 7800/7891 | train neglogev 108.495 
+03/02/2022 03:58:48 AM : epoch 74 | train neglogev 108.603 
+03/02/2022 03:59:49 AM : epoch 74 | valid neglogev 114.083
+03/02/2022 03:59:49 AM : decay_count: 5
+03/02/2022 03:59:49 AM : now lr: 0.000050
+03/02/2022 03:59:49 AM : decaying lr to: 0.000005

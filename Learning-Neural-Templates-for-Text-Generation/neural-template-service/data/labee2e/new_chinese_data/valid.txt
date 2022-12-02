@@ -1,0 +1,414 @@
+同时 公司 公布 <this_year> 年 一季报 ， 实现 营收 <OPER_REV> 亿元 ， 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||21,22,8
+<eos>|||0,1,8
+<this_year> Q1 收入 <OPER_REV> 亿元 、 同增 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 、 同增 <S_FA_YOYNETPROFIT> ， 业绩 超 预期 。 <eos>|||21,22,8
+<eos>|||0,1,8
+投资 要点 ： 公司 公布 <this_year> 年 年报 ， 归母 净利 同比 增长 <S_FA_YOYNETPROFIT> ， 超 市场 及 我们 预期 。 <eos>|||21,22,8
+<eos>|||0,1,8
+<this_year> Q1 营业 收入 <OPER_REV> 亿 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿 ( yoy + <S_FA_YOYNETPROFIT> ) 。 <eos>|||21,22,8
+<eos>|||0,1,8
+<this_year> H1 ， 公司 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||21,22,8
+<eos>|||0,1,8
+① <this_year> H1 公司 收入 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> 。 归母 净利润 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> 。 <eos>|||21,22,8
+<eos>|||0,1,8
+点评 ： 公司 <this_year> 年 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||21,22,8
+<eos>|||0,1,8
+<last_year> 年 消费 电子 营收 占 总营收 比重 为 <OPER_REV_GROWTH_RATE> 。 <eos>|||11,12,8
+<eos>|||0,1,8
+<last_year> 年 业绩 同比 下降 <S_FA_GROSSPROFITMARGIN> ， 符合 市场 预期 。 <eos>|||11,12,8
+<eos>|||0,1,8
+<this_year> 年 一季度 实现 收入 <OPER_REV> 亿 ， 同比增加 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿 ， 同比增加 <S_FA_YOYNETPROFIT> 。 <eos>|||20,21,8
+<eos>|||0,1,8
+考虑 <this_year> Q1 受 流感 因素 影响 基数 较 高 ， 我们 估计 公司业绩 内生 增速 在 <S_FA_YOYNETPROFIT> 左右 。 <eos>|||20,21,8
+<eos>|||0,1,8
+<this_year> 年 一季度 实现 营收 、 归母 净利 <OPER_REV> 亿元 、 <NET_PROFIT> 亿元 ， 同比 增 <OPER_REV_GROWTH_RATE> 、 <S_FA_YOYNETPROFIT> 。 <eos>|||20,21,8
+<eos>|||0,1,8
+<this_year> 年 一季度 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||20,21,8
+<eos>|||0,1,8
+公司 Q1 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||20,21,8
+<eos>|||0,1,8
+<this_year> Q1 营收 <OPER_REV> 亿元 ( + <OPER_REV_GROWTH_RATE> ) ， 归母 净利润 <NET_PROFIT> 亿元 ( + <S_FA_YOYNETPROFIT> ) ， 扣非 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ( + <S_FA_GROSSPROFITMARGIN> ) 。 <eos>|||29,30,8
+<eos>|||0,1,8
+事件 ： 公司 披露 <this_year> 年 一季报 ， 一季度 公司 实现 收入 <OPER_REV> 亿 ， 同比 + <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿 ， 同比 + <S_FA_YOYNETPROFIT> 。 <eos>|||29,30,8
+<eos>|||0,1,8
+业绩 概述 ： <name> <this_year> 年 营收 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 同比 增长 <S_FA_YOYNETPROFIT> ， 均 创 五年 来 最高 增速 ， 业绩 表现 超 预期 。 <eos>|||29,30,8
+<eos>|||0,1,8
+公司 发布 <this_year> 年 第一季度 报告 ， 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归属于 上市公司 股东 的 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||29,30,8
+<eos>|||0,1,8
+<this_year> Q1 公司 销售 毛利率 受 疫情 影响 下滑 至 <S_FA_NETPROFITMARGIN> ， 我们 认为 随着 下游 复工 复产 持续 推进 ， 公司 <this_year> 年 业绩 有望 逐渐 回暖 。 <eos>|||29,30,8
+<eos>|||0,1,8
+<this_year> Q1 营收 <OPER_REV> 亿 ， 同比 增速 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿 ， 同比 增速 <S_FA_YOYNETPROFIT> 。 <eos>|||19,20,8
+<eos>|||0,1,8
+<this_year> Q1 营收 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ； 归母 净利 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> 。 <eos>|||19,20,8
+<eos>|||0,1,8
+<name> 披露 <this_year> 年 中期 业绩 <this_year> 年 上半年 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||19,20,8
+<eos>|||0,1,8
+公司 上半年 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||19,20,8
+<eos>|||0,1,8
+主要 是 由于 重卡 ( 收入 占 比 估计 <S_FA_YOYNETPROFIT> ) 、 工程机械 、 乘用车 业务 ( 收入 占 比 <S_FA_YOYNETPROFIT> ) 快速增长 导致 ， 预计 <this_year> 年 乘用车 业务 仍 有 <S_FA_YOYNETPROFIT> 的 业务 增速 ， 下游 客户 吉利 销量 提升 ， 长城 、 长安 、 通用汽车 水 冷器 等 新 产品 放量 ， 商用车 板块 由于 总成 类产品 占 比 增加 ， 单品 价值 提升 ， 提振 业绩 。 <eos>|||71,72,8
+<eos>|||0,1,8
+营业 收入 ： 同店 & 新开 门店 共同 推动 营收 + <OPER_REV_GROWTH_RATE> 公司 <this_year> 年 营业 收入 为 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 主要 是 同店 增长 & 加速 新开 门店 所致 。 <eos>|||35,36,8
+<eos>|||0,1,8
+<this_year> Q1 公司 实现 营收 <OPER_REV> 亿元 ， 同增 <OPER_REV_GROWTH_RATE> 。 公司 <this_year> 年 一季度 实现 归属于 上市公司 股东 的 净利润 为 <NET_PROFIT> 万元 ， 同增 <S_FA_YOYNETPROFIT> ， 处于 业绩 预告 中上 沿 水平 。 <eos>|||35,36,8
+<eos>|||0,1,8
+费用率 基本 持平 ， 发展 质量 稳中 向 好 公司 四项 费用率 <S_FA_EXPENSETOSALES> ， 与 <last_year> 年 基本 持平 。 综上 ， 公司 <this_year> 年 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||35,36,8
+<eos>|||0,1,8
+事项 ： 公司 发布 <this_year> 年 中报 ： 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ； 销售 毛利率 <S_FA_GROSSPROFITMARGIN> ， 销售 净 利率 <S_FA_NETPROFITMARGIN> 。 <eos>|||35,36,8
+<eos>|||0,1,8
+<this_year> 年 Q1 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||23,24,8
+<eos>|||0,1,8
+<this_year> 年 一季度 ， 公司 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||23,24,8
+<eos>|||0,1,8
+考虑 追溯 调整 ， 公司 <this_year> H1 发电量 较 去年同期 ( 调整 后 ) 增长 <S_FA_EXPENSETOSALES> ， 增速 仍 处于 较 高水平 。 <eos>|||23,24,8
+<eos>|||0,1,8
+公司 <this_year> Q1 实现 营业 收入 和 归母 净利润 同比 增长 <OPER_REV_GROWTH_RATE> 和 <S_FA_YOYNETPROFIT> ， 业绩 偏 上限 ， 略超 市场 预期 。 <eos>|||23,24,8
+<eos>|||0,1,8
+<this_year> 年 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||23,24,8
+<eos>|||0,1,8
+<this_year> 年 一季度 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||23,24,8
+<eos>|||0,1,8
+<this_year> Q1 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 扣非 后 归母 净利润 达 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 提升 <OPER_REV_GROWTH_RATE> 。 <eos>|||23,24,8
+<eos>|||0,1,8
+公司 <this_year> 年 实现 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归属 母公司 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||23,24,8
+<eos>|||0,1,8
+<this_year> 年 ， 受 住宅 销售 和 物业管理 收入 增加 的 推动 ， 公司 营收 增加 <OPER_REV_GROWTH_RATE> ， 归母 净利润 增加 <S_FA_YOYNETPROFIT> 。 <eos>|||23,24,8
+<eos>|||0,1,8
+<last_year> 年 油墨 的 原料 端的 价格 在 持续 上涨 ， 直接 材料 原料 端 成本 同比增加 <S_FA_EXPENSETOSALES> ， 且 价格 并未 传导 到 终端 客户 ， 间接 的 影响 了 公司 的 一部分 利润 ， 同时 我们 认为 在 这种 情况 下 ， 一部分 PCB 油墨 的 小厂 的 生存环境 更加 恶劣 ， 在 <this_year> 年 行业 产能 有望 进一步 集中 ， 随着 公司 募 投产 能 的 投放 ， 公司 的 PCB 油墨 有望 迎来 量 价齐升 。 <eos>|||80,81,8
+<eos>|||0,1,8
+<this_year> 年 第一季度 营收 和 归母 净利润 同比 分别 增长 <OPER_REV_GROWTH_RATE> 和 <S_FA_YOYNETPROFIT> ， 其中 信贷 扩张 和 手续费 净收入 形成 正 贡献 ， 公允 价值 变动 形成 明显 负 贡献 。 <eos>|||32,33,8
+<eos>|||0,1,8
+投资 要点 公司 发布 <this_year> 年 年报 ， 实现 营业 收入 <OPER_REV> 亿元 ， yoy30.23% ； 归母 净利润 <NET_PROFIT> 亿 ， yoy47.95% ； 扣非 归母 净利润 为 <S_FA_DEDUCTEDPROFIT> 亿 ， yoy48.53% 。 <eos>|||32,33,8
+<eos>|||0,1,8
+<this_year> Q1 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> ； 毛利率 、 净 利率 分别 为 <S_FA_GROSSPROFITMARGIN> 、 <S_FA_NETPROFITMARGIN> 。 <eos>|||32,33,8
+<eos>|||0,1,8
+事件 ： 公司公告 <this_year> 上半年 度 报告 ， <this_year> 年 H1 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <S_FA_EXPENSETOSALES> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 符合 预期 。 <eos>|||32,33,8
+<eos>|||0,1,8
+扣非 净利润 增长 加速 ， 核心 经营 指标 持续 改善 <this_year> 年 公司 实现 营收 <OPER_REV> 亿 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||32,33,8
+<eos>|||0,1,8
+<name> 披露 <this_year> 年报 商 银行 <this_year> 年 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||18,19,8
+<eos>|||0,1,8
+<last_year> 年 信用卡 贷款 余额 同比 增长 <OPER_REV_GROWTH_RATE> ， 占 到 全年 净 新增 贷款 的 <S_FA_ADMINEXPENSETOGR> 。 <eos>|||18,19,8
+<eos>|||0,1,8
+<name> 披露 <this_year> 年 年报 <this_year> 年 全年 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||18,19,8
+<eos>|||0,1,8
+<this_year> 年 Q1 公司 实现 归母 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 略超 我们 预期 。 <eos>|||18,19,8
+<eos>|||0,1,8
+归母 净利润 为 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||10,11,8
+<eos>|||0,1,8
+<this_year> Q1 总收入 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> 。 <eos>|||10,11,8
+<eos>|||0,1,8
+实现 归属 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||10,11,8
+<eos>|||0,1,8
+公司 <this_year> Q1 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归属于 上市公司 股东 的 净利润 <NET_PROFIT> 亿元 ， 同比 大增 <S_FA_YOYNETPROFIT> 。 <eos>|||26,27,8
+<eos>|||0,1,8
+事件 ： 公司 发布 一季报 ， 公司 <this_year> 年 一季度 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||26,27,8
+<eos>|||0,1,8
+整体 来看 ， 虽然 Q2 毛利率 有所 上升 ， 但 受 期间 费用率 上涨 拖累 ， 公司 Q2 净 利率 下降 <S_FA_FINAEXPENSETOGR> pct 至 <S_FA_EXPENSETOSALES> 。 <eos>|||26,27,8
+<eos>|||0,1,8
+<this_year> 年 一季度 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 - <NET_PROFIT> 亿元 ， 同比 减亏 <S_FA_YOYNETPROFIT> 。 <eos>|||26,27,8
+<eos>|||0,1,8
+销售 、 一般 及 管理费用 <S_FA_DEDUCTEDPROFIT> 亿 ， 同比 下降 <S_FA_GROSSPROFITMARGIN> ， 主要 是 实施 新 租赁 准则 以及 公司 大力 压缩 非生产性 支出 影响 。 <eos>|||26,27,8
+<eos>|||0,1,8
+在 <this_year> 年 上半年 车市 整体 不好 的 情况 下 ， 公司 仍 保持 了 较为 稳定 的 营收 增长 ， 同比 增长 <S_FA_EXPENSETOSALES> 。 <eos>|||25,26,8
+<eos>|||0,1,8
+<this_year> 年 公司 实现 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 接近 预告 上限 。 <eos>|||25,26,8
+<eos>|||0,1,8
+一季报 实现 营收 <OPER_REV> 亿 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 位于 此前 预告 中 值 。 <eos>|||25,26,8
+<eos>|||0,1,8
+<this_year> Q1 公司 延续 了 高 增长 态势 ， 收入 <OPER_REV> 亿元 ( + <OPER_REV_GROWTH_RATE> ) ， 净利润 <NET_PROFIT> 亿元 ( + <S_FA_YOYNETPROFIT> ) 。 <eos>|||25,26,8
+<eos>|||0,1,8
+<this_year> Q1 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比增加 <OPER_REV_GROWTH_RATE> ， 实现 归属 母公司 股东 的 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||25,26,8
+<eos>|||0,1,8
+<this_year> 年 一季度 公司 营收 和 净利润 同比 分为 增长 <OPER_REV_GROWTH_RATE> 和 <S_FA_YOYNETPROFIT> ， 不及 <last_year> 年 但 仍 维持 了 较 好 增长 。 <eos>|||25,26,8
+<eos>|||0,1,8
+<last_year> 年 公司 主营业务 进一步 聚焦 ， 分销 业务 已 完成 全部 剥离 ， 完成 pageone85% 股权 转让 ； 数字图书 业务 列入 主营 核心 业务 ， 发展 态势 总体 平稳 ， 战略 围绕 经典 IP ， 深化 衍生 业务 。 <eos>|||40,41,8
+<eos>|||0,1,8
+<this_year> 年 Q1 ： 公司 的 毛利率 <S_FA_GROSSPROFITMARGIN> ， 由于 规模 下滑 导致 固定成本 分摊 加大 ， 毛利率 有 较 大幅度 的 下滑 ， 预计 随着 后续 公司 收入 端 逐步 改善 ， 公司 的 毛利率 将 环比 改善 。 <eos>|||40,41,8
+<eos>|||0,1,8
+分 业务 看 ， 白酒 方面 ， <this_year> H1 白酒 同增 <S_FA_EXPENSETOSALES> ， 预计 Q2 增速 有所 放缓 ， 主要 系 ： ① 去年 基数 较 高 ； ② <this_year> 年 春节 前置 导致 收入 多 确认 在 Q1 。 <eos>|||40,41,8
+<eos>|||0,1,8
+<this_year> 年 一季度 归母 净利润 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||9,10,8
+<eos>|||0,1,8
+<this_year> 年 一季度 销售 期间 费用率 降至 <S_FA_EXPENSETOSALES> 。 <eos>|||9,10,8
+<eos>|||0,1,8
+投资 要点 ： 一季度 业绩 延续 高速 增长 ： <this_year> 年 一季度 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||33,34,8
+<eos>|||0,1,8
+公司 发布 <this_year> 年 一季报 ， <this_year> 年 一季度 公司 实现 营业 收入 <OPER_REV> 亿元 ， 较 上年 同期 下降 <S_FA_NETPROFITMARGIN> ， 归母 净利润 <NET_PROFIT> 万元 ， 较 上年 同期 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||33,34,8
+<eos>|||0,1,8
+业绩 简述 ： 公司 公布 <this_year> 年 一季报 ， <this_year> 年 一季度 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归属 上市公司 股东 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||33,34,8
+<eos>|||0,1,8
+事件 ： 公司 发布 <this_year> 年 第一季度 报告 ， 公司 实现 营业 收入 为 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归属于 上市公司 的 净利润 为 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||34,35,8
+<eos>|||0,1,8
+事件 公司 发布 <this_year> 年 年报 ， 报告 期内 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归属于 上市公司 股东 的 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||34,35,8
+<eos>|||0,1,8
+公司 <this_year> 年 一季度 营收 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ； 归母 净利 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> ， C 端 家装 亏损 规模 有所 扩大 使得 利润 增速 低于 收入 。 <eos>|||34,35,8
+<eos>|||0,1,8
+<this_year> H1 公司 的 归 母净 利率 为 <S_FA_ADMINEXPENSETOGR> ， 比 去年同期 略有 降低 。 <eos>|||15,16,8
+<eos>|||0,1,8
+公司 全年 投资收益 <NET_PROFIT> 亿元 ， 主要 系 处置 丰巢 科技 <S_FA_NETPROFITMARGIN> 股权 收益 。 <eos>|||15,16,8
+<eos>|||0,1,8
+扣除 并表及 变更 影响 后 ， <this_year> 年 H1 归母 净利 同比 增长 <S_FA_GROSSPROFITMARGIN> 。 <eos>|||15,16,8
+<eos>|||0,1,8
+同时 公司 同店 持续增长 ， 预期 <this_year> 年 全年收入 实现 <OPER_REV_GROWTH_RATE> 左右 增长 。 <eos>|||14,15,8
+<eos>|||0,1,8
+智能 轨道交通 业务 在 <last_year> 年 有所 下滑 ， 营收 同比 下降 <OPER_REV_GROWTH_RATE> 。 <eos>|||14,15,8
+<eos>|||0,1,8
+<this_year> 年 上半年 公司 综合 毛利率 达到 <S_FA_GROSSPROFITMARGIN> ， 同比 + <S_FA_FINAEXPENSETOGR> pct 。 <eos>|||14,15,8
+<eos>|||0,1,8
+<this_year> 年 公司 归母 净利润 <S_FA_YOYNETPROFIT> ， 业绩 快速增长 ， 符合 市场 预期 。 <eos>|||14,15,8
+<eos>|||0,1,8
+<last_year> 年 数据 ， 公司 Q1 归母 净利润 占 全年 比重 为 <S_FA_EXPENSETOSALES> 。 <eos>|||14,15,8
+<eos>|||0,1,8
+核心 观点 ： <this_year> 年收入 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 增长 <S_FA_YOYNETPROFIT> 。 公司 披露 <this_year> 年报 ， <this_year> 年 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 提升 <S_FA_YOYNETPROFIT> 。 <eos>|||41,42,8
+<eos>|||0,1,8
+公司 点评 运营 数据 平稳 增长 ， 项目 建设 稳步 推进 公司 营业 收入 同比 增长 <S_FA_YOYNETPROFIT> ， 主要 受益 于海滨 公司 、 玉苍 公司 、 武义 公司 、 界首 公司 、 万年 公司 <this_year> 年 正式 运营 确认 收入 。 <eos>|||41,42,8
+<eos>|||0,1,8
+收入 增速 超 预期 ， 市场 开拓 和 新 产品 研发 影响 利润 增速 ： 受益 于 造价 业务 转型 成果 持续 显现 和 施工 业务 整合 效果 显现 ， 全年收入 增长 <OPER_REV_GROWTH_RATE> 至 <OPER_REV> 亿元 ， 增速 超 预期 。 <eos>|||41,42,8
+<eos>|||0,1,8
+<this_year> 年 上半年 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> 。 <eos>|||24,25,8
+<eos>|||0,1,8
+<this_year> 年 一季度 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||24,25,8
+<eos>|||0,1,8
+<this_year> 年 一季度 公司 继续 巩固 提升 行业龙头 位势 ， 扩大 核心 业务 规模 ， 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> 。 <eos>|||24,25,8
+<eos>|||0,1,8
+公告 <this_year> 一季报 ， 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 符合 预期 。 <eos>|||24,25,8
+<eos>|||0,1,8
+核心 观点 ： 公司公告 <this_year> 年 一季报 ， 营收 <OPER_REV> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||24,25,8
+<eos>|||0,1,8
+公司 <this_year> 年收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 扣非 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 业绩 符合 预期 。 <eos>|||24,25,8
+<eos>|||0,1,8
+<this_year> 年 一季度 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归属于 上市公司 股东 的 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||24,25,8
+<eos>|||0,1,8
+同时 ， 公司 发布 <this_year> 年 一季报 ， 报告 期内 ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 较 上年 同期 大幅 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||24,25,8
+<eos>|||0,1,8
+聚焦 有 供应链 优势 的 核心 大 单品 ， 紧抓 消费者 需求 ， 加快 产品 更新换代 ， <last_year> 年内 淘汰 SKU 近 <S_FA_YOYNETPROFIT> 。 <eos>|||24,25,8
+<eos>|||0,1,8
+核心 观点 公司 <this_year> 年 实现 归母 净利润 <NET_PROFIT> 亿元 / + <S_FA_YOYNETPROFIT> ， 符合 预期 。 <eos>|||17,18,8
+<eos>|||0,1,8
+据 <this_year> 年 第一季度 报告 ， 公司 一季度 实现 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同增 <S_FA_YOYNETPROFIT> 。 <eos>|||17,18,8
+<eos>|||0,1,8
+公司 资产 负债表 极为 良好 ， <last_year> 年 资产负债率 <S_FA_GROSSPROFITMARGIN> ， 近三年 处于 相对 稳定 水平 。 <eos>|||17,18,8
+<eos>|||0,1,8
+<this_year> 年 第一季度 ， 公司 营收 同比 增长 <OPER_REV_GROWTH_RATE> ， 为 近 六年 来 最高 增速 。 <eos>|||17,18,8
+<eos>|||0,1,8
+公司 <this_year> 年 一季度 营收 <OPER_REV> 亿元 ， yoy25.0% ； 归母 净利润 <NET_PROFIT> 亿元 ， yoy15.1% 。 <eos>|||17,18,8
+<eos>|||0,1,8
+公司 发布 <this_year> 年 一季报 ， <this_year> 年 一季度 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <this_year> 年 一季度 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||54,55,8
+<eos>|||0,1,8
+① 公司 <this_year> Q1 实现 实现 收入 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 万元 ， 同比 + <S_FA_YOYNETPROFIT> ， 业绩 大幅 增长 ， 印证 我们 在 公司 年报 点评 报告 中 公司 “ <this_year> 年 上半年 业绩 将 持续 爆发 ” 的 判断 。 <eos>|||48,49,8
+<eos>|||0,1,8
+公司 年报 显示 ， <this_year> 年 公司 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 公司 <this_year> 年 实现 营收 <OPER_REV> 亿元 ( 同增 <OPER_REV_GROWTH_RATE> ) ， 实现 归母 净利 <NET_PROFIT> 亿元 ( 同增 <S_FA_YOYNETPROFIT> ) 。 <eos>|||48,49,8
+<eos>|||0,1,8
+事件 公司 发布 <this_year> 年 半年报 ， <this_year> H1 实现 营业 总收入 <OPER_REV> 亿元 / 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同增 <OPER_REV_GROWTH_RATE> / <S_FA_YOYNETPROFIT> 。 收入 增长 符合 预期 ， Q2 受制 新品 导入 费用 加大 ， 短期 利润 增速 承压 公司 <this_year> H1 实现 营收 <OPER_REV> 亿元 / + <OPER_REV_GROWTH_RATE> ， 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 / + <S_FA_YOYNETPROFIT> ， 收入 增速 符合 预期 。 <eos>|||65,66,8
+<eos>|||0,1,8
+<last_year> 年 公司 环卫 装备 市场占有率 <S_FA_ADMINEXPENSETOGR> ， 排名 行业 第三 。 <eos>|||12,13,8
+<eos>|||0,1,8
+<this_year> Q1 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> 。 <eos>|||12,13,8
+<eos>|||0,1,8
+扣非 后 的 净利润 为 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 下降 <S_FA_EXPENSETOSALES> 。 <eos>|||12,13,8
+<eos>|||0,1,8
+公司 发布 <this_year> 年 一季报 ， 实现 营业 收入 <OPER_REV> 亿元 ( 同比 + <OPER_REV_GROWTH_RATE> ) ， 实现 归母 净利润 <NET_PROFIT> 亿元 ( 同比 + <S_FA_YOYNETPROFIT> ) 。 <eos>|||28,29,8
+<eos>|||0,1,8
+毛利率 方面 ， <last_year> 年 三季度 公司 毛利率 上升 至 <S_FA_GROSSPROFITMARGIN> ， 在 行业 中 仅次于 茅台 ， 充分 印证 公司 产品 结构 升级 的 增长 逻辑 。 <eos>|||28,29,8
+<eos>|||0,1,8
+公司 发布 <this_year> 年 一季报 ， 报告 期内 实现 主营 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归 母公司 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||28,29,8
+<eos>|||0,1,8
+<this_year> 年 年报 概况 ： <name> <this_year> 年 实现 营业 收入 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> 。 <eos>|||28,29,8
+<eos>|||0,1,8
+公司 发布 <this_year> 年 一季报 ， 期内 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||28,29,8
+<eos>|||0,1,8
+事项 ： 公司 发布 半年报 ： <this_year> 年 上半年 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||28,29,8
+<eos>|||0,1,8
+但 若 从 年初 公司 <this_year> 年 日常 关联 交易 预计 情况 来看 ， 公司 若能 完成 年初 预计 出售 金额 ， 外销 业务 全年 或 将 增长 <S_FA_GROSSPROFITMARGIN> 。 <eos>|||30,31,8
+<eos>|||0,1,8
+<name> 发布 <this_year> 年报 ： 报告 期内 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归属于 上市公司 股东 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||30,31,8
+<eos>|||0,1,8
+<this_year> Q1 公司 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 扣非 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 增长 <S_FA_EXPENSETOSALES> 。 <eos>|||30,31,8
+<eos>|||0,1,8
+事件 公司 发布 <this_year> 年 年度报告 ， 全年 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归属于 上市公司 股东 的 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||30,31,8
+<eos>|||0,1,8
+投资 要点 ： 事件 ： 公司 公布 <this_year> 年报 ， 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||30,31,8
+<eos>|||0,1,8
+<this_year> Q1 公司 销售 净 利率 为 <S_FA_NETPROFITMARGIN> ， 同比 基本 持平 。 <eos>|||13,14,8
+<eos>|||0,1,8
+<last_year> 年 公司 整体 毛利率 为 <S_FA_YOYNETPROFIT> ， 同比 基本 维持 稳定 。 <eos>|||13,14,8
+<eos>|||0,1,8
+公司 <this_year> 年 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||13,14,8
+<eos>|||0,1,8
+投资 要点 <this_year> H1 业绩 同比 增长 <S_FA_YOYNETPROFIT> ， 略低于 市场 预期 。 <eos>|||13,14,8
+<eos>|||0,1,8
+公司 前瞻 布局 三 四五 线 城市 的 市场 空白点 ， <this_year> 年 上半年 三至 五线 城市 票房 占 比达 <S_FA_YOYNETPROFIT> 。 <eos>|||22,23,8
+<eos>|||0,1,8
+<this_year> 年 上半年 实现 收入 <OPER_REV> 亿 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 万 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||22,23,8
+<eos>|||0,1,8
+<this_year> Q1 受 并表 影响 收入 同增 <OPER_REV_GROWTH_RATE> 至 <OPER_REV> 亿 ， 归母 净利润 <NET_PROFIT> 亿 ( yoy + <S_FA_YOYNETPROFIT> ) 。 <eos>|||22,23,8
+<eos>|||0,1,8
+公司 <this_year> 年 一季度 实现 营收 <OPER_REV> 亿 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 净利润 为 <NET_PROFIT> 万 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||22,23,8
+<eos>|||0,1,8
+<this_year> 年 一季度 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||22,23,8
+<eos>|||0,1,8
+<this_year> 年 一季度 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||22,23,8
+<eos>|||0,1,8
+公司 <this_year> Q1 分别 实现 营收 、 归母 净利润 <OPER_REV> 亿元 和 <NET_PROFIT> 亿元 ， 分别 同比 增长 <OPER_REV_GROWTH_RATE> 和 <S_FA_YOYNETPROFIT> 。 <eos>|||22,23,8
+<eos>|||0,1,8
+<this_year> Q1 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 万元 ， 同比 + <S_FA_YOYNETPROFIT> 。 <eos>|||22,23,8
+<eos>|||0,1,8
+公司 <this_year> Q1 实现 营业 收入 <OPER_REV> 亿 ， 同比 增 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿 ， 同比 增 <S_FA_YOYNETPROFIT> 。 <eos>|||22,23,8
+<eos>|||0,1,8
+同时 公司 发布 <this_year> 年 一季报 ， 实现 营业 收入 <OPER_REV> 亿元 、 同比 增 <S_FA_GROSSPROFITMARGIN> ， 归母 净利润 <NET_PROFIT> 万元 、 同比 增 <S_FA_YOYNETPROFIT> ， 扣非 归母 净利润 <S_FA_DEDUCTEDPROFIT> 万元 、 同比 增 <S_FA_YOYNETPROFIT> 。 <eos>|||36,37,8
+<eos>|||0,1,8
+相比 <last_year> 年 公司 营收 同比 增速 <S_FA_EXPENSETOSALES> ， <this_year> 年 营收 增速 小幅 放缓 ； 归母 净利润 有所 下降 ， 但 相比 于 <last_year> 年 的 <S_FA_GROSSPROFITMARGIN> 的 负 增长率 ， 已有 大幅 改善 。 <eos>|||36,37,8
+<eos>|||0,1,8
+<this_year> 年 一季度 实现 营收 <OPER_REV> 亿元 ， 同减 <S_FA_EXPENSETOSALES> ； 归母 净利润 - <NET_PROFIT> 亿元 。 <this_year> 年 一季度 实现 营收 <OPER_REV> 亿元 ， 同减 <S_FA_EXPENSETOSALES> ， 主因 疫情 影响 公司 拟建 、 在建 项目 进度 。 <eos>|||38,39,8
+<eos>|||0,1,8
+<this_year> Q1 实现 营业 收入 <OPER_REV> 亿元 ， ( YoY + <OPER_REV_GROWTH_RATE> ) ， 实现 归母 净利润 <NET_PROFIT> 亿元 ( YoY + <S_FA_YOYNETPROFIT> ) ， 实现 扣非 后 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ( YoY + <S_FA_NETPROFITMARGIN> ) 。 <eos>|||38,39,8
+<eos>|||0,1,8
+净利润 ： 费用 惯性 拖累 上半年 增速 但 压力 边际 减轻 ， Q3 展望 乐观 <this_year> 年 上半年 公司 净利润 同比 增长 <S_FA_YOYNETPROFIT> ， 明显 慢于 收入 增速 原因 在于 前期 人员 快速 扩张 带来 费用 惯性 。 <eos>|||38,39,8
+<eos>|||0,1,8
+<this_year> Q1 主营 收入 <OPER_REV> 亿元 ， 同比 下降 <S_FA_EXPENSETOSALES> ， 归母 净利润 亏损 <NET_PROFIT> 亿元 ， Q1 业绩 大幅 下滑 源于 新冠 肺炎 疫情 下 各地 关闭 活禽 市场 ， 运输 受阻 和 消费 低迷 ， 黄羽 鸡 价格 同比 下降 。 <eos>|||43,44,8
+<eos>|||0,1,8
+<this_year> 年 一季度 ， 公司 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <this_year> 年 一季度 ， 公司 毛利率 水平 进一步 提升 至 <S_FA_GROSSPROFITMARGIN> ， 毛利率 水平 创 上市 以来 的 新高 。 <eos>|||43,44,8
+<eos>|||0,1,8
+事项 ： <this_year> 年 营收 增长 <OPER_REV_GROWTH_RATE> ， 利润 增长 <S_FA_YOYNETPROFIT> ， 符合 市场 预期 。 <eos>|||16,17,8
+<eos>|||0,1,8
+休食 白马 盈利 拉升 明显 公司 <this_year> 实现 收入 <OPER_REV> 亿 ， 同比 增长 <OPER_REV_GROWTH_RATE> 。 <eos>|||16,17,8
+<eos>|||0,1,8
+盈利 能力 企稳 <name> <this_year> 年 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||16,17,8
+<eos>|||0,1,8
+投资 要点 ： 第三季度 业绩 符合 预期 ， 预计 <this_year> 年 业绩 增速 超 <S_FA_EXPENSETOSALES> 。 <eos>|||16,17,8
+<eos>|||0,1,8
+一 、 事件 概述 公司 发布 <this_year> 年 年度报告 ， 实现 营业 总收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 市场 活跃 带动 投资者 对 金融 资讯 服务 需求 的 增长 ， 公司 <this_year> 年收入 端 同比 增长 <OPER_REV_GROWTH_RATE> 。 <eos>|||50,51,8
+<eos>|||0,1,8
+<this_year> 年 H1 公司 子公司 石基 美国 继续 收购 Touch peak60% 股权 使 之 成为 公司 全资 子公司 ， 同时 石基 美国 收购 ICE Portal100% 股权 ， 石基 新加坡 收购 QUICK CHECK100% 股权 ， 以上 收购 不仅 有利于 实现 公司 的 平台 战略 ， 还 进一步 优化 公司 新一代 酒店 信息管理系统 为 公司 国际化 转型 赋能 。 <eos>|||57,58,8
+<eos>|||0,1,8
+本 报告 导读 ： 公司 <this_year> 年 业绩 高 增长 <S_FA_YOYNETPROFIT> ； 考虑 海外 疫情 扩散 导致 经济 / 就业 压力 大增 ， 基建 重要性 提升 ， 财政 货币政策 仍 可 期待 ， 公司 作为 铁公基 龙头 订单 业绩 望 延续 高 增长 。 <eos>|||44,45,8
+<eos>|||0,1,8
+<this_year> 年 业绩 稳步增长 ， 净利润 同比 + <S_FA_YOYNETPROFIT> 公司 <this_year> 年 业绩 稳步增长 ： 实现 营收 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> ， 扣非 后 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 - <S_FA_YOYNETPROFIT> 。 <eos>|||44,45,8
+<eos>|||0,1,8
+<this_year> 年 年度报告 ： <this_year> 年 公司 实现 营收 <OPER_REV> 亿元 ( 同比 + <OPER_REV_GROWTH_RATE> ) ， 归母 净利润 <NET_PROFIT> 亿元 ( 同比 + <S_FA_YOYNETPROFIT> ) 。 <eos>|||27,28,8
+<eos>|||0,1,8
+报告 期内 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归属于 上市公司 股东 的 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||27,28,8
+<eos>|||0,1,8
+公司 发布 <this_year> 年 一季报 ， 实现 营收 <OPER_REV> 亿元 ( + <OPER_REV_GROWTH_RATE> ) ， 归母 净利润 <NET_PROFIT> 亿元 ( + <S_FA_YOYNETPROFIT> ) ， 增速 放缓 。 <eos>|||27,28,8
+<eos>|||0,1,8
+<this_year> 年 上半年 实现 营业 总收入 <OPER_REV> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 业绩 符合 预期 。 <eos>|||27,28,8
+<eos>|||0,1,8
+<this_year> 年 上半年 ， 公司 实现 营业 收入 <OPER_REV> 亿元 人民币 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 万元 人民币 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||27,28,8
+<eos>|||0,1,8
+公司 披露 <this_year> 年 年报 ， 全年 实现 营业 总收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||27,28,8
+<eos>|||0,1,8
+圆满完成 <this_year> 年 任务 目标 ， 业绩 符合 预期 <name> 发布 <this_year> 年 年报 ， <this_year> 年 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <S_FA_EXPENSETOSALES> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||37,38,8
+<eos>|||0,1,8
+<last_year> 年 公司 销售额 增速 ( + <S_FA_EXPENSETOSALES> ) ， 显著 高于 行业 增速 ( + <S_FA_ADMINEXPENSETOGR> ) ， 得益于 储备 质量 与 周转 提速 ， 伴随 疫情 稳定 ， 预计 今年 销售 将 有所 保障 。 <eos>|||37,38,8
+<eos>|||0,1,8
+核心 结论 事件 ： 公司 发布 <this_year> 年 一季报 ， <this_year> Q1 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 业绩 符合 预期 。 <eos>|||37,38,8
+<eos>|||0,1,8
+<this_year> 年 一季度 ， 实现 营业 收入 <OPER_REV> 亿元 ， 同比增加 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 提升 <S_FA_YOYNETPROFIT> 。 另外 ， 公司 <this_year> 年 一季度 实现 营业 收入 <OPER_REV> 亿元 ， 同比增加 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 提升 <S_FA_YOYNETPROFIT> ， 我们 认为 公司 全年 将 保持稳定 增长 。 <eos>|||56,57,8
+<eos>|||0,1,8
+收入 创 历史 新高 ， 业绩 大幅 增长 公司 发布 <this_year> 年 中报 ， 实现 营收 <OPER_REV> 亿元 ， 同比增加 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比增加 <S_FA_YOYNETPROFIT> ， 业绩 大幅 超 预期 主要 系 ： a ) 油田 服务 市场 景气 度 提升 ， 公司 大部分 产品线 订单 增加 ， 毛利率 提升 ； b ) 公司 精细化 管理 有所 成效 ， 销售 / 管理 费用率 进一步 降低 ， 财务费用 因 美元 升值 而 大幅 减少 。 <eos>|||78,79,8
+<eos>|||0,1,8
+事件 ： <this_year> 年 公司 实现 营业 收入 <OPER_REV> 亿 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 为 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <this_year> 年 公司 收入 实现 <OPER_REV_GROWTH_RATE> 的 高速 增长 ， 主要 系 血液 净化 业务 高速成长 。 <eos>|||42,43,8
+<eos>|||0,1,8
+公司公告 <this_year> Q1 主要 经营 数据 ， 报告 期内 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 扣非 归母 净利润 为 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||39,40,8
+<eos>|||0,1,8
+事件 ： 公司 发布 <this_year> 年 年报 ， 全年 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归属于 上市公司 股东 的 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ； 与 前期 快报 基本一致 ， 符合 预期 。 <eos>|||39,40,8
+<eos>|||0,1,8
+得益于 数据 流量 持续增长 、 协议 和 通信 制式 升级 、 国家 对 信息安全 高度重视 、 政府 采购 力度 加大 等 宏观 因素 以及 公司 在 研发 、 产品 、 市场 等 方面 取得 的 良好 成效 ， 上半年 公司业绩 高速 增长 ， 实现 营业 总收入 <OPER_REV> 亿元 ， 同比 增长 <S_FA_EXPENSETOSALES> ； 实现 归母 净利 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> ； 上半年 综合 毛利率 <S_FA_GROSSPROFITMARGIN> ， 较 去年同期 <S_FA_GROSSPROFITMARGIN> 基本 持平 。 <eos>|||74,75,8
+<eos>|||0,1,8
+公司 上半年 毛利率 同比 基本 持平 ， 期间 费用率 降幅 明显 ： 公司 <this_year> 年 上半年 毛利率 为 <S_FA_GROSSPROFITMARGIN> ， 相比 <last_year> 年 同期 <S_FA_GROSSPROFITMARGIN> 的 毛利率 水平 基本 持平 。 <eos>|||31,32,8
+<eos>|||0,1,8
+<this_year> 年 Q1 实现 营业 收入 <OPER_REV> 亿元 ( + <OPER_REV_GROWTH_RATE> ) ， 归母 净利润 <NET_PROFIT> 亿元 ( + <S_FA_YOYNETPROFIT> ) ， 位于 Q1 业绩 预告 中位数 ， 符合 预期 。 <eos>|||31,32,8
+<eos>|||0,1,8
+公司 同时 发布 <this_year> 年 一季报 ， 公司 <this_year> 年 一季度 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||31,32,8
+<eos>|||0,1,8
+<this_year> 年 公司 实现 营业 收入 <OPER_REV> 亿元 ， 较 上年 同期 增长 <OPER_REV_GROWTH_RATE> ； 实现 归属于 上市公司 股东 的 净利润 为 <NET_PROFIT> 亿元 ， 较 上年 同期 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||31,32,8
+<eos>|||0,1,8
+公司 毛利率 和 期间 费用率 同比 基本 持平 ， 研发 投入 保持 高 占 比 ： <this_year> 年 上半年 ， 公司 毛利率 和 期间 费用率 分别 为 <S_FA_GROSSPROFITMARGIN> 、 <S_FA_ADMINEXPENSETOGR> ， 相比 去年同期 <S_FA_GROSSPROFITMARGIN> 和 <S_FA_ADMINEXPENSETOGR> 的 毛利率 和 期间 费用率 ， 公司 当期 毛利率 和 期间 费用率 水平 同比 基本 持平 ， 体现 了 公司 稳定 的 盈利 能力 。 <eos>|||61,62,8
+<eos>|||0,1,8
+精细化 管理 效果 不断 体现 ， 营运 能力 不断 提升 <this_year> 年 上半年 公司 销售 毛利率 与 销售 净 利率 分别 为 <S_FA_GROSSPROFITMARGIN> 、 <S_FA_NETPROFITMARGIN> ， 同比 略有 下降 ， 主要 系 报告 期内 公司 新 开门 的 摊销 、 贷款 增加 以及 并购 整合 过程 中 导致 公司 相应 的 费用 有所 提升 。 <eos>|||55,56,8
+<eos>|||0,1,8
+高端 产品 逆势 增长 ， 国内 市场 双 品牌 开发 效果显著 公司 <this_year> 年 实现 珠光 材料 收入 <OPER_REV> 亿元 ， YoY + <OPER_REV_GROWTH_RATE> ， 我们 预计 主要 受中美 贸易战 和 汽车销量 下降 影响 ， 传统 珠光 材料 销售 承压 ， 但 化妆品 级 、 玻璃 基材 类 高端 品 逆势 增长 ， 产品 结构 进一步 优化 。 <eos>|||58,59,8
+<eos>|||0,1,8
+因 疫情 需要 调整 产品 结构 ， Q1 扩大 医用 及 消毒 酒精 产能 <this_year> 年 Q1 ， 公司 实现 归母 净利 <NET_PROFIT> 亿元 ， 同比 上升 <S_FA_YOYNETPROFIT> ， 一方面 公司 通过 原料 多样化 降低生产 成本 ， 另一方面 因 疫情 需要 ， 公司 适时 调整 产品 结构 和 产能 ， 扩大 医用 及 消毒 酒精 产能 ， 公司 作为 玉米 深加工 行业龙头 盈利 能力 较 好 。 <eos>|||67,68,8
+<eos>|||0,1,8
+<this_year> Q1 由于 受到 疫情 影响 ， 我们 预计 短期 对于 公司业绩 有所 影响 ， 预计 下滑 <S_FA_NETPROFITMARGIN> 左右 ， 但 公司 积极 布局 线上 渠道 ， 通过 电商 平台 及 微信 小 程序 等 积极 应对 ； 同时 线下 门店 经营 质量 持续 改善 ， 店效 有望 持续 提升 。 <eos>|||51,52,8
+<eos>|||0,1,8
+公司 披露 <this_year> 年 年报 ： 全年 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 由于 整体 投资收益 的 增长 及 税收政策 调整 ， 公司 净利润 大幅 增长 <S_FA_YOYNETPROFIT> 至 <NET_PROFIT> 亿元 。 <eos>|||46,47,8
+<eos>|||0,1,8
+公司 披露 <this_year> 年度报告 ， 预计 全年 实现 营收 <OPER_REV> 亿 ， 同比 增长 <OPER_REV_GROWTH_RATE> 。 同期 实现 归母 净利润 <NET_PROFIT> 亿 ， 同比 下降 <S_FA_EXPENSETOSALES> ， 主要 因 <this_year> 年 研发 投入 加大 、 人员 工资 增加 、 汇兑 及 股权 受益 减少 所致 。 <eos>|||46,47,8
+<eos>|||0,1,8
+业绩 总结 ： <this_year> 年 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 实现 归母 扣 非 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 业绩 实现 高 增长 ， 净 利率 同比 提升 5pp 。 <eos>|||49,50,8
+<eos>|||0,1,8
+<last_year> 年 ROA1.00% ， 同比 上升 5bps 。 <eos>|||8,9,8
+<eos>|||0,1,8
+<this_year> 年 净利润 增长 近 <S_FA_YOYNETPROFIT> 。 <eos>|||7,8,8
+<eos>|||0,1,8
+事项 ： 公司 发布 <this_year> 年 第一季度 报告 ， 报告 期内 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 报告 期内 ， 公司 生产 经营 有序 推进 ， 未受 疫情 影响 ， 持续保持 满产 状态 ， 叠加 产能 陆续 释放 ， 公司 营收 同比 增长 <OPER_REV_GROWTH_RATE> 至 <OPER_REV> 亿元 。 <eos>|||62,63,8
+<eos>|||0,1,8
+公司 发布 <this_year> 年 一季报 ， <this_year> 年 一季度 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 公司 <this_year> 年 一季度 实现 营业 收入 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 扭转 去年 一季度 亏损 的 态势 。 <eos>|||64,65,8
+<eos>|||0,1,8
+公司 发布 <this_year> 年 半年报 ， 上半年 营收 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 同比 增长 <S_FA_YOYNETPROFIT> ， 业绩 符合 预期 。 <this_year> 年 上半年 公司 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 增长 主要 来自 交付 面积 和 单价 提升 。 公司 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 业绩 符合 预期 。 <eos>|||59,60,8
+<eos>|||0,1,8
+竣工 结算 表现 优异 ， 营收 保持高速 增长 <last_year> 年 Q1 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归属于 上市公司 股东 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 虽然 受到 疫情 影响 ， 公司 竣工 结算 表现 优异 ， 实现 营收 和 归母 净利润 同比 大幅 增长 。 <eos>|||53,54,8
+<eos>|||0,1,8
+<this_year> Q1 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 利润 增长 超 预期 ， 主因 公司 通过 聚焦 战略 ， 更新 调整 产品 结构 和 产线 生产布局 ， 叠加 生产工艺 持续 改进 ， 使得 成本费用 管控 进一步 优化 。 <eos>|||52,53,8
+<eos>|||0,1,8
+公司 <this_year> 年 一季度 实现 营收 <OPER_REV> 亿 ， 归母 净利润 <NET_PROFIT> 亿 ， 分别 同比 增长 <OPER_REV_GROWTH_RATE> 、 <S_FA_YOYNETPROFIT> ， 综合 毛利率 进一步 提升 至 <S_FA_GROSSPROFITMARGIN> 。 公司 高效 PERC 电池 片 量产 效率 已 达到 <GROSSPROFITMARGIN_YOY> ， 公司 于 <last_year> 年 启动 异质 结 电池 产线 建设 ， 积极探索 下一代 高效 电池 技术 路线 ， 一期 200MW 预计 将 于 <this_year> 年 年 中 投产 。 <eos>|||68,69,8
+<eos>|||0,1,8
+<this_year> 年 一季报 的 数据 显示 ， 收入 略降 ， 净利润 同比 增长 <S_FA_YOYNETPROFIT> ， 显示 在 <last_year> 年 一季度 高 基数 基础 上 ， 公司 整体 产品 收入 表现 较 好 ， 净利润 增速 高于 收入 增速 ， 显示 公司 OTC 渠道 收入 占 比 持续 提升 ， 另外 增量 产品 渡过 高 投入 期 ， 利润率 提升 也 逐步 呈现 明显 贡献 。 产品 定价 能力 决定 毛利率 长期 的 稳定性 ， 规模性 、 渠道 议价 能力 体现 费用率 逐步 下降 ， 现金流 显示 业绩 增长 质量 较 高 <last_year> 年 、 <this_year> Q1 毛利率 分别 为 <S_FA_GROSSPROFITMARGIN> 、 <S_FA_GROSSPROFITMARGIN> ， 基本 显示 稳定 ， 我们 认为 这 主要 公司 核心 产品 多为 独家 产品 ， 受 当下 以 化学 仿制 药为 控费 重点 的 政策 环境影响 较 小 ， 因此 我们 估计 公司 较 高 定价 能力 较长时间 会 存在 。 <eos>|||144,145,8
+<eos>|||0,1,8
+<this_year> 年 是 公司 “ 十三 五 ” 战略 冲刺 期 的 决胜 年 ， 全速 冲刺 “ 重回 前 三 ” 目标 ， <this_year> Q1 实现 营收 <OPER_REV> 亿元 ， 同增 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同增 <S_FA_YOYNETPROFIT> ， 大超 市场 预期 。 预计 在 <this_year> 年 基建投资 等 拉动 下 ， 公司 将 受益 经济 面企稳 与 竞争 品牌 提价 ， 基于 决胜 <this_year> 指引 ， 预计 全年 营收 可 保持 <S_FA_EXPENSETOSALES> 以上 增速 ， 利润 增速 更高 。 <eos>|||83,84,8
+<eos>|||0,1,8
+产能 扩建 叠加 下游 景气 回升 有望 促进 业绩 加速 增长 ， 维持 “ 推荐 ” 评级 <this_year> Q1 公司 收入 与 净利润 分别 增长 <OPER_REV_GROWTH_RATE> 和 <S_FA_YOYNETPROFIT> ， 环比 呈现 加速 增长 趋势 ， 产能 利用率 饱和 。 <this_year> Q1 公司 营业 收入 <OPER_REV> 亿元 ( YoY + <OPER_REV_GROWTH_RATE> ) ， 归母 净利润 <NET_PROFIT> 万元 ( YoY + <S_FA_YOYNETPROFIT> ) ， 产能 利用率 饱和 ， 业绩 增速 环比 呈现 加快 趋势 ， 预计 公司 的 并购 协同效应 将 持续 驱动 业绩 增长 ， 随着 机械 密封 产品 涨价 ， 利润率 有望 回升 。 <eos>|||94,95,8
+<eos>|||0,1,8
+事件 ： 公司 发布 <this_year> 年 一季报 ， 报告 期内 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归属于 上市 股东 的 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 单 季度 营收 利润 均 创新 高 ， 烟标 龙头 优势 逐步 显现 <this_year> 年 Q1 公司 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归属于 上市公司 股东 的 净利润 为 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 两者 均 是 近三年 来单 季度 营业 收入 和 归母 净利 的 历史 最高 水平 。 <eos>|||89,90,8
+<eos>|||0,1,8
+同时 ， <this_year> 年 一季度 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <this_year> 年 一季度 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 为 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 主要 源于 公司 各 主营业务 板块 经营 持续 向 好 ， 协同效应 显现 ， 尤其 是 大 数据 产品 及 解决方案 业务收入 实现 快速增长 ， 同时 公司 主动 降低 毛利率 偏低 、 回款 周期长 的 业务 比重 。 <eos>|||81,82,8
+<eos>|||0,1,8
+营收 增速 减缓 ， 毛利率 提升 ， 新 签订 单 持续 高 增长 <this_year> 年 ， 公司 共 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 增速 较 <last_year> 年度 有所 放缓 ， 主要 系 公司 在 设计 总 承包 项目 承接 上 有所 取舍 。 综合 起来 ， 报告 期内 公司 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 略超 预期 。 <eos>|||66,67,8
+<eos>|||0,1,8
+公司 <this_year> 年 Q1 实现 营收 <OPER_REV> 亿 ， 同增 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 万 ， 大幅 增长 <S_FA_YOYNETPROFIT> 。 此外 ， <this_year> 年 一季度 公司 归母 净利润 大幅 增长 <S_FA_YOYNETPROFIT> ， 主因 前期 丽江 等 地 高 毛利率 新签 项目 进入 施工 阶段 造成 。 <eos>|||47,48,8
+<eos>|||0,1,8
+公司 <this_year> 年 Q1 实现 营收 <OPER_REV> 亿 ， 同增 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿 ， 增长 <S_FA_YOYNETPROFIT> 。 公司 <this_year> 年 Q1 实现 营收 <OPER_REV> 亿 ， 同增 <OPER_REV_GROWTH_RATE> 。 <this_year> 年 Q1 公司 实现 归母 净利润 <NET_PROFIT> 亿 ， 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||45,46,8
+<eos>|||0,1,8
+<this_year> 年 一季度 公司 实现 营收 <OPER_REV> 亿 ( 同比 + <OPER_REV_GROWTH_RATE> ) ， 归母 净利润 <NET_PROFIT> 亿 ( 同比 + <S_FA_YOYNETPROFIT> ) 。 <this_year> 年 得益于 海外 需求 额 的 刺激 以及 单晶 持续 替代 多晶 ， 公司 <this_year> 年 一季度 业绩 维持 高速 增长 <this_year> 年 一季度 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 盈利 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <eos>|||69,70,8
+<eos>|||0,1,8
+分 业务 情况 ： 消费 电子 类 与 工业 类产品 增长 较 快 公司 消费 电子 类 和 工业 类产品 增速 较 快 ， 主要 由于 穿戴 产品 <this_year> Q1 订单 明显 增长 以及 工业 类 <last_year> 年 新增 重要 客户 订单 持续 增加 ， 但 工业 类产品 由于 工厂 良率 爬坡 致 毛利率 下滑 ； 通讯 类 上半年 由于 智能手机 出货 低迷 致 整体 业务 略微 下滑 ， 但 由于 公司 市场份额 提升 ， 第二季度 单季 同比 增长 <S_FA_GROSSPROFITMARGIN> ； 电脑 类 和 存储 类产品 则 由于 中 美 贸易 摩擦 和 客户 订单 结构 的 改变 ， 营收 下滑 幅度 较大 。 <eos>|||104,105,8
+<eos>|||0,1,8
+同时 ， <this_year> 年 一季度 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <this_year> Q1 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 主要 系 大宗 商品 、 电缆 销售收入 增加 所致 。 <this_year> Q1 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 其 增长 好于 竞争对手 ， 预计 源于 公司 棒 - 纤 - 缆 完全 匹配 后 ， 成本 端 有所改善 ， 同时 电力 和 海洋 板块 增长 趋势 较 好 。 <eos>|||84,85,8
+<eos>|||0,1,8
+<this_year> 年 第一季度 毛利率 小幅 下降 至 <S_FA_GROSSPROFITMARGIN> ， 主要 原因 是 一季度 上线 了 《 权力 的 游戏 》 页 游 以及 《 圣斗士 星矢 》 ， 其中 代理 产品 《 圣斗士 星矢 》 需要 向 版权 方 支付 分成 费用 ； 两款 产品 上线 时间 较晚 ， 仍 处于 前期 推广 阶段 ， 需要 较 高 的 推广 费用 且 收入 较为 滞后 ， 导致 一季度 毛利率 下降 ， 预计 未来 有望 企稳 。 <eos>|||76,77,8
+<eos>|||0,1,8
+公司 发布 <this_year> 年 一季报 ， 报告 期内 公司 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 万元 ， 实现 扭亏为盈 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <this_year> 年 一季度 受新冠 病毒 影响 客户 订单 增多 ， 母公司 及 子公司 利华 制药 销售收入 增加 ， 带动 整体 收入 同比 增长 <OPER_REV_GROWTH_RATE> ， 此外 融资 借款 利息 减少 、 汇兑 收益 增加 ， 财务费用 支出 大幅 下降 ， 使得 公司业绩 大幅 改善 。 <eos>|||75,76,8
+<eos>|||0,1,8
+投资 要点 事项 ： 公司 公布 <this_year> 年 一季报 ， <this_year> 年 一季度 公司 实现 营收 <OPER_REV> 亿元 ( <OPER_REV_GROWTH_RATE> YoY ) ， 归属 上市公司 股东 净利润 <NET_PROFIT> 亿元 ( <S_FA_YOYNETPROFIT> YoY ) 。 平安 观点 ： 一季度 业绩 高增 ， 5G 驱动 公司 新一轮 增长 ： 公司 公布 <this_year> 年 一季报 ， <this_year> 年 一季度 公司 实现 营收 <OPER_REV> 亿元 ( <OPER_REV_GROWTH_RATE> YoY ) ， 归属 上市公司 股东 净利润 <NET_PROFIT> 亿元 ( <S_FA_YOYNETPROFIT> YoY ) 。 <eos>|||77,78,8
+<eos>|||0,1,8
+事项 ： 公司 发布 <this_year> 年 年报 ， 报告 期内 实现 业务收入 <OPER_REV> 亿 ， 较 上年 增长 <OPER_REV_GROWTH_RATE> ； 实现 归 母公司 净利润 <NET_PROFIT> 亿 ， 较 上年 增长 <S_FA_YOYNETPROFIT> 。 整体 营收 同增 <OPER_REV_GROWTH_RATE> 至 <OPER_REV> 亿元 ， 报告 期内 B 端 授权 业务 和 C 端 会员 订阅 构成 核心 增长 驱动力 ， 符合 此前 判断 。 <eos>|||60,61,8
+<eos>|||0,1,8
+对此 ， 我们 点评 如下 ： 投资 要点 ： 业绩 增长 <S_FA_YOYNETPROFIT> ， 符合 预期 ， 期间 费用 增加 较为 明显 上半年 公司 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 主要 原因 是 五矿 盐湖 提锂 项目 确认 部分 收入 以及 钛白粉 、 生物 发酵 、 小 孔径 陶瓷膜 应用 等 方面 的 增长 所致 。 实现 归属于 上市公司 股东 的 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 净利润 增速 低于 营收 增速 的 原因 是 公司 加大 市场推广 力度 ， 人力 成本 、 销售费用 、 股权 激励 成本 等 导致 费用 增加 较 多 。 <eos>|||99,100,8
+<eos>|||0,1,8
+受益 于 5G 通信 、 服务器 等 领域 的 需求 拉动 ， <this_year> 年 H1 公司 实现 营业 收入 <OPER_REV> 亿元 ( + <OPER_REV_GROWTH_RATE> ) ， 归母 净利润 <NET_PROFIT> 亿元 ( + <S_FA_YOYNETPROFIT> ) ， 扣非 后 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ( + <S_FA_YOYNETPROFIT> ) ， 业绩 接近 之前 预告 区间 上限 ， 略超 我们 预期 。 此外 ， 受益 产能 利用率 改善 等 因素 ， 公司 <this_year> H1 毛利率 为 <S_FA_GROSSPROFITMARGIN> ， 同比 环比 改善 明显 ， 同时 三项 费用 均 有所改善 导致 净利润 提升 幅度 较为 明显 。 <eos>|||90,91,8
+<eos>|||0,1,8
+核心 观点 公司 <this_year> 营收 + <OPER_REV_GROWTH_RATE> 、 归母 净利润 + <S_FA_YOYNETPROFIT> ， 业绩 处于 预告 中枢 下 沿 ， 基本 符合 我们 预期 。 公司 <this_year> 年 营收 + <OPER_REV_GROWTH_RATE> 、 归母 净利润 + <S_FA_YOYNETPROFIT> ， 业绩 处于 预告 中枢 下 沿 ， 基本 符合 预期 。 公司 <this_year> 年 营收 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> ， 业绩 处于 预告 中枢 下 沿 ， 基本 符合 预期 。 <eos>|||79,80,8
+<eos>|||0,1,8
+事件 ： 公司 发布 <this_year> 年 年报 ， 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 实现 扣非 后 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 若 不 考虑 并表 ， <this_year> 年 四大 核心 子公司 归母 净利润 同比 增长 <S_FA_YOYNETPROFIT> ， 其中 金赛 同比 增长 近 <S_FA_YOYNETPROFIT> 。 <eos>|||63,64,8
+<eos>|||0,1,8
+经历 <last_year> 年 波折 后 ， <this_year> 年 公司 营收 和 扣 非后 归属 母公司 股东 净利润 均 恢复 <OPER_REV_GROWTH_RATE> 左右 的 高 增速 ， 并且 成功 实现 营收破 <OPER_REV> 亿元 的 目标 ， 再次 证明 了 公司 在 中 高端 低压 市场 的 竞争力 和 成长 力 。 公司 <this_year> 年 盈利 能力 保持稳定 ， 毛利率 和 期间 费用率 分别 为 <S_FA_GROSSPROFITMARGIN> 、 <S_FA_EXPENSETOSALES> ， 同比 基本 持平 。 <eos>|||70,71,8
+<eos>|||0,1,8
+<this_year> 年 综合 毛利率 <S_FA_GROSSPROFITMARGIN> 。 <eos>|||6,7,8
+<eos>|||0,1,8
+投资 要点 事项 ： 公司 公布 <this_year> 年 财报 ， <this_year> 年 公司 实现 营收 <OPER_REV> 亿元 ( <OPER_REV_GROWTH_RATE> YoY ) ， 归属 上市公司 股东 净利润 <NET_PROFIT> 亿元 ( <S_FA_YOYNETPROFIT> YoY ) 。 平安 观点 ： 业绩 持续 高增 ， 5G 驱动 公司 新一轮 增长 ： 公司 公布 <this_year> 年 财报 ， <this_year> 年 公司 实现 营收 <OPER_REV> 亿元 ( <OPER_REV_GROWTH_RATE> YoY ) ， 归属 上市公司 股东 净利润 <NET_PROFIT> 亿元 ( <S_FA_YOYNETPROFIT> YoY ) ， 扣非 后 归属 上市公司 股东 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ( <S_FA_YOYNETPROFIT> YoY ) 。 <eos>|||88,89,8
+<eos>|||0,1,8
+公司 <this_year> 年 归母 净利 增速 落 在 预测 区间 的 下限 ； 毛利率 见 顶 回落 符合 预期 ， 主因 高 溢价 率 项目 逐步 进入 结算 周期 ； 净利 增速 略低 ， 主因 土 增税 大幅 增长 、 继续 计提 减值 损失 、 投资收益 确认 减少 、 折旧 摊销 明显增加 等 扰动 因素 ， 有 真实 的 “ 业务 逻辑 ” ， 也 有 基于 审慎 原则 的 “ 会计 逻辑 ” ， 虽然 二者 权重 难以 区分 ， 但 往后 看 ， 至少 有 两点 可以 确认 ： 一 、 该 “ <S_FA_NETPROFITMARGIN> ” 的 含金量 位于 行业 前列 ， 二 、 面对 经济 和 产业 环境 的 “ 不确定性 ” ， 未来 利润表 的 “ 确定性 ” 在 增强 。 <eos>|||124,125,8
+<eos>|||0,1,8
+事件 ： 公司 发布 <this_year> 年 年报 ， 公司 <this_year> 年 实现 营收 约 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 约 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 实现 扣非 后 归母 净利润 约 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 点评 ： 全年 业绩 符合 预期 ， 盈利 能力 快速 提升 公司 <this_year> 年 归母 净利润 约 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 符合 预期 。 <eos>|||72,73,8
+<eos>|||0,1,8
+[ 事件 ] 公司 发布 <this_year> 年 年报 ， <this_year> 年 全年 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归属于 上市公司 股东 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <this_year> 年 全年 毛利率 为 <S_FA_GROSSPROFITMARGIN> ， 相对 于 <last_year> 年 时 的 <S_FA_GROSSPROFITMARGIN> 略有 上升 ， 而 <this_year> 年 半年报 时 的 毛利率 则 相对 于 <last_year> 年 半年报 出现 下降 ， 可以 判断 <this_year> 年 下半年 毛利率 出现 边际 改善 ( 或 与 产品 结构 中 通讯 业务 占 比 提升 新能源 汽车 业务 占 比 下降 有关 ) 。 <eos>|||95,96,8
+<eos>|||0,1,8
+<this_year> Q1 公司 实现 营业 总收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归属于 上市公司 股东 的 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <this_year> Q1 营业 总收入 同比 增长 <OPER_REV_GROWTH_RATE> ， 我们 预计 实际 订单 同比 增速 高于 报表 收入 确认 ， 主要 是 得益于 疫情 期间 生活 方式 的 改变 ， 挂面 的 短期 需求 放大 较为 明显 。 <this_year> Q1 公司 净利润 同比 大幅 增长 <S_FA_YOYNETPROFIT> ， 主要 得益于 在 挂面 短期 需求 放大 的 背景 下 ， 公司 主动 进行 销售费用 及 货折 政策 的 收缩 ， 产品 结构 相较 于 去年同期 也 有 明显 优化 。 <eos>|||103,104,8
+<eos>|||0,1,8
+在 火腿 产品 全 稳步增长 ， 香肠 特色 肉制品 快速增长 带动 下 ， Q1 业绩 进一步 提速 ， 营收 <OPER_REV> 亿元 同增 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 同增 <S_FA_YOYNETPROFIT> ， 丰富 产品 梯队 ， 盈利 能力 显著 提升 公司 积极 开发 香肠 、 酱肉 、 腊肉 、 咸肉 等 特色 肉制品 及 进口 品牌 肉 ， 创新性 推出 植物 肉 ， 持续 培育 肉 掌门 肉类 交易平台 和 植物 肉 业务 ， 作为 公司 未来 业务 丰富 了 产品 梯队 ， 优化 了 产品 结构 ， 满足 健康 、 绿色 理念 消费 需求 ， 未来 增长 空间 巨大 。 <eos>|||100,101,8
+<eos>|||0,1,8
+<this_year> Q1 收入 / 利润 同增 <OPER_REV_GROWTH_RATE> / <S_FA_YOYNETPROFIT> ， 疫情 下 彰显 极强 的 抗 风险 能力 ， 超 市场 预期 。 <this_year> Q1 收入 / 净利润 同增 <OPER_REV_GROWTH_RATE> / <S_FA_YOYNETPROFIT> ， 超 预期 ， 疫情 下 彰显 极强 的 抗 风险 能力 。 <this_year> Q1 年 公司 实现 营收 <OPER_REV> 亿元 、 同增 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿元 、 同增 <S_FA_YOYNETPROFIT> ， 超 市场 预期 。 <this_year> 年 <name> 采取 以价 为先 的 策略 ， 预计 将 在 批价 稳定 可控 的 基础 上 适度 量 增 ， 叠加 八代 普五 出厂价 提升 带来 的 中 单位 数吨 价 弹性 ， 全年收入 望 实现 双位数 增长 ， 预计 净利润 同增 <OPER_REV_GROWTH_RATE> 左右 。 <eos>|||117,118,8
+<eos>|||0,1,8
+<this_year> 年 Q1 公司 营业 收入 ( <OPER_REV> 亿元 ， + <OPER_REV_GROWTH_RATE> ) 延续 了 <last_year> 年 的 稳定增长 ， 而 归母 净利润 ( <NET_PROFIT> 万元 ， + <S_FA_YOYNETPROFIT> ) 较 <last_year> 年 同期 基本 持平 ， 我们 认为 主要 原因 为 公司 <last_year> 年 新增 的 测控 仿真 及微 系统 业务 、 核工业 及 特殊 环境 智能 装备 系统 业务 的 主要 客户 为 航天 科技 、 航天 科工 及 中核 集团 等 军工 央企 所属 企事业 单位 ， 部分 毛利率 较 高 的 军品 结算 一般 具有 季节性 因素 ， 我们 预计 在 该 部分 产品 四季度 集中 确认 收入 后 ， 公司 <this_year> 年 全年 归母 净利润 将 恢复 稳定增长 。 <eos>|||114,115,8
+<eos>|||0,1,8

@@ -1,0 +1,134 @@
+<this_year> 年 一季度 ， 公司 已 实现 恢复性 增长 ， 综合 毛利率 和 销售 净 利率 分别 为 <S_FA_GROSSPROFITMARGIN> 和 <S_FA_NETPROFITMARGIN> 。
+<this_year> 年 上半年 ， 公司 实现 收入 <OPER_REV> 亿元 ( 同增 <OPER_REV_GROWTH_RATE> ) 、 盈利 <NET_PROFIT> 万元 ( 同比 扭亏为盈 ) 。
+<this_year> 年 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+<this_year> 年 上半年 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+事件 ： 公司 发布 <this_year> 年 半年报 ， 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+<this_year> H1 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归属于 上市公司 股东 的 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+公司 披露 <this_year> 中报 ， 收入 利润 增长 稳健 公司 <this_year> H1 实现 营收 <OPER_REV> 亿元 ( YoY + <OPER_REV_GROWTH_RATE> ) ， 归母 净利润 <NET_PROFIT> 亿元 ( YoY + <S_FA_YOYNETPROFIT> ) 。
+投资 要点 公司 发布 <this_year> 年 年报 ， 实现 营业 收入 <OPER_REV> 亿元 ， yoy30.23% ； 归母 净利润 <NET_PROFIT> 亿 ， yoy47.95% ； 扣非 归母 净利润 为 <S_FA_DEDUCTEDPROFIT> 亿 ， yoy48.53% 。
+新增 门店 放缓 ， 积极 提升 质量 优化 效率 公司 前 三季度 营业 收入 <OPER_REV> 亿 ( + <OPER_REV_GROWTH_RATE> ) ， 增速 较 中报 增加 5pp ， 较 去年底 减少 27pp 。
+公司 <this_year> 年 一季度 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+实现 归属于 上市公司 股东 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+当下 我国 智慧 水务 市场 尚 处于 起步 阶段 ， 市场 格局 较为 分散 ， 业务范围 的 高速 拓展 因而 依赖于 持续 的 销售 渠道 投入 ； 公司 产品 定 位于 中 高端 ， <this_year> 年 整体 毛利率 为 <S_FA_GROSSPROFITMARGIN> ， 高 毛利 的 背后 是 持续 的 技术 研发 投入 。
+事项 ： 公司 公布 <this_year> 年 一季度 报告 ， 实现 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> ； 实现 扣非 后 归母 净利润 <S_FA_DEDUCTEDPROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 平安 观点 ： 受安迪科 并表 影响 ， 公司业绩 维持 高 增长 ： <this_year> Q1 公司 实现 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 维持 高速 增长 ， 主要 受安迪科 并表 影响 。
+核心 观点 公司 <this_year> 营收 + <OPER_REV_GROWTH_RATE> 、 归母 净利润 + <S_FA_YOYNETPROFIT> ， 业绩 处于 预告 中枢 下 沿 ， 基本 符合 我们 预期 。 公司 <this_year> 年 营收 + <OPER_REV_GROWTH_RATE> 、 归母 净利润 + <S_FA_YOYNETPROFIT> ， 业绩 处于 预告 中枢 下 沿 ， 基本 符合 预期 。 公司 <this_year> 年 营收 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> ， 业绩 处于 预告 中枢 下 沿 ， 基本 符合 预期 。
+核心 观点 公司 发布 中 报 ， 上半年 实现 营收 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ； 归母 净利 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> ， 与 业绩 快报 一致 。
+事件 ： 公司 发布 <this_year> 年 一季报 ， 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 业绩 符合 预期 。
+事件 ： 公司 发布 <this_year> 年 半年报 ， 公司 上半年 实现 营收 约 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 约 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+公司 <this_year> 年 实现 净利润 <NET_PROFIT> 亿元 ， 同增 <S_FA_YOYNETPROFIT> 。
+全年 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+产品 毛利率 大幅 提升 ， <this_year> 年 一季度 归母 净利 同比 + <S_FA_YOYNETPROFIT> 。
+<this_year> 年 一季度 净利润 同比 增速 为 <S_FA_YOYNETPROFIT> ， 超 我们 的 预期 。
+产品 结构 优化 + 管理 能力 提升 ， <this_year> H1 毛利率 高达 <S_FA_GROSSPROFITMARGIN> 。
+事项 ： 公司公告 <this_year> Q1 业绩 报告 ， 期内 实现 收入 <OPER_REV> 亿元 ( + <OPER_REV_GROWTH_RATE> ) ； 归母 净利润 <NET_PROFIT> 万元 ( + <S_FA_YOYNETPROFIT> ) ； 扣非 后 归母 净利润 <S_FA_DEDUCTEDPROFIT> 万元 ( + <S_FA_YOYNETPROFIT> ) 。
+大 临床 ( 含 BE ) 增速 有所 放缓 ， 各项 业务 均 继续 保持高速 增长 公司 上半年 营业 收入 <OPER_REV> 亿 ( + <OPER_REV_GROWTH_RATE> ) ， 增速 较 去年同期 下降 9pp ， 较 一季度 基本 持平 。
+事件 ： 公司 发布 <this_year> 年 半年报 ， 报告 期内 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增 <OPER_REV_GROWTH_RATE> ； 归属于 上市公司 股东 的 净利润 为 <NET_PROFIT> 亿元 ， 同比 增 <S_FA_YOYNETPROFIT> 。
+二 、 分析 与 判断 收入 端 ： 营收 <OPER_REV> 亿元 ， 同增 <OPER_REV_GROWTH_RATE> ， 新 业务收入 实现 较 高 增长 公司 <this_year> 年 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> 。
+业绩 维持 高 增长 ， 盈利 能力 稳步 提升 <this_year> 上半年 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+公司 <this_year> 年 实现 营业 收入 <OPER_REV> 亿元 ， 比 去年同期 增长 <OPER_REV_GROWTH_RATE> ； 实现 归属于 上市公司 股东 的 净利润 为 <NET_PROFIT> 亿元 ， 比 去年同期 增长 <S_FA_YOYNETPROFIT> 。
+归母 净利润 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> ， 同比 大幅 增加 ， 主要 原因 是 本期 交付 的 航空 产品 结构 发生变化 及 公司 财务费用 支出 减少 。
+事项 ： <name> 发布 <this_year> 年 年报 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+事件 ： 产品价格 攀升 ， 业绩 大增 公司 发布 <this_year> 年 中报 ， 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+公司 <this_year> H1 实现 归母 净利润 + <S_FA_YOYNETPROFIT> 。 公司 <this_year> H1 实现 收入 + <OPER_REV_GROWTH_RATE> 。
+<this_year> 年 公司 毛利率 <S_FA_GROSSPROFITMARGIN> ， 其中 主业 检测 设备 毛利率 <S_FA_GROSSPROFITMARGIN> ， 均 保持 平稳 。
+<name> 披露 <this_year> 中报 <name> <this_year> 上半年 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+报告 期内 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归属于 上市公司 股东 的 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+公司 实现 归母 净利润 + <S_FA_YOYNETPROFIT> ， 与 行业 基本 持平 ， 业绩 增速 于 大 券商 较为 突出 ( <last_year> 年 基数 较 低 ) 。
+业绩 总结 ： 公司 <this_year> 年 一季度 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+投资 要点 ： 事件 ： 公司 <this_year> Q1 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+事件 ： 公司 发布 <this_year> 年 半年报 ， <this_year> H1 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+核心 观点 <name> 发布 <this_year> 年 三季报 ， 前 三季度 营业 收入 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> 。
+核心 观点 ： 公司 公布 <this_year> 年 一季报 ， 实现 营收 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> 。
+核心 观点 事件 ： <name> 发布 <this_year> 年报 ， 实现 营业 收入 <OPER_REV> 亿 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+公司公告 ， 公司 <this_year> 年 上半年 营业 收入 为 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利润 为 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 公司 <this_year> H1 营业 收入 为 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 主要 是 门店 销售 增长 所致 。 公司 <this_year> H1 归母 净利润 为 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 主要 是 主业 增长 以及 新 网 银行 投资收益 。
+营业 收入 ： 精细化 运营 助 电商 同比 增 <S_FA_EXPENSETOSALES> ， 带动 <this_year> H1 营收 同比 增 <OPER_REV_GROWTH_RATE> 。 <this_year> H1 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 主要 系线 上 渠道 销售 增幅 较大 。 公司 <this_year> H1 归母 净利润 <NET_PROFIT> 亿元 ， 同比增加 <S_FA_YOYNETPROFIT> 。
+公司 前 三季度 实现 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 实现 扣非 后 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+投资 要点 事项 ： 公司 发布 <this_year> 年报 <this_year> 年 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归属 上市公司 股东 净利润 <NET_PROFIT> 亿元 ， 同比 上升 <S_FA_YOYNETPROFIT> 。
+公司 <this_year> H1 归母 净利润 同比 增长 <S_FA_YOYNETPROFIT> ； 单 二季度 同比 增长 <OPER_REV_GROWTH_RATE> 。
+投资 要点 ： <this_year> 年 归母 净利润 <NET_PROFIT> 亿元 ， 同比 大幅 增长 <S_FA_YOYNETPROFIT> 。
+风险管理 业务收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> 。
+公司 <this_year> 年 上半年 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 业绩 符合 预期 。
+事项 ： 公司 发布 三季报 ， 前 三季度 实现 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 万 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+<name> 发布 <this_year> 年 年报 ， 全年 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+<this_year> 年 上半年 ， 公司 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 大幅 增长 <S_FA_YOYNETPROFIT> ， 超过 了 <last_year> 年 公司 全年 的 归母 净利润 。
+报告 摘要 ： 事件 ： 公司 发布 <this_year> 年 半年报 ， 实现 营业 总收入 <OPER_REV> 亿元 ， 同比增加 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+四季度 业绩 爆发 ， <this_year> 业绩 符合 预期 <this_year> 年 全年 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+事件 ： 公司 公布 <this_year> 年 一季报 ， Q1 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> 。 归属于 母公司 所有者 的 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+事件 ： 公司 发布 <this_year> 年 三季报 ， 前 三季度 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+<this_year> 年 ， 为了 维护 MDI 行业 有序 良性 发展 ， 巩固 和 提升 <name> 聚氨酯 行业 竞争 优势 ， 公司 完成 了 对 Chematur Technologies AB100% 股权 和 福建 康乃尔 聚氨酯 有限责任 公司 的 收购 。
+核心 观点 ： 公司 披露 <this_year> 年 中报 ， 归母 净利润 同比 增长 <S_FA_YOYNETPROFIT> 公司 <this_year> H1 实现 营收 <OPER_REV> 亿元 ( YoY + <OPER_REV_GROWTH_RATE> ) ， 归母 净利润 <NET_PROFIT> 万元 ( YoY + <S_FA_YOYNETPROFIT> ) 。
+考虑 <this_year> Q1 受 流感 因素 影响 基数 较 高 ， 我们 估计 公司业绩 内生 增速 在 <S_FA_YOYNETPROFIT> 左右 。
+公司 上半年 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+<this_year> 年 公司业绩 稳健 增长 <this_year> 年 营收 <OPER_REV> 亿元 ， 同比 增长 <S_FA_ADMINEXPENSETOGR> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+公司 发布 <this_year> 年 年报 ， 全年 公司 实现 收入 <OPER_REV> 亿元 ， 同增 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同增 <S_FA_YOYNETPROFIT> 。
+<this_year> 年 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归属于 母公司 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+<this_year> 年 上半年 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+公司 <this_year> 年前 三季度 实现 营收 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> 。
+公司公告 <this_year> 年报 ， 实现 营业 收入 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> 。
+事件 ： 公司 <this_year> 上半年 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+公司 <this_year> Q1 实现 营业 收入 和 归母 净利润 同比 增长 <OPER_REV_GROWTH_RATE> 和 <S_FA_YOYNETPROFIT> ， 业绩 偏 上限 ， 略超 市场 预期 。
+业绩 持续 高 增长 ， 综合 毛利率 略降 ： <this_year> 年 ， 公司 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 主要 原因 是 公司 下游 石油化工 及 工程 机械行业 市场需求 持续 旺盛 ， 公司 订单 饱满 ， 增扩 产能 逐步 释放 ， 带动 营业 收入 及 利润 有 较 大幅度 增加 。
+公司 年报 显示 ， <this_year> 年 公司 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 公司 <this_year> 年 实现 营收 <OPER_REV> 亿元 ( 同增 <OPER_REV_GROWTH_RATE> ) ， 实现 归母 净利 <NET_PROFIT> 亿元 ( 同增 <S_FA_YOYNETPROFIT> ) 。
+公司 一季度 毛利率 在 <last_year> 年 有 较大 增长 的 基础 上 进一步 提升 ， 达到 <S_FA_GROSSPROFITMARGIN> 。
+<this_year> 年 Q4 完成 A股 IPO ， 核心 一级 资本 充足率 季度 环比 提升 35bp 至 <NETPROFITMARGIN_YOY> 。
+事件 ： 公司 发布 <this_year> 年 半年报 ， <this_year> H1 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> ； 实现 扣非 归母 净利润 <S_FA_DEDUCTEDPROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+投资 要点 ： 公司 发布 <this_year> 年报 ， 收入 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 同比 增长 <S_FA_YOYNETPROFIT> 。 公司 <this_year> 全年 实现 销售收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+核心 观点 ： 存量 投运 项目 稳健 增长 ， 上半年 归母 净利润 增长 <S_FA_YOYNETPROFIT> 公司 披露 <this_year> 年 中报 ， 上半年 公司 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+<this_year> 年 实现 归母 净利润 <NET_PROFIT> 亿元 ， 疫情 期间 经营 稳健 <this_year> 年 <name> 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 业绩 符合 此前 预告 。
+平安 观点 ： 公司 三季度 营收 实现 快速增长 ： 根据 公司公告 ， 公司 <this_year> 年前 三季度 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> 。 公司 <this_year> 年前 三季度 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 归母 净利润 持续 平稳 增长 。
+投资 要点 ： 事件 ： 公司 <this_year> 年前 三季度 实现 营业 收入 <OPER_REV> 亿元 ( YOY4.15% ) ， 实现 归母 净利润 <NET_PROFIT> 亿元 ( YOY12.59% ) ， 扣非 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ( YOY20.07% ) 。
+公司 <this_year> 年 营收 <OPER_REV> 亿元 ( + <OPER_REV_GROWTH_RATE> ) ， 净利润 <NET_PROFIT> 亿元 ( + <S_FA_YOYNETPROFIT> ) ， 增长 主要 系新 产品 、 新 市场 拓展 以及 军队 订单 复苏 ， 业绩 符合 预期 。
+盈利 能力 企稳 <name> <this_year> 年 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+投资 要点 ： 第三季度 业绩 符合 预期 ， 预计 <this_year> 年 业绩 增速 超 <S_FA_EXPENSETOSALES> 。
+投资 要点 ： 公司公告 <this_year> 年报 ， 追溯 调整 后归母 净利 增长 <S_FA_YOYNETPROFIT> ， 基本 符合 我们 预期 。
+<name> 披露 <this_year> 年 三季报 <name> <last_year> 年前 三季度 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+<this_year> 年 公司 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <S_FA_GROSSPROFITMARGIN> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+<this_year> H1 ， 公司 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+报告 期内 ， 实现 营业 收入 <OPER_REV> 亿元 ( 同增 <OPER_REV_GROWTH_RATE> ) 、 盈利 <NET_PROFIT> 亿元 ( 同增 <S_FA_YOYNETPROFIT> ) 。
+投资 要点 业绩 总结 ： 公司 <this_year> 年 上半年 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <this_year> H1 公司 收入 和 净利润 增速 分别 为 <OPER_REV_GROWTH_RATE> 和 <S_FA_YOYNETPROFIT> ， 业绩 符合 预期 。
+平安 观点 ： 公司 <this_year> 年 业绩 高速 增长 ： 根据 公司公告 ， 公司 <this_year> 年 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 公司 营收 实现 大幅 增长 。 受益 于 营收 的 大幅 增长 ， 公司 <this_year> 年 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 归母 净利润 亦 实现 大幅 增长 。
+收入 分析 ： 开店 优惠 下展 店 加速 ， 满减 促销 同店 增长 创 历史 次 高 公司 上半年 实现 营收 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ( Q1 ： + <OPER_REV_GROWTH_RATE> ； Q2 ： <OPER_REV_GROWTH_RATE> ) ， 一二 季度 增速 持平 。
+<this_year> H1 收入 / 净利润 分别 同增 <OPER_REV_GROWTH_RATE> / <S_FA_YOYNETPROFIT> ， 收入 超 预期 增长 。 <this_year> H1 公司 实现 收入 <OPER_REV> 亿元 、 同增 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 、 同增 <S_FA_YOYNETPROFIT> ， 扣非 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 、 同增 <S_FA_YOYNETPROFIT> 。
+公司 <this_year> 年 实现 营收 <OPER_REV> 亿元 ( 同增 <OPER_REV_GROWTH_RATE> ) ， 实现 归母 净利 <NET_PROFIT> 亿元 ( 同增 <S_FA_YOYNETPROFIT> ) 。 公司 <this_year> 年 实现 营收 <OPER_REV> 亿元 ( 同增 <OPER_REV_GROWTH_RATE> ) ， 实现 归母 净利 <NET_PROFIT> 亿元 ( 同增 <S_FA_YOYNETPROFIT> ) 。
+实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+<this_year> H1 收入 / 净利润 同增 <OPER_REV_GROWTH_RATE> / <S_FA_YOYNETPROFIT> 。
+<this_year> H1 业绩 增长 稳健 公司 <this_year> H1 实现 营收 <OPER_REV> 亿元 ， 同比 基本 持平 ， 归母 净利润 为 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 业绩 增长 稳健 ， 略超 市场 预期 。
+公司 <this_year> 年 全年 来自 游戏 和 电子商务 领域 客户 收入 增长 较 快 ， 全年 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+<this_year> Q1 公司 实现 营收 <OPER_REV> 亿元 ， 同增 <OPER_REV_GROWTH_RATE> 。 公司 <this_year> 年 一季度 实现 归属于 上市公司 股东 的 净利润 为 <NET_PROFIT> 万元 ， 同增 <S_FA_YOYNETPROFIT> ， 处于 业绩 预告 中上 沿 水平 。
+投资 要点 事项 ： 公司 公布 <this_year> 年 半年报 ， 实现 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 平安 观点 ： 毛利率 提升 及 权益 占 比 上升 带动 业绩 高增 ： 上半年 公司 实现 营业 收入 <OPER_REV> 亿 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+事件 描述 公司 发布 <this_year> 年 年度报告 ， 全年 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归属于 母公司 股东 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ； 实现 归属于 母公司 股东 扣除非 经常性 损益 的 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+归母 净利润 - <S_FA_ADMINEXPENSETOGR> 至 <NET_PROFIT> 亿元 。
+核心 观点 ： 大 客户 战略 显 成效 ： 公司 发布 年报 ， <this_year> 年 实现 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 公司 有效 拓展 了 伯恩 光学 、 立讯精密 、 比亚迪 、 欣旺达 等 大 客户 需求 ， 由 注塑 业务 延伸 至 自动化 类 业务 。
+事件 ： <name> <this_year> 年 半年报 显示 ： <this_year> 年 上半年 ， 实现 营收 <OPER_REV> 亿 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利 <NET_PROFIT> 亿 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 <this_year> 年 上半年 受 贸易 摩擦 、 宏观 经济波动 等 因素 影响 ， 下游 光纤 及 半导体 市场 景气 度 有所 下降 ， 公司 仍 实现 <S_FA_YOYNETPROFIT> 以上 逆势 增长 ， 且 毛净 利率 均 创 历史 新高 ， 盈利 能力 显著 提升 。
+不足之处 ： <this_year> 年 营收 增速 为 <OPER_REV_GROWTH_RATE> ， 较 <last_year> 年 以及 <this_year> 年前 三季度 略有 放缓 ， 预计 主要 受 以下 因素 影响 ： ① <this_year> 年 受到 包商 银行 事件 以及 监管 政策 的 冲击 ， <name> 压降 金融资产 投资规模 ， 总资产 增速 有所 降低 ； ② LPR 利率 下调 带动 <name> 贷款 利率 下行 ， 主要 是 对公 贷款 利率 在 下降 ， 这 也 是 行业 趋势 。
+投资 要点 ： 公司 营收 实现 稳健 增长 ， 新 发射卫星 折旧 等 因素 导致 毛利率 下滑 报告 期内 ， 公司 营业 收入 为 <OPER_REV> 亿元 ( + <OPER_REV_GROWTH_RATE> ) ， 总体 保持 了 稳健 增长 ， 主要 原因 为 公司 境内 收入 保持 了 稳健 增长 ， 同时 高通量 卫星 业务 增加 所致 。
+业绩 大幅 增长 ， 延续 良好 发展趋势 公司 公布 <this_year> 中报 ， 实现 营收 <OPER_REV> 亿元 ， 同比 + <OPER_REV_GROWTH_RATE> ， 归母 净利润 <NET_PROFIT> 亿元 ， 同比 + <S_FA_YOYNETPROFIT> ， 业绩 符合 预期 ， 主要 系 公司 各 业务 发展 延续 良好 趋势 ， 新能源 汽车 、 商业 显示 、 智能 焊机 、 变频 家电 、 轨道交通 、 通信 电源 等 业务 持续 快速增长 。
+<this_year> 年 营收 同比 增 <OPER_REV_GROWTH_RATE> ， 归母 净利润 同比 增 <S_FA_YOYNETPROFIT> 。
+扣非 后 归母 净利润 为 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 增速 为 <S_FA_YOYNETPROFIT> 。
+评论 ： 剔除 民机 并表下 实现 收入 和 利润 小幅 增长 ： 公司 <this_year> 年 营业 收入 和 归母 净利润 分别 增长 <OPER_REV_GROWTH_RATE> 和 <S_FA_YOYNETPROFIT> ， 在 沈飞 民机 和 西飞 民机 不再 合并 报表 的 情况 下均 实现 小幅 增长 。
+事项 ： 公司 公布 <this_year> 年 半年度 报告 ， <this_year> 年 上半年 公司 实现 营收 <OPER_REV> 亿元 ( <OPER_REV_GROWTH_RATE> YoY ) ， 归属 上市公司 股东 净利润 <NET_PROFIT> 亿元 ( <S_FA_YOYNETPROFIT> YoY ) 。 平安 观点 ： Q2 环比 改善 ， 持续 研发 投入 ： 公司 公布 <this_year> 年 半年度 报告 ， <this_year> 年 上半年 公司 实现 营收 <OPER_REV> 亿元 ( <OPER_REV_GROWTH_RATE> YoY ) ， 归属 上市公司 股东 净利润 <NET_PROFIT> 亿元 ( <S_FA_YOYNETPROFIT> YoY ) 。
+事件 ： 公司 发布 <this_year> 年 年报 ， <this_year> 年 归属于 母公司 所有者 的 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ； 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> 。 <this_year> 年 公司 实现 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+公司 <this_year> H1 营收 为 <OPER_REV> 亿元 ( 同比 + <OPER_REV_GROWTH_RATE> ， 下同 ) ， 归母 净利润 为 <NET_PROFIT> 亿元 ( + <S_FA_YOYNETPROFIT> ) ， 业绩 接近 预告 上限 ； 公司 利润 大幅 增长 ， 一方面 得益于 在 风电 行业 装机 回暖 和 海上 风电 加速 崛起 的 情况 下 ， 公司 在手 订单 增加 且 风机 交付 规模 上升 ； 另一方面 是 由于 公司 推进 风电场 滚动 开发 战略 ， 上半年 出售 风电场 股权 产生 较 高 投资收益 。
+<this_year> H1 ， 公司 收入 同增 <OPER_REV_GROWTH_RATE> ， 归母 净利润 同增 <S_FA_YOYNETPROFIT> 。 公司 发布 <this_year> 年 中报 ， <this_year> H1 ， 公司 营收 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归母 净利润 为 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+事件 ： <name> 披露 <this_year> 年 年报 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归属 上市公司 股东 净利润 <NET_PROFIT> 亿 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 实现 扣非 净利润 <S_FA_DEDUCTEDPROFIT> 亿 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+<this_year> 归母 净利润 同比 增长 <S_FA_YOYNETPROFIT> 。
+公司 <this_year> 年 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 主要 得益于 公司 不断 切入 新 产品 并 提高 市场份额 ， 同时 公司 提前 布局 通讯 和 汽车 领域 ， 也 为 未来 的 扩张 打下 了 良好 的 基础 ， 公司 凭借 优异 的 管理 能力 以及 精密 制造 的 能力 不断 创造 良好 的 成绩 ， 产品 以及 技术 服务 也 持续 受到 客户 的 认可 ， 同时 公司 核心 管理层 对于 市场 长期 发展趋势 的 分析判断 较为 准确 ， 公司 经营 获利 能力 也 获得 不断 提升 。
+公司 上半年 实现 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 处于 公司 一季报 业绩 预告 的 上限 ， 这 是 继 海康威视 、 宇视 科技 ( 千方科技 ) 中 报 之后 ， 安防 景气 修复 再 获 验证 信号 。
+事项 ： 公司 发布 <this_year> 年 第一季度 报告 ， 报告 期内 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 报告 期内 ， 公司 生产 经营 有序 推进 ， 未受 疫情 影响 ， 持续保持 满产 状态 ， 叠加 产能 陆续 释放 ， 公司 营收 同比 增长 <OPER_REV_GROWTH_RATE> 至 <OPER_REV> 亿元 。
+本 报告 导读 ： <name> 发布 <this_year> 年 Q1 报告 ， <this_year> 年 Q1 营收 增长 <OPER_REV_GROWTH_RATE> ， 净利润 增长 <S_FA_YOYNETPROFIT> ， 公司业绩 符合 预期 ， 视频会议 行业 繁荣 与 公司 强劲 竞争力 共同 促进 业绩 高速 增长 。 <this_year> 年 Q1 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 业绩 符合 预期 。
+公司 <this_year> 年收入 / 归母 净利润 同比 + <OPER_REV_GROWTH_RATE> / + <S_FA_YOYNETPROFIT> ， 业绩 基本 符合 预期 ， 工程 承包 驱动 业绩 稳增 ， 但 设计 / 制造 / 地产 业务 毛利 下滑 一定 程度 拖累 利润 增长 。 公司 <this_year> 年收入 / 归母 净利润 同比 + <OPER_REV_GROWTH_RATE> / + <S_FA_YOYNETPROFIT> ， 业绩 基本 符合 预期 ， 工程 承包 驱动 业绩 稳增 ， 但 设计 / 制造 / 地产 业务 毛利 下滑 一定 程度 拖累 利润 增长 。
+事件 ： <name> 发布 《 <this_year> 年 第三季度 报告 》 ： <this_year> 年 Q1 - Q3 实现 营收 <OPER_REV> 亿元 ( 同比 + <S_FA_YOYNETPROFIT> ) ， 实现 归母 净利润 <NET_PROFIT> 亿元 ( 同比 + <S_FA_YOYNETPROFIT> ) 。 三季报 业绩 增速 接近 预计 上限 ， 超出 市场 预期 ： <this_year> 年 Q1 - Q3 ， <name> 实现 营收 <OPER_REV> 亿元 ( 同比 + <S_FA_YOYNETPROFIT> ) ， 实现 归母 净利润 <NET_PROFIT> 亿元 ( 同比 + <S_FA_YOYNETPROFIT> ) 。
+报告 导读 <this_year> 年 上半年 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 较 去年同期 下降 <GROSSPROFITMARGIN_YOY> ， 归属于 上市公司 股东 的 净利润 <NET_PROFIT> 亿元 ， 同比 上涨 <S_FA_YOYNETPROFIT> 。 投资 要点 国内外 钢构 业务 营收 下滑 ， 钢圈 业务 稳中有 增 <this_year> 年 上半年 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 较 去年同期 下降 <GROSSPROFITMARGIN_YOY> ， 业务 增速 低于 预期 ， 主要 受中美 贸易 摩擦 及 国内 经济 下行 双重 因素 影响 ， 公司 钢结构 订单 数量 和 规模较 去年同期 下滑 较 多 ， 尤其 是 中美 贸易 摩擦 ， 美国 不仅 对 中国 钢铝 产品 加征 关税 ， 而且 还 对 中国 出口 美国 的 钢结构 产品 提起 反倾销 调查 ， 这 直接 或 间接 导致 了 很多 国家 的 工程项目 被迫 延缓 或 暂停 ， 所以 公司 上半年 承接 海外 钢构 订单 明显 减少 ， 同时 国内 市场竞争 加剧 ， 所以 <this_year> 年 上半年 钢构 业务 订单 及 规模 下滑 较大 。
+公司 近日 公布 <this_year> 年 年报 ， 报告 期内 实现 营业 收入 <OPER_REV> 亿 ， 同增 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿 ， 同增 <S_FA_YOYNETPROFIT> 。 营收 稳健 增长 ， 公路 运营 业务 亏损 拉低 毛利率 <this_year> 年 公司 营业 收入 <OPER_REV> 亿 ， 同增 <OPER_REV_GROWTH_RATE> 。 实现 归母 净利润 <NET_PROFIT> 亿 ， 同增 <S_FA_YOYNETPROFIT> 。
+经营规模 加速 扩张 ， 规模 业绩 持续 稳步 上升 <this_year> 年 上半年 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 、 扣非 后 归母 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ； 同比 增长 <S_FA_YOYNETPROFIT> ， <this_year> 年 上半年 公司 营收端 与 利润 端 双增长 。 销售费用 占 比 下降 ， 整体 盈利 能力 稳定 <this_year> 年 上半年 公司 销售 毛利率 与 销售 净 利率 分别 为 <S_FA_GROSSPROFITMARGIN> 、 <S_FA_NETPROFITMARGIN> ， 同比 <last_year> 年 上半年 均 略有 下降 。
+截至 <this_year> 年 三季度 末 ， 公司 综合 毛利率 为 <S_FA_GROSSPROFITMARGIN> ， 同比 增长 约 1pct ， 在 主动 推动 地产 客户 结构 的 调整 后 ， 大宗 业务 的 盈利 能力 明显 提升 ； 随着 衣柜 收入 规模 不断 提升 ， 衣柜 也 成为 综合 毛利率 提升 的 积极因素 。
+一 、 事件 概述 公司 <this_year> 年 三季报 披露 ， 报告 期内 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 了 主营业务 收入 稳定增长 。 归属于 上市公司 股东 的 净利润 为 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 二 、 分析 与 判断 云 业务 高速 增长 ， 转云 效果显著 公司 三季报 披露 ， 公司 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> 。
+投资 要点 ： 受益 于 军品 订单 批量 交付 ， 公司 归母 净利润 实现 翻番 报告 期内 ， 受到 公司 军品 订单 持续 恢复 ， 公司 新 完成 科研 定型 的 相关 军品 型号 实现 批量 交付 ， 以及 公司 前期 已 定型 相关 军品 型号 批产 任务 恢复 ， 实现 批量 交付 的 双重 影响 ， 公司 营业 收入 ( <OPER_REV> 亿元 ， + <OPER_REV_GROWTH_RATE> ) 实现 快速增长 ， 归母 净利润 ( <NET_PROFIT> 亿元 ， + <S_FA_YOYNETPROFIT> ) 同比 增速 创 公司 上市 以来 新高 。
+一 、 事件 概述 <name> 发布 <this_year> 年报 ， 公司 <this_year> 年 全年 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <S_FA_GROSSPROFITMARGIN> ， 归属于 上市公司 股东 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 二 、 分析 与 判断 业绩 稳步增长 ， 盈利 能力 持续 提升 公司 <this_year> 年 全年 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <S_FA_GROSSPROFITMARGIN> ， 归属于 上市公司 股东 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+事项 ： 公司 发布 <this_year> 年 年度报告 ， 报告 期内 ， 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 实现 归母 净利润 <NET_PROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> ， 归母 扣 非 净利润 <S_FA_DEDUCTEDPROFIT> 亿元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。 报告 期内 ， PERC 电池 产能 扩张 ， 叠加 公司 积极 推进 新 产品 研发 和 技术创新 ， 加速 产品 更新换代 ， 加强 市场 开拓 力度 ， 公司 营业 收入 实现 快速增长 ， 同比 增长 <OPER_REV_GROWTH_RATE> 至 <OPER_REV> 亿元 。
+受益 于 智慧 医疗 业务 的 增长 ， 一季报 营收 增速 加快 公司 一季度 智慧 医疗 业绩 持续增长 ， 业 智能 保持 平稳 发展 ， 实现 营业 总收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ， 显著 快 于 去年 三 四季度 的 增速 ， 实现 归母 净利润 <NET_PROFIT> 万元 ， 同比 增长 <S_FA_YOYNETPROFIT> 。
+事项 ： 公司 公布 <this_year> 年 半年度 报告 ， <this_year> 年 上半年 公司 实现 营收 <OPER_REV> 亿元 ( <OPER_REV_GROWTH_RATE> YoY ) ， 归属 上市公司 股东 净利润 <NET_PROFIT> 亿元 ( <S_FA_YOYNETPROFIT> YoY ) 。 平安 观点 ： 扣非 归母 净利 符合 预期 ， 持续 聚焦 主业 ： 公司 公布 <this_year> 年 半年度 报告 ， <this_year> 年 上半年 公司 实现 营收 <OPER_REV> 亿元 ( <OPER_REV_GROWTH_RATE> YoY ) ， 归属 上市公司 股东 净利润 <NET_PROFIT> 亿元 ( <S_FA_YOYNETPROFIT> YoY ) 。
+<this_year> 年前 三季度 业绩 同比 增长 <S_FA_YOYNETPROFIT> 公司 发布 <this_year> 年 三季报 ， <this_year> 年前 三季度 实现 营业 收入 <OPER_REV> 亿元 ( YoY + <OPER_REV_GROWTH_RATE> ) ， 实现 归母 净利润 <NET_PROFIT> 亿元 ( YoY + <S_FA_YOYNETPROFIT> ) ， 符合 公司 此前 业绩 预告 区间 。 各项 费用 控制 良好 ， 利润 增速 高于 收入 增速 公司 <this_year> 年前 三季度 营业 收入 同比 增幅 为 <OPER_REV_GROWTH_RATE> ， 主要 原因 为 公司 智能 表 、 工商业 智能 流量计 以及 智慧 农业 节 水产品 市场需求 旺盛 ， 报告 期内 上述 产品销售 订单 大幅 增加 。
+报告 导读 事件 ： 公司 <this_year> 年前 三季度 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归属于 上市公司 股东 的 净利润 <NET_PROFIT> 亿元 ， 同比 增 <S_FA_YOYNETPROFIT> 。 投资 要点 光伏 玻璃 量 价齐升 ， 公司 盈利 能力 提升 公司 <this_year> 年前 三季度 实现 营业 收入 <OPER_REV> 亿元 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 归属于 上市公司 股东 的 净利润 <NET_PROFIT> 亿元 ， 同比 增 <S_FA_YOYNETPROFIT> 。
+一季度 营收 同比 增 <OPER_REV_GROWTH_RATE> ， 一季度 净利润 同比 增 <S_FA_YOYNETPROFIT> 公司 发布 <this_year> 年 一季报 ， 一季度 实现 营收 <OPER_REV> 亿 ， 同比 增长 <OPER_REV_GROWTH_RATE> ； 我们 判断 一季度 营收 保持 较 快 增长 的 原因 与 <last_year> 年 一致 ， 定制 衣柜 业务 、 卫浴 和 木门 的 快速 成长 带动 整体 营收 继续 攀升 。
+事件 ： 近日 ， 公司 发布 <this_year> 年 三季报 ， 累计 实现 营收 <OPER_REV> 亿元 ( + <OPER_REV_GROWTH_RATE> ) ； 实现 归母 净利 <NET_PROFIT> 亿元 ( + <S_FA_YOYNETPROFIT> ) 。 报告期 公司 营收 同比 增长 <OPER_REV_GROWTH_RATE> ， 净利 同比 增长 <S_FA_YOYNETPROFIT> ， 营收 高于 净利 增长 主要 为 毛利率 同比 下降 所致 ( 从 <last_year> 前 三季度 的 <OPER_REV_GROWTH_RATE> 降低 至本 报告期 的 <S_FA_GROSSPROFITMARGIN> ) ， 毛利率 的 下降 与 本期 某些 新增 项目 成本 较 高 ， 公司 产品 结构 有所 调整 有关 。
